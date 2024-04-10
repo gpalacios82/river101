@@ -1,4 +1,5 @@
 # CHT - NombreRío
+*[+ Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)*
 
 ## Río NombreRío SX
 
