@@ -1,6 +1,40 @@
 # CHT - Tajo
 *[+ Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)*
 
+## Río Tajo en Peralejos de las Truchas S1 y S2
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Tajo
+* **Sector:** 1 y 2
+* **Dificultad:** G-III(3+)
+* **Estaciónes:**
+    * [AR52 - La Rocha](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
+    * [AR03 - Trillo](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)]
+* **Caudal:** 10-20m3 en La Rocha / 25-45m3 en Trillo
+* **Fuente:** Libro SUP - Embalses y ríos (p 578)
+
+>**Observaciones:**
+*Es un río radicalmente distinto. En verano con un caudal de XXX es un tramo donde se hacen excursiones con niños y kayak auto-vaciables*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|     2   |       2    |   4  |      Alto      |
+
+**Waypoints:**
+* **PID:** [40.649787592295425, -1.9807165108637843](https://maps.app.goo.gl/CtLjpEqyyVF13hSc6)
+* **PSC:** [40.7089710785168, -2.0660792731437905](https://maps.app.goo.gl/ZXxJWzcsDVDtYTmu9)
+
+**Tracks:**
+* [Track Raft](https://connect.garmin.com/modern/course/188402902)
+* [Track Walk](https://connect.garmin.com/modern/course/188400896)
+
+**Historial**
+* [20220819 - 10m3/s](https://connect.garmin.com/modern/activity/9435744089)
+
+
+
 ## Río Tajo en Aranjuez S11
 
 **Datos Generales:**
