@@ -14,7 +14,7 @@
 * **Fuente:** Libro SUP - Embalses y ríos (p 578)
 
 >**Observaciones:**
-*Es un río radicalmente distinto. En verano con un caudal de escasos 10m3 es un tramo donde se hacen excursiones con niños y kayak auto-vaciables*
+*Es un río radicalmente distinto. En verano con un caudal de escasos 25m3 (en Trillo) es un tramo donde se hacen excursiones con niños y kayak auto-vaciables*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
@@ -30,7 +30,7 @@
 * [Track Walk](https://connect.garmin.com/modern/course/188400896)
 
 **Historial**
-* [20220819 - 10m3/s](https://connect.garmin.com/modern/activity/9435744089)
+* [20220819 - 25m3/s (en Trillo)](https://connect.garmin.com/modern/activity/9435744089)
 
 
 
