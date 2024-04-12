@@ -15,7 +15,7 @@
 * **Fuente:** Libro SUP - Embalses y ríos (p 578)
 
 >**Observaciones:**
-*Es un río radicalmente distinto. En verano con un caudal de XXX es un tramo donde se hacen excursiones con niños y kayak auto-vaciables*
+*Es un río radicalmente distinto. En verano con un caudal de escasos 10m3 es un tramo donde se hacen excursiones con niños y kayak auto-vaciables*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
