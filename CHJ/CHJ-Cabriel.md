@@ -8,8 +8,7 @@
 * **Río:** Cabriel
 * **Sector:** Tamayo
 * **Dificultad:** G-III
-* **Estación:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
-* **Caudal:** Todo el año
+* **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 * **Fuente:** N/A
 
 **Waypoints:**
@@ -31,9 +30,7 @@
 * **Río:** Cabriel
 * **Sector:** Tete
 * **Dificultad:** G-I(2)
-* **Estación:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
-* **Caudal:** Todo el año
-* **Fuente:** N/A
+* **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 
 **Waypoints:**
 * **PID:** [39.37732139241995, -1.4302263832818556](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8)
@@ -54,9 +51,7 @@
 * **Río:** Cabriel
 * **Sector:** Tamayo y Tete
 * **Dificultad:** G-III
-* **Estación:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
-* **Caudal:** Todo el año
-* **Fuente:** N/A
+* **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 
 **Waypoints:**
 * **PID:** [39.37144342130963, -1.4496037092791236](https://maps.app.goo.gl/gyorUtGE9u5uP97j6)

@@ -8,10 +8,9 @@
 * **Río:** Tajo
 * **Sector:** 1 y 2
 * **Dificultad:** G-III(3+)
-* **Estaciónes:**
-    * [AR52 - La Rocha](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
-    * [AR03 - Trillo](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
-* **Caudal:** 10-20m3 en La Rocha / 25-45m3 en Trillo
+* **Estaciones y Caudales:**
+    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 578)
 
 >**Observaciones:**
@@ -42,8 +41,7 @@
 * **Río:** Tajo
 * **Sector:** 11
 * **Dificultad:** G-I/II
-* **Estación:** [AR56 - Tajo en Embocador](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR56)
-* **Caudal:** 8-12m3
+* **Estación y Caudal:** [AR56 - Tajo en Embocador: 8-12m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR56)
 * **Fuente:** Libro SUP - Embalses y ríos (p 610)
 
 >**Observaciones:**

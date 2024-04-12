@@ -8,8 +8,7 @@
 * **Río:** NombreRío
 * **Sector:** X
 * **Dificultad:** G-XX(XX)
-* **Estación:** [ARXX - XXX](XXXXX)
-* **Caudal:** xm3
+* **Estación y Caudal:** [ARXX - XXX: xm3](XXXXX)
 * **Fuente:** XXX
 
 >**Observaciones:**

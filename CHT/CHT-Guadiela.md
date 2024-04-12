@@ -8,8 +8,7 @@
 * **Río:** Guadiela
 * **Sector:** 5
 * **Dificultad:** G-I(2)
-* **Estación:** [AR04 - Guadiela en la ruidera](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR04)
-* **Caudal:** 15-20m3 (aceptable desde 10m3)
+* **Estación y Caudal:** [AR04 - Guadiela en la ruidera: 15-20m3 (aceptable desde 10m3)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR04)
 * **Fuente:** Libro SUP - Embalses y ríos (p 462)
 
 >**Observaciones:**

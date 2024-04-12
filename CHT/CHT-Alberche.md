@@ -8,8 +8,7 @@
 * **Río:** Embalse de Picadas (Río Alberche)
 * **Sector:** Picadas
 * **Dificultad:** G-0
-* **Estación:** [E20](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:E_20)
-* **Caudal:** N/A
+* **Estación y Caudal:** [E20](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:E_20)
 * **Fuente:** Libro SUP - Embalses y ríos (p 156)
 
 >**Observaciones:**
