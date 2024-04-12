@@ -16,11 +16,9 @@
 *Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y desde la fecha de edición del libro, la rivera del río ha ido ganando frondosidad. Observé dos puntos intermedios en el río, y además de mucha velocidad (15m3) habia zonas muy estrechas y con muchas ramas. Eso facilita la posibilidad de quedarse enganchado, y se dificulta la posibilidad de evacuación. Totalmente descartado remontar el río. No se puede hacer en solitario*
 
 **Tabla de riesgos**
-| Peligro <br> *(ramas, árboles caidos, zonas de enganche)* | Evacuación <br>*(posibilidad de salidas a mitad de actividad)* | Factor  | Categorización |
+| Peligro <br> *(ramas, árboles caidos, zonas de enganche)* | Evacuación <br>*(posibilidad de salidas a mitad de actividad)* | Suma  | Categorización |
 |---|--|---|---|
 | 2 | 2 | 4 | Alto |
-| *de 0 (sin peligro) a 3 (no hay línea)* | *de 0 (se puede salir en cual quier momento) a 3 (sin salidas / encañonado)* | de 0 a 6 (suma) | 0 Sin riesgo<br>1 Bajo<br>2-3 Medio<br>4-5 Alto<br>6 Crítico |
-
 
 **Waypoints:**
 * **PID:** [40.8705969, -3.4518471](https://maps.app.goo.gl/NYryL6f8RY85Gvvd8)
