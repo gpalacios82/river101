@@ -18,7 +18,7 @@
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
-|     0   |       2    |   2  |      Medio      |
+|     0   |       2    |   2  |      Bajo      |
 
 **Waypoints:**
 * **PID:** [40.0431662, -3.5548072](https://maps.app.goo.gl/XmdJq9Q4n8FmUYTe9)

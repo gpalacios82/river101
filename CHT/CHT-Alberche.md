@@ -12,6 +12,14 @@
 * **Caudal:** N/A
 * **Fuente:** Libro SUP - Embalses y ríos (p 156)
 
+>**Observaciones:**
+*Tiene lo cómodo de un embalse, y lo bonito de un río*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|     0   |       1    |   1  |      Bajo      |
+
 **Waypoints:**
 * **PID/PSC:** [40.36798525173037, -4.304214797326591](https://maps.app.goo.gl/bQ1y4CQ3naBfBZrVA)
 

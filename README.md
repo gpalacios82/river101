@@ -16,7 +16,7 @@
     * *a 3 (sin salidas / encañonado)* 
 * **Categorización:** *(suma de ambos riesgos)*
     * **0** *Sin riesgo*
-    * **1** *Bajo*
-    * **2-3** *Medio*
-    * **4-5** *Alto*
-    * **6** *Crítico*
+    * **1-2** *Bajo*
+    * **3** *Medio*
+    * **4** *Alto*
+    * **5-6** *Crítico*
