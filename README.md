@@ -12,7 +12,7 @@
     * *de 0 (sin peligro)*
     * *a 3 (no hay línea)*
 * **Evacuación:** *(posibilidad de salidas a mitad de actividad)*
-    * *de 0 (se puede salir en cual quier momento)*
+    * *de 0 (se puede salir en cualquier momento)*
     * *a 3 (sin salidas / encañonado)* 
 * **Categorización:** *(suma de ambos riesgos)*
     * **0** *Sin riesgo*

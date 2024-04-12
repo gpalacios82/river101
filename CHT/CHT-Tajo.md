@@ -12,6 +12,14 @@
 * **Caudal:** 8-12m3
 * **Fuente:** Libro SUP - Embalses y ríos (p 610)
 
+>**Observaciones:**
+*La zona del Embocador está imposible de embarcar, hay que hacerlo desde la playa que está más abajo. El primer tramo tiene algo de corriente, pero en general es muy ancho y tranquilo. En el último tramo sí o sí toca palear*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|     0   |       2    |   2  |      Medio      |
+
 **Waypoints:**
 * **PID:** [40.0431662, -3.5548072](https://maps.app.goo.gl/XmdJq9Q4n8FmUYTe9)
 * **PSC:** [40.0405854, -3.6046260](https://maps.app.goo.gl/X2XSDdWAZEU7fe3Z9)
