@@ -12,6 +12,15 @@
 * **Caudal:** 15-20m3 (aceptable desde 10m3)
 * **Fuente:** Libro SUP - Embalses y ríos (p 462)
 
+>**Observaciones:**
+*Hay muchas salidas, pero incluso con 12m3 el río lleva velocidad, los datos del libro son antiguos, y hay mucha maleza y troncos atravesados, lo recategorizaría como G-I/II, se puede hacer en solitario, pero conlleva riesgos. Además, monitoricé tres puntos del río, en uno de ellos encontré troncos. En el resto no, pero son 3 puntos en 10km de descenso*
+
+**Tabla de riesgos**
+| Peligro <br> *(ramas, árboles caidos, zonas de enganche)* | Evacuación <br>*(posibilidad de salidas a mitad de actividad)* | Factor  | Categorización |
+|---|--|---|---|
+| 1 | 2 | 3 | Medio |
+| *de 0 (sin peligro) a 3 (no hay línea)* | *de 0 (se puede salir en cual quier momento) a 3 (sin salidas / encañonado)* | de 0 a 6 (suma) | 0 Sin riesgo<br>1 Bajo<br>2-3 Medio<br>4-5 Alto<br>6 Crítico |
+
 **Waypoints:**
 * **PID:** [40.4202209, -2.4782656](https://maps.app.goo.gl/hmZ1jz2Vd6ABZMcm7)
 * **PSC:** [40.4434349, -2.5698536 ](https://maps.app.goo.gl/h7Yq5GKjxjH8bkABA)
