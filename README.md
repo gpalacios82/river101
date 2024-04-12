@@ -8,9 +8,13 @@
 
 
 ## Leyenda de Análisis de Riesgos
-* **Peligro:** *de 0 (sin peligro) a 3 (no hay línea)*
-* **Evacuación** *de 0 (se puede salir en cual quier momento) a 3 (sin salidas / encañonado)* 
-* **Suma y Categorización**
+* **Peligro:** *(ramas, árboles caidos, zonas de enganche)*
+    * *de 0 (sin peligro)*
+    * *a 3 (no hay línea)*
+* **Evacuación:** *(posibilidad de salidas a mitad de actividad)*
+    * *de 0 (se puede salir en cual quier momento)*
+    * *a 3 (sin salidas / encañonado)* 
+* **Categorización:** *(suma de ambos riesgos)*
     * **0** *Sin riesgo*
     * **1** *Bajo*
     * **2-3** *Medio*
