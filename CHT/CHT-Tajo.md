@@ -10,7 +10,7 @@
 * **Dificultad:** G-III(3+)
 * **Estaciónes:**
     * [AR52 - La Rocha](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
-    * [AR03 - Trillo](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)]
+    * [AR03 - Trillo](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Caudal:** 10-20m3 en La Rocha / 25-45m3 en Trillo
 * **Fuente:** Libro SUP - Embalses y ríos (p 578)
 
