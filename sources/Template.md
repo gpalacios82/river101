@@ -16,9 +16,9 @@
 *Loren Ipsun*
 
 **Tabla de riesgos**
-| Peligro <br> *(ramas, árboles caidos, zonas de enganche)* | Evacuación <br>*(posibilidad de salidas a mitad de actividad)* | Suma  | Categorización |
-|---|--|---|---|
-| xxx | xxx | xxx | Pendiente |
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    x    |     x      |   x  |   Pendiente    |
 
 **Waypoints:**
 * **PID:** [XXXXX](XXXX)
