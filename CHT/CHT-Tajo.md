@@ -65,6 +65,36 @@
 * N/A
 
 
+## Río Tajo S9
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Tajo
+* **Sector:** 9
+* **Dificultad:** G-I(3)
+* **Estación y Caudal:** [AR08 - Tajo en Almoguera: Todo el año, recomendable 10-22m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR08)
+* **Fuente:** Libro SUP - Embalses y ríos (p 606)
+
+>**Observaciones:**
+*Nada más empezar hay un paso 3, se puede ver y observar desde el emmbarque y así evaluar riesgos e incluso evitarle. A 500m está la ola de Almoguera, que entre 15 y 20m3 se forma. Por debajo y por encima, no se llega a formar la ola. Se puede evitar por ambos márgenes. El resto sucede sin problemas, es clase I*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    1    |     1      |   2  |   Bajo    |
+
+**Waypoints:**
+* **PID:** [40.265445, -2.967324](https://maps.app.goo.gl/42WFqvDiRspDeJGP8)
+* **PSC:** [40.207728, -2.999645](https://maps.app.goo.gl/sKgPSA1KogRraM4FA)
+
+**Tracks:**
+* [Track Raft](https://connect.garmin.com/modern/course/260875268)
+* [Track Walk](https://connect.garmin.com/modern/course/260870419)
+
+**Historial**
+* N/A
+
+
 ## Río Tajo en Aranjuez S11
 
 **Datos Generales:**
