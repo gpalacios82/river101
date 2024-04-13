@@ -33,6 +33,37 @@
 * [20220819 - 25m3/s (en Trillo)](https://connect.garmin.com/modern/activity/9435744089)
 
 
+## Río Tajo S7
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Tajo
+* **Sector:** 7
+* **Dificultad:** G-I/II
+* **Estaciones y Caudales:**
+    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+* **Fuente:** Libro SUP - Embalses y ríos (p 600)
+
+>**Observaciones:**
+*Loren Ipsun*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    x    |     x      |   x  |   Pendiente    |
+
+**Waypoints:**
+* **PID:** [40.6910908697471, -2.6106828586780235](https://maps.app.goo.gl/43XQDMtKVYR85QUEA)
+* **PSC:** [40.66765257963737, -2.6686732441267274](https://maps.app.goo.gl/43XQDMtKVYR85QUEA)
+
+**Tracks:**
+* [Track Raft - Pendiente]()
+* [Track Walk](https://connect.garmin.com/modern/course/260863842)
+
+**Historial**
+* N/A
+
 
 ## Río Tajo en Aranjuez S11
 
