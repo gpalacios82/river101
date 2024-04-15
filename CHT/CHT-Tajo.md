@@ -92,7 +92,7 @@
 * [Track Walk](https://connect.garmin.com/modern/course/260870419)
 
 **Historial**
-* N/A
+* [20240414 - 10,5m3/s](https://connect.garmin.com/modern/activity/14893553432/3)
 
 
 ## Río Tajo en Aranjuez S11
@@ -123,3 +123,6 @@
 
 **Historial**
 * [20221009 - 7,71m3/s](https://connect.garmin.com/modern/activity/9756696416)
+
+>**Aviso importante**
+*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
