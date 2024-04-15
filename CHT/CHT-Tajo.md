@@ -1,6 +1,22 @@
 # CHT - Tajo
 *[+ Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)*
 
+## Secciones del río
+
+
+| Sector | Código | Situación |
+|--------|--------|-----------|
+| Pendiente | C1301 | Desde 100 m aguas abajo de la Presa de Entrepeñas hasta límite de los TT. MM. de Auñón y Anguix (cola del Embalse de Bolarque). |
+| Pendiente | C1302 | Desde desembocadura del Arroyo de las Lanchas, T.M. de Polán (Toledo) hasta Talavera de la Reina, excepto tramos de Centrales Montearagón y Palomarejo. |
+| Pendiente | C1303 | Desde T.M. de Puente del Arzobispo hasta desembocadura del Arroyo Pizarroso (cola Embalse de Valdecañas) |
+| Pendiente | C1304 | Tramo en la ciudad de Toledo, 100 m aguas abajo de la Presa de Safont, hasta Palacio Galiana. |
+| Pendiente | C1305 | Tramo de dieciséis kilómetros, comprendido entre el puente viejo del T.M. de Puente del Arzobispo (Toledo) y cola del Embalse de Valdecañas (Cáceres), desde el 1 de junio al 31 de enero de cada año. |
+| S1-S6 | C1306 | Tramo comprendido entre Peralejo de las Truchas hasta T.M. Trillo (excepto tramo que empieza en el Embalse de La Chorrera y termina 100 m aguas abajo de su presa. |
+| Pendiente | C1307 | Tramo a partir de 100 m aguas abajo de la toma de la Central Nuclear de Trillo, hasta la desembocadura del cauce Barranco Grande |
+| Pendiente | C1308 | Desde 100 m aguas abajo de la Presa de Almoguera hasta 100 m aguas arriba de la Presa de Estremera. |
+| Pendiente | C1309 | Desde 100 m aguas abajo de la Presa del Embocador hasta la estación de piragüismo de Aranjuez (Frente al Palacio Real). |
+| Pendiente | C1310 | Desde 100 m aguas abajo de la Presa de Zorita hasta la cola del Embalse de Almoguera. |
+
 ## Río Tajo en Peralejos de las Truchas S1 y S2
 
 **Datos Generales:**
@@ -54,7 +70,7 @@
 |    x    |     x      |   x  |   Pendiente    |
 
 **Waypoints:**
-* **PID:** [40.6910908697471, -2.6106828586780235](https://maps.app.goo.gl/43XQDMtKVYR85QUEA)
+* **PID:** [40.6910908697471, -2.6106828586780235](https://maps.app.goo.gl/X3GGjtTS8nwsBnjN9)
 * **PSC:** [40.66765257963737, -2.6686732441267274](https://maps.app.goo.gl/43XQDMtKVYR85QUEA)
 
 **Tracks:**
