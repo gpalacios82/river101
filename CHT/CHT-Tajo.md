@@ -76,7 +76,7 @@
 * **Fuente:** Libro SUP - Embalses y ríos (p 606)
 
 >**Observaciones:**
-*Nada más empezar hay un paso 3, se puede ver y observar desde el emmbarque y así evaluar riesgos e incluso evitarle. A 500m está la ola de Almoguera, que entre 15 y 20m3 se forma. Por debajo y por encima, no se llega a formar la ola. Se puede evitar por ambos márgenes. El resto sucede sin problemas, es clase I*
+*Nada más empezar hay un paso 3, se puede ver y observar desde el emmbarque y así evaluar riesgos e incluso evitarle. A 500m está la ola de Almoguera, que entre 10 y 20m3 se forma. Por debajo y por encima, no se llega a formar la ola. Se puede evitar por ambos márgenes. El resto sucede sin problemas, es clase I*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
