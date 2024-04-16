@@ -1,7 +1,15 @@
 # CHT - Tajo
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
-## Río Tajo en Peralejos de las Truchas S1 y S2 :heavy_check_mark:
+## Índice
+* [S1 y S2 - Río Tajo en Peralejos de las Truchas :heavy_check_mark:](./CHT-Tajo.md#río-tajo-en-peralejos-de-las-truchas-s1-y-s2)
+* [S6 - Río Tajo en Puente de Murel](./CHT-Tajo.md#río-tajo-en-puente-de-murel-s6)
+* [S7 - Río Tajo en CN Trillo](./CHT-Tajo.md#río-tajo-en-cn-trillo-s7)
+* [S8 - Río Tajo en CN José Cabrera-Zorita](./CHT-Tajo.md#río-tajo-en-cn-josé-cabrera-zorita-s8)
+* [S9 - Río Tajo en Almoguera :heavy_check_mark:](./CHT-Tajo.md#río-tajo-en-almoguera-s9)
+* [S11 - Río Tajo en Aranjuez :heavy_check_mark:](./CHT-Tajo.md#río-tajo-en-aranjuez-s11)
+
+## Río Tajo en Peralejos de las Truchas S1 y S2
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -137,7 +145,7 @@
 **Historial**
 * N/A
 
-## Río Tajo en Almoguera S9 :heavy_check_mark:
+## Río Tajo en Almoguera S9
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -168,7 +176,7 @@
 * [20240414 - 10,5m3/s](https://connect.garmin.com/modern/activity/14893553432/3)
 
 
-## Río Tajo en Aranjuez S11 :heavy_check_mark:
+## Río Tajo en Aranjuez S11
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -198,5 +206,6 @@
 **Historial**
 * [20221009 - 7,71m3/s](https://connect.garmin.com/modern/activity/9756696416)
 
->**Aviso importante**
-*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
+## Aviso importante
+
+>*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
