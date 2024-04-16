@@ -1,5 +1,5 @@
 # CHT - NombreRío
-:earth_americas: *[Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)* :earth_americas:
+[:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Río NombreRío SX :heavy_check_mark:
 

@@ -1,5 +1,5 @@
 # CHT - Tajo
-:earth_americas: *[Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)* :earth_americas:
+[:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Río Tajo en Peralejos de las Truchas S1 y S2 :heavy_check_mark:
 
