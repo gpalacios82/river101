@@ -67,5 +67,35 @@
 * N/A
 
 
+## Río Jarama PR Sureste
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Jarama
+* **Sector:** PR Sureste
+* **Dificultad:** G-II(2+)
+* **Estación y Caudal:** [AR18 - Manzanares, Rivas Vaciamadrid)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR18)
+* **Fuente:** [Wikiloc - Cejus](https://es.wikiloc.com/rutas-kayac/kayak-lineal-rio-jarama-70996155)
+* **Tiempo total (aprox):** 6:30
+
+>**Observaciones:**
+*Mucha vegetación en los laterales, con bastante mal olor. Un par de pasos un poco más delicados, el resto muy asequibles*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    1    |     2      |   3  |   Medio    |
+
+**Waypoints:**
+* **PID :arrow_lower_right::** [40.419854,-3.501089](https://maps.app.goo.gl/9v4pMTBDjEME6vmm8) :car: [Waze a PID](https://waze.com/?ll=40.419854,-3.501089&navigate=yes)
+* **PSC :arrow_upper_right::** [40.334706,-3.470097](https://maps.app.goo.gl/W6uDAxGPCmXoV9u96) :car: [Waze a PSC](https://waze.com/?ll=40.334706,-3.470097&navigate=yes)
+
+**Tracks:**
+* [Track Raft - 15 Km](https://connect.garmin.com/modern/course/261825044)
+* [Track Walk - 12 Km](https://connect.garmin.com/modern/course/261825165)
+
+**Historial**
+* [aaaammdd - XXm3/s](XXX)
+
 ## Aviso importante
 >*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
