@@ -41,7 +41,7 @@ Longitud Exterior: 360 cm
 
 [Link](https://www.packrafting-store.de/mrs-barracuda-r2_1)
 
-## Accesorioas
+## Accesorios
 
 ### Pala TNP Rapa + Funda | 4 partes + Bolsa | 210mm
 
