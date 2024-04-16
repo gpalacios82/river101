@@ -20,8 +20,8 @@
 |    x    |     x      |   x  |   Pendiente    |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [XXXXX](XXXX) [Waze a PID](waze://?ll=LATITUD,LONGITUD&navigate=yes)
-* **PSC :arrow_upper_right::** [XXXXX](XXXX) [Waze a PSC](waze://?ll=LATITUD,LONGITUD&navigate=yes)
+* **PID :arrow_lower_right::** [XXXXX](XXXX) [Waze a PID](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
+* **PSC :arrow_upper_right::** [XXXXX](XXXX) [Waze a PSC](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 
 **Tracks:**
 * [Track Raft - xx Km](XXX)
