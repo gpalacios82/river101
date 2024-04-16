@@ -1,7 +1,7 @@
 # River 101 - Próximo Objetivo
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
-## Río Tajo S6 en Puente de Murel
+## Río Tajo en Puente de Murel S6
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -12,6 +12,7 @@
     * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 598)
+* **Tiempo total (aprox):** 9:00
 
 >**Observaciones:**
 *Los primeros kms hasta la presa discurren con algunos tramos de aguas rápidas de clase II. Ojo en la presa, que hay que sortearla por la izquierda*
