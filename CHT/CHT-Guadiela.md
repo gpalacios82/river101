@@ -1,7 +1,7 @@
 # CHT - Guadiela
 *[+ Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)*
 
-## Río Guadiela S5
+## Río Guadiela en Villar del Infantado S5
 
 **Datos Generales:**
 * **Cuenca:** CHT

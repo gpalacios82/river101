@@ -17,7 +17,7 @@
 | Pendiente | C1309 | Desde 100 m aguas abajo de la Presa del Embocador hasta la estación de piragüismo de Aranjuez (Frente al Palacio Real). |
 | Pendiente | C1310 | Desde 100 m aguas abajo de la Presa de Zorita hasta la cola del Embalse de Almoguera. |
 
-## Río Tajo en Peralejos de las Truchas S1 y S2
+## Río Tajo en Peralejos de las Truchas S1 y S2 :heavy_check_mark:
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -49,7 +49,7 @@
 * [20220819 - 25m3/s (en Trillo)](https://connect.garmin.com/modern/activity/9435744089)
 
 
-## Río Tajo S7
+## Río Tajo en CN Trillo S7
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -81,7 +81,7 @@
 * N/A
 
 
-## Río Tajo S9
+## Río Tajo en Almoguera S9 :heavy_check_mark:
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -111,7 +111,7 @@
 * [20240414 - 10,5m3/s](https://connect.garmin.com/modern/activity/14893553432/3)
 
 
-## Río Tajo en Aranjuez S11
+## Río Tajo en Aranjuez S11 :heavy_check_mark:
 
 **Datos Generales:**
 * **Cuenca:** CHT
