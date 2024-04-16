@@ -9,7 +9,7 @@
 * **Cuenca:** CHJ
 * **Río:** Cabriel
 * **Sector:** Tamayo y Tete
-* **Dificultad:** G-III
+* **Dificultad:** G-II(3)
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 * **Fuente:** [Topología del Cabriel en Youtube](https://www.youtube.com/watch?v=e7pmjRh3XRc)
 * **Tiempo total (aprox):** 7:30
@@ -31,7 +31,7 @@
 * **Cuenca:** CHJ
 * **Río:** Cabriel
 * **Sector:** Tamayo
-* **Dificultad:** G-III
+* **Dificultad:** G-II(3)
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 * **Fuente:** [Topología del Cabriel en Youtube](https://www.youtube.com/watch?v=e7pmjRh3XRc)
 * **Tiempo total (aprox):** 7:00
