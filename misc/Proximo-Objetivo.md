@@ -33,10 +33,10 @@
 **Tiempos aproximados**
 |         Tramo        | Hora Inicio | Duración | Hora Fin |
 |----------------------|-------------|----------|----------|
-| Coche de Casa a PSC  |    7:00     |  1:30    |   8:30   |
-| Walk de PSC a PID    |    9:00     |  2:00    |   11:00  |
-| Raft de PID a PSC    |    11:30    |  3:30    |   15:00  |
-| Vuelta de PSC a Casa |    15:30    |  1:30    |   17:00  |
+| Coche de Casa a PSC  |     6:00    |  1:30    |    7:30  |
+| Walk de PSC a PID    |     7:30    |  2:00    |    9:30  |
+| Raft de PID a PSC    |     9:45    |  3:30    |   13:15  |
+| Vuelta de PSC a Casa |    13:30    |  1:30    |   15:00  |
 
 
 >**Aviso importante**
