@@ -11,10 +11,15 @@ El Barracuda R2 Pro es para trabajar en equipo. Sobresale en todo lo que sea con
 * Remo recreativo
 * Pesca y caza
 
+Flotabilidad: 300 kg
+Peso Barco: 5160g
+Longitud Exterior: 360cm
+
+2.199,00 € incl. 19% IVA
+
 [Link](https://www.packrafting-store.de/mrs-barracuda-r2-pro_3)
 
 ### MRS Barracuda R2
-[Link](https://www.packrafting-store.de/mrs-barracuda-r2_1)
 El Barracuda R2 es un packraft tándem con diseño de casco de alto rendimiento que proporciona más velocidad y espacio extra, apreciado por los remeros viajeros y packrafters con preferencia por el rendimiento en el agua. ¡También con Sistema de Almacenamiento Interno (ISS) disponible!
 
 El Barracuda R2 es para parejas y socios. Sobresale en cualquier cosa para conseguir resultados divertidos a dos:
@@ -27,3 +32,11 @@ Pesca y caza
 El estilo sólo lo marca uno mismo, ya sean exploraciones relajadas u objetivos ambiciosos.
 
 La embarcación se puede utilizar tanto en lagos como en ríos, aguas bravas fáciles y bahías oceánicas resguardadas, pero importa un buen trabajo en equipo y una acción razonable en aguas en movimiento. La posibilidad de transporte en aviones, autocaravanas, trenes y autobuses la convierten en una embarcación de viaje perfecta.
+
+Flotabilidad: 300 kg
+Peso Barco: 4260g
+Longitud Exterior: 360 cm
+
+1.409,00 € incl. 19% IVA
+
+[Link](https://www.packrafting-store.de/mrs-barracuda-r2_1)
