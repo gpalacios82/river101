@@ -69,7 +69,7 @@
 |    x    |     x      |   x  |   Pendiente    |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.703229,-2.495974](https://maps.app.goo.gl/LE5Z6B4XNwJierMa9) [Waze a PID](waze://?ll=40.703229,-2.495974&navigate=yes)
+* **PID :arrow_lower_right::** [40.703229,-2.495974](https://maps.app.goo.gl/LE5Z6B4XNwJierMa9) <a href="waze://?ll=40.703229,-2.495974&navigate=yes">Waze a PID</a>
 * **PSC :arrow_upper_right::** [40.696245,-2.601157](https://maps.app.goo.gl/7GL16EeyVju95tyK9) [Waze a PSC](waze://?ll=40.696245,-2.601157&navigate=yes)
 
 **Tracks:**
