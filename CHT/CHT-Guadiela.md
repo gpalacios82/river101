@@ -14,7 +14,7 @@
 >**Observaciones:**
 *Hay muchas salidas, pero incluso con 12m3 el río lleva velocidad, los datos del libro son antiguos, y hay mucha maleza y troncos atravesados, lo recategorizaría como G-I/II, se puede hacer en solitario, pero conlleva riesgos. Además, monitoricé tres puntos del río, en uno de ellos encontré troncos. En el resto no, pero son 3 puntos en 10km de descenso*
 
-**Tabla de riesgos**
+**:exclamation: Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
 |    1    |      2     |  3   |      Medio     |
