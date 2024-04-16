@@ -2,7 +2,7 @@
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Índice
-* [Río Alberche en el Embalse de Picadas :heavy_check_mark:](./CHT-Alberche.md#río-alberche-en-el-embalse-de-picadas)
+* [Río Alberche en el Embalse de Picadas](./CHT-Alberche.md#río-alberche-en-el-embalse-de-picadas) :heavy_check_mark:
 
 ## Río Alberche en el Embalse de Picadas
 
