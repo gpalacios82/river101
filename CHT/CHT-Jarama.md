@@ -3,6 +3,7 @@
 
 ## Índice
 * [S6 - Río Jarama en Uceda](./CHT-Jarama.md#río-jarama-en-uceda-s6)
+* [S9 - Río Jarama de Valdetorres a Santo Domingo](./CHT-Jarama.md#río-jarama-de-valdetorres-a-santo-domingo-s9)
 
 ## Río Jarama en Uceda S6
 
@@ -33,6 +34,38 @@
 
 **Historial**
 * N/A
+
+
+## Río Jarama de Valdetorres a Santo Domingo S9
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Jarama
+* **Sector:** 9
+* **Dificultad:** G-II
+* **Estación y Caudal:** [AR16 - Jarama en Valdepeñas: 10-18m3 (altura entre 0,6-1,2m máx 2m)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR16)
+* **Fuente:** Libro SUP - Embalses y ríos (p 498)
+* **Tiempo total (aprox):** 6:00
+
+>**Observaciones:**
+*Loren Ipsun*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    x    |     x      |   x  |   Pendiente    |
+
+**Waypoints:**
+* **PID :arrow_lower_right::** [40.701647,-3.536752](https://maps.app.goo.gl/5Q71SzBuRXM7xdH76) :car: [Waze a PID](https://waze.com/?ll=40.701647,-3.536752&navigate=yes)
+* **PSC :arrow_upper_right::** [40.637167,-3.561681](https://maps.app.goo.gl/nW6hDeiUTeWGyfxz8) :car: [Waze a PSC](https://waze.com/?ll=40.637167,-3.561681&navigate=yes)
+
+**Tracks:**
+* [Track Raft - 9,5 Km](https://connect.garmin.com/modern/course/261821481)
+* [Track Walk - 9 Km](https://connect.garmin.com/modern/course/261820407)
+
+**Historial**
+* N/A
+
 
 ## Aviso importante
 >*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
