@@ -12,8 +12,8 @@
 * **Fuente:** N/A
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [39.37144342130963,-1.4496037092791236](https://maps.app.goo.gl/gyorUtGE9u5uP97j6)
-* **PSC :arrow_upper_right::** [39.37732139241995,-1.4302263832818556](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8)
+* **PID :arrow_lower_right::** [39.371443,-1.449603](https://maps.app.goo.gl/gyorUtGE9u5uP97j6) :car: [Waze a PID](https://waze.com/?ll=39.371443,-1.449603&navigate=yes)
+* **PSC :arrow_upper_right::** [39.377321,-1.430226](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8) :car: [Waze a PSC](https://waze.com/?ll=39.377321,-1.430226&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 7 Km](https://connect.garmin.com/modern/course/125878441)
@@ -33,8 +33,8 @@
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [39.37732139241995,-1.4302263832818556](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8)
-* **PSC :arrow_upper_right::** [39.37919888874519,-1.4253023949120833](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9)
+* **PID :arrow_lower_right::** [39.377321,-1.430226](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8) :car: [Waze a PID](https://waze.com/?ll=39.377321,-1.430226&navigate=yes)
+* **PSC :arrow_upper_right::** [39.379198,-1.425302](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9) :car: [Waze a PSC](https://waze.com/?ll=39.379198,-1.425302&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 5 Km](https://connect.garmin.com/modern/course/127110253)
@@ -54,8 +54,8 @@
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [39.37144342130963,-1.4496037092791236](https://maps.app.goo.gl/gyorUtGE9u5uP97j6)
-* **PSC :arrow_upper_right::** [39.37919888874519,-1.4253023949120833](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9)
+* **PID :arrow_lower_right::** [39.371443,-1.449603](https://maps.app.goo.gl/gyorUtGE9u5uP97j6) :car: [Waze a PID](https://waze.com/?ll=39.371443,-1.449603&navigate=yes)
+* **PSC :arrow_upper_right::** [39.379198,-1.425302](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9) :car: [Waze a PSC](https://waze.com/?ll=39.379198,-1.425302&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 9 Km](https://connect.garmin.com/modern/course/187820557)

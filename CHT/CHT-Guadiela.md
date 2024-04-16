@@ -20,8 +20,8 @@
 |    1    |      2     |  3   |      Medio     |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.4202209,-2.4782656](https://maps.app.goo.gl/hmZ1jz2Vd6ABZMcm7)
-* **PSC :arrow_upper_right::** [40.4434349,-2.5698536 ](https://maps.app.goo.gl/h7Yq5GKjxjH8bkABA)
+* **PID :arrow_lower_right::** [40.4202209,-2.4782656](https://maps.app.goo.gl/hmZ1jz2Vd6ABZMcm7) :car: [Waze a PID](https://waze.com/?ll=40.4202209,-2.4782656&navigate=yes)
+* **PSC :arrow_upper_right::** [40.4434349,-2.5698536](https://maps.app.goo.gl/h7Yq5GKjxjH8bkABA) :car: [Waze a PSC](https://waze.com/?ll=40.4434349,-2.5698536&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 10 Km](https://connect.garmin.com/modern/course/141419120)

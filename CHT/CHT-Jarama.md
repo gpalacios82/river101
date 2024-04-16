@@ -20,8 +20,8 @@
 |     2   |       2    |   4  |      Alto      |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.8705969,-3.4518471](https://maps.app.goo.gl/NYryL6f8RY85Gvvd8)
-* **PSC :arrow_upper_right::** [40.8448698,-3.4706558](https://maps.app.goo.gl/ExHsKKNre9HN4KVS6)
+* **PID :arrow_lower_right::** [40.8705969,-3.4518471](https://maps.app.goo.gl/NYryL6f8RY85Gvvd8) :car: [Waze a PID](https://waze.com/?ll=40.8705969,-3.4518471&navigate=yes)
+* **PSC :arrow_upper_right::** [40.8448698,-3.4706558](https://maps.app.goo.gl/ExHsKKNre9HN4KVS6) :car: [Waze a PSC](https://waze.com/?ll=40.8448698,-3.4706558&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 5,5 Km](https://connect.garmin.com/modern/course/192904137)
