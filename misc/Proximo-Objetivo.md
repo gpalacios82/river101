@@ -1,4 +1,4 @@
-# River 101
+# River 101 - Próximo Objetivo
 *[+ Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)*
 
 ## Río Tajo S6 en Puente de Murel
@@ -30,8 +30,14 @@
 * [Track Raft - 14 Km](https://connect.garmin.com/modern/course/261693999)
 * [Track Walk - 12 Km](https://connect.garmin.com/modern/course/261693206)
 
-**Historial**
-* N/A
+**Tiempos aproximados**
+|         Tramo        | Hora Inicio | Duración | Hora Fin |
+|----------------------|-------------|----------|----------|
+| Coche de Casa a PSC  |    7:00     |  1:30    |   8:30   |
+| Walk de PSC a PID    |    9:00     |  2:00    |   11:00  |
+| Raft de PID a PSC    |    11:30    |  3:30    |   15:00  |
+| Vuelta de PSC a Casa |    15:30    |  1:30    |   17:00  |
+
 
 >**Aviso importante**
 *La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
