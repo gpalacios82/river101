@@ -71,7 +71,7 @@
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [40.6910908697471, -2.6106828586780235](https://maps.app.goo.gl/X3GGjtTS8nwsBnjN9)
-* **PSC :arrow_upper_right::** [40.66765257963737, -2.6686732441267274](https://maps.app.goo.gl/43XQDMtKVYR85QUEA)
+* **PSC :arrow_upper_right::** [40.66765257963737, -2.6686732441267274](https://maps.app.goo.gl/i3drB8qapuY7XHKv7)
 
 **Tracks:**
 * [Track Raft - Pendiente]()
