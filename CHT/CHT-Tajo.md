@@ -38,8 +38,8 @@
 |     2   |       2    |   4  |      Alto      |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.649787592295425, -1.9807165108637843](https://maps.app.goo.gl/CtLjpEqyyVF13hSc6)
-* **PSC :arrow_upper_right::** [40.7089710785168, -2.0660792731437905](https://maps.app.goo.gl/ZXxJWzcsDVDtYTmu9)
+* **PID :arrow_lower_right::** [40.649787592295425,-1.9807165108637843](https://maps.app.goo.gl/CtLjpEqyyVF13hSc6)
+* **PSC :arrow_upper_right::** [40.7089710785168,-2.0660792731437905](https://maps.app.goo.gl/ZXxJWzcsDVDtYTmu9)
 
 **Tracks:**
 * [Track Raft - 14 Km](https://connect.garmin.com/modern/course/188402902)
@@ -69,8 +69,8 @@
 |    x    |     x      |   x  |   Pendiente    |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.703229, -2.495974](https://maps.app.goo.gl/LE5Z6B4XNwJierMa9)
-* **PSC :arrow_upper_right::** [40.696245, -2.601157](https://maps.app.goo.gl/7GL16EeyVju95tyK9)
+* **PID :arrow_lower_right::** [40.703229,-2.495974](https://maps.app.goo.gl/LE5Z6B4XNwJierMa9) [Waze a PID](waze://?ll=40.703229,-2.495974&navigate=yes)
+* **PSC :arrow_upper_right::** [40.696245,-2.601157](https://maps.app.goo.gl/7GL16EeyVju95tyK9) [Waze a PSC](waze://?ll=40.696245,-2.601157&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 14 Km](https://connect.garmin.com/modern/course/261693999)
@@ -100,8 +100,8 @@
 |    0    |     3      |   3  |   Medio    |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.6910908697471, -2.6106828586780235](https://maps.app.goo.gl/X3GGjtTS8nwsBnjN9)
-* **PSC :arrow_upper_right::** [40.66765257963737, -2.6686732441267274](https://maps.app.goo.gl/i3drB8qapuY7XHKv7)
+* **PID :arrow_lower_right::** [40.6910908697471,-2.6106828586780235](https://maps.app.goo.gl/X3GGjtTS8nwsBnjN9)
+* **PSC :arrow_upper_right::** [40.66765257963737,-2.6686732441267274](https://maps.app.goo.gl/i3drB8qapuY7XHKv7)
 
 **Tracks:**
 * [Track Raft - 21 Km](https://connect.garmin.com/modern/course/261691508)
@@ -132,9 +132,9 @@
 |    x    |     x      |   x  |   Pendiente    |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.355583, -2.902907](https://maps.app.goo.gl/oQF7mw9VoYUdLVuY7)
-* **PID alternativo :arrow_lower_right::** [40.338377, -2.899121](https://maps.app.goo.gl/TL521Q8unZtgF9pL7)
-* **PSC :arrow_upper_right::** [40.286657, -2.937845](https://maps.app.goo.gl/3aZ871KVPiroTVmG8)
+* **PID :arrow_lower_right::** [40.355583,-2.902907](https://maps.app.goo.gl/oQF7mw9VoYUdLVuY7)
+* **PID alternativo :arrow_lower_right::** [40.338377,-2.899121](https://maps.app.goo.gl/TL521Q8unZtgF9pL7)
+* **PSC :arrow_upper_right::** [40.286657,-2.937845](https://maps.app.goo.gl/3aZ871KVPiroTVmG8)
 
 **Tracks:**
 * [Track Raft - 15 Km](https://connect.garmin.com/modern/course/261686636)
@@ -167,8 +167,8 @@
 |    1    |     1      |   2  |   Bajo    |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.265445, -2.967324](https://maps.app.goo.gl/42WFqvDiRspDeJGP8)
-* **PSC :arrow_upper_right::** [40.207728, -2.999645](https://maps.app.goo.gl/sKgPSA1KogRraM4FA)
+* **PID :arrow_lower_right::** [40.265445,-2.967324](https://maps.app.goo.gl/42WFqvDiRspDeJGP8)
+* **PSC :arrow_upper_right::** [40.207728,-2.999645](https://maps.app.goo.gl/sKgPSA1KogRraM4FA)
 
 **Tracks:**
 * [Track Raft - 10 Km](https://connect.garmin.com/modern/course/260875268)
@@ -197,8 +197,8 @@
 |     0   |       2    |   2  |      Bajo      |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.0431662, -3.5548072](https://maps.app.goo.gl/XmdJq9Q4n8FmUYTe9)
-* **PSC :arrow_upper_right::** [40.0405854, -3.6046260](https://maps.app.goo.gl/X2XSDdWAZEU7fe3Z9)
+* **PID :arrow_lower_right::** [40.0431662,-3.5548072](https://maps.app.goo.gl/XmdJq9Q4n8FmUYTe9)
+* **PSC :arrow_upper_right::** [40.0405854,-3.6046260](https://maps.app.goo.gl/X2XSDdWAZEU7fe3Z9)
 
 **Tracks:**
 * [Track Raft - 8 Km](https://connect.garmin.com/modern/course/113898968)

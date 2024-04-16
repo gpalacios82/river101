@@ -12,8 +12,8 @@
 * **Fuente:** N/A
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [39.37144342130963, -1.4496037092791236](https://maps.app.goo.gl/gyorUtGE9u5uP97j6)
-* **PSC :arrow_upper_right::** [39.37732139241995, -1.4302263832818556](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8)
+* **PID :arrow_lower_right::** [39.37144342130963,-1.4496037092791236](https://maps.app.goo.gl/gyorUtGE9u5uP97j6)
+* **PSC :arrow_upper_right::** [39.37732139241995,-1.4302263832818556](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8)
 
 **Tracks:**
 * [Track Raft - 7 Km](https://connect.garmin.com/modern/course/125878441)
@@ -33,8 +33,8 @@
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [39.37732139241995, -1.4302263832818556](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8)
-* **PSC :arrow_upper_right::** [39.37919888874519, -1.4253023949120833](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9)
+* **PID :arrow_lower_right::** [39.37732139241995,-1.4302263832818556](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8)
+* **PSC :arrow_upper_right::** [39.37919888874519,-1.4253023949120833](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9)
 
 **Tracks:**
 * [Track Raft - 5 Km](https://connect.garmin.com/modern/course/127110253)
@@ -54,8 +54,8 @@
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [39.37144342130963, -1.4496037092791236](https://maps.app.goo.gl/gyorUtGE9u5uP97j6)
-* **PSC :arrow_upper_right::** [39.37919888874519, -1.4253023949120833](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9)
+* **PID :arrow_lower_right::** [39.37144342130963,-1.4496037092791236](https://maps.app.goo.gl/gyorUtGE9u5uP97j6)
+* **PSC :arrow_upper_right::** [39.37919888874519,-1.4253023949120833](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9)
 
 **Tracks:**
 * [Track Raft - 9 Km](https://connect.garmin.com/modern/course/187820557)

@@ -20,7 +20,7 @@
 |     0   |       1    |   1  |      Bajo      |
 
 **Waypoints:**
-* **PID/PSC:** [40.36798525173037, -4.304214797326591](https://maps.app.goo.gl/bQ1y4CQ3naBfBZrVA)
+* **PID/PSC:** [40.36798525173037,-4.304214797326591](https://maps.app.goo.gl/bQ1y4CQ3naBfBZrVA)
 
 **Tracks:**
 * [Track Raft - 15 Km](https://connect.garmin.com/modern/course/75805824)
