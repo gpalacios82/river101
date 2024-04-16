@@ -200,7 +200,7 @@
 * **PSC :arrow_upper_right::** [40.040585,-3.604626](https://maps.app.goo.gl/X2XSDdWAZEU7fe3Z9) :car: [Waze a PSC](https://waze.com/?ll=40.040585,-3.604626&navigate=yes)
 
 **Tracks:**
-* [Track Raft - 8 Km](https://connect.garmin.com/modern/course/113898968)
+* [Track Raft - 7 Km](https://connect.garmin.com/modern/course/113898968)
 * [Track Walk - 5 Km](https://connect.garmin.com/modern/course/259947726)
 
 **Historial**
