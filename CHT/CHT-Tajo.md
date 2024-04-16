@@ -48,6 +48,36 @@
 **Historial**
 * [20220819 - 25m3/s (en Trillo)](https://connect.garmin.com/modern/activity/9435744089)
 
+## Río Tajo S6 en Puente de Murel
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Tajo
+* **Sector:** 6
+* **Dificultad:** G-I(II)
+* **Estaciones y Caudales:**
+    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+* **Fuente:** Libro SUP - Embalses y ríos (p 598)
+
+>**Observaciones:**
+*Los primeros kms hasta la presa discurren con algunos tramos de aguas rápidas de clase II. Ojo en la presa, que hay que sortearla por la izquierda*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    x    |     x      |   x  |   Pendiente    |
+
+**Waypoints:**
+* **PID :arrow_lower_right::** [40.703229, -2.495974](https://maps.app.goo.gl/LE5Z6B4XNwJierMa9)
+* **PSC :arrow_upper_right::** [40.696245, -2.601157](https://maps.app.goo.gl/7GL16EeyVju95tyK9)
+
+**Tracks:**
+* [Track Raft - 14 Km](https://connect.garmin.com/modern/course/261693999)
+* [Track Walk - 12 Km](https://connect.garmin.com/modern/course/261693206)
+
+**Historial**
+* N/A
 
 ## Río Tajo en CN Trillo S7
 
