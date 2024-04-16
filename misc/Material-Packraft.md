@@ -41,6 +41,23 @@ Longitud Exterior: 360 cm
 
 [Link](https://www.packrafting-store.de/mrs-barracuda-r2_1)
 
+## Qué packraft elegir
+
+De acuerdo a tus necesidades, te recomendaría el **MRS Barracuda R2 PRO** como segundo packraft.
+
+Aquí te explico por qué:
+
+* Peso y tamaño: El Barracuda R2 PRO es el más ligero y compacto de los tres packrafts que estás considerando, lo que lo hace ideal para viajes con otra persona. Es fácil de transportar y almacenar, ya sea en tu mochila o en el maletero de tu coche.
+* Rendimiento en aguas bravas: El Barracuda R2 PRO está diseñado para manejar aguas bravas de clase I y II, lo que lo hace adecuado para los ríos que planeas navegar. Su diseño de casco dinámico y su skeg extraíble le proporcionan estabilidad y maniobrabilidad en aguas turbulentas.
+* Versatilidad: El Barracuda R2 PRO también es una buena opción para aguas tranquilas y lagos. Su forma estable y su gran capacidad lo hacen ideal para viajes largos y acampar.
+* Comodidad: El Barracuda R2 PRO cuenta con asientos con respaldo y un faldón delantero, lo que te proporciona comodidad y protección contra los elementos durante tus viajes.
+
+El **Anfibio Rebel Duo** también es una buena opción, pero es un poco más pesado y voluminoso que el Barracuda R2 PRO. Si no te importa el peso adicional y quieres un packraft con la máxima capacidad de carga, entonces el Rebel Duo podría ser una buena opción para ti.
+
+El **MRS Barracuda R2** es la opción más ligera, pero no es tan resistente como el Rebel Duo o el Barracuda R2 PRO. Si solo planeas usar el packraft en aguas tranquilas y lagos, entonces el Barracuda R2 podría ser una buena opción para ti.
+
+![](../misc/images/table-packraft.jpg)
+
 ## Accesorios
 
 ### Pala TNP Rapa + Funda | 4 partes + Bolsa | 210mm
