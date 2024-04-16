@@ -62,12 +62,12 @@
 * **Fuente:** Libro SUP - Embalses y ríos (p 600)
 
 >**Observaciones:**
-*Loren Ipsun*
+*El primer tramo tiene algún rápido que agiliza el descenso (los primeros 4-6 km), luego es un paseo tranquilo de remar y remar. Hay mucha vegetación a ambas orillas*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
-|    x    |     x      |   x  |   Pendiente    |
+|    0    |     3      |   3  |   Medio    |
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [40.6910908697471, -2.6106828586780235](https://maps.app.goo.gl/X3GGjtTS8nwsBnjN9)
