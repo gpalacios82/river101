@@ -1,5 +1,5 @@
 # River 101
-![](./misc/img/portada.jpg)
+![](./misc/images/portada.jpg)
 *[+ Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)*
 
 
