@@ -87,6 +87,7 @@
 * **Río:** Tajo
 * **Sector:** 8
 * **Dificultad:** G-I/II
+* **Dificultad alternativo:** G-I
 * **Estaciones y Caudales:**
     * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
