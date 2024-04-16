@@ -14,7 +14,7 @@
 >**Observaciones:**
 *Tiene lo cómodo de un embalse, y lo bonito de un río*
 
-**:exclamation: Tabla de riesgos**
+**Tabla de riesgos :exclamation:**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
 |     0   |       1    |   1  |      Bajo      |

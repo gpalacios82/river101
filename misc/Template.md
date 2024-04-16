@@ -14,7 +14,7 @@
 >**Observaciones:**
 *Loren Ipsun*
 
-**:exclamation: Tabla de riesgos**
+**Tabla de riesgos :exclamation:**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |

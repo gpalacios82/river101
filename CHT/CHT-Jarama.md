@@ -14,7 +14,7 @@
 >**Observaciones:**
 *Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y desde la fecha de edición del libro, la rivera del río ha ido ganando frondosidad. Observé dos puntos intermedios en el río, y además de mucha velocidad (15m3) habia zonas muy estrechas y con muchas ramas. Eso facilita la posibilidad de quedarse enganchado, y se dificulta la posibilidad de evacuación. Totalmente descartado remontar el río. No se puede hacer en solitario*
 
-**:exclamation: Tabla de riesgos**
+**Tabla de riesgos :exclamation:**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
 |     2   |       2    |   4  |      Alto      |

@@ -32,7 +32,7 @@
 >**Observaciones:**
 *Es un río radicalmente distinto. En verano con un caudal de escasos 25m3 (en Trillo) es un tramo donde se hacen excursiones con niños y kayak auto-vaciables*
 
-**:exclamation: Tabla de riesgos**
+**Tabla de riesgos :exclamation:**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
 |     2   |       2    |   4  |      Alto      |
@@ -64,7 +64,7 @@
 >**Observaciones:**
 *Loren Ipsun*
 
-**:exclamation: Tabla de riesgos**
+**Tabla de riesgos :exclamation:**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
@@ -94,7 +94,7 @@
 >**Observaciones:**
 *Nada más empezar hay un paso 3, se puede ver y observar desde el emmbarque y así evaluar riesgos e incluso evitarle. A 500m está la ola de Almoguera, que entre 10 y 20m3 se forma. Por debajo y por encima, no se llega a formar la ola. Más abajo nos encontramos con la Piscifactoría de Illana, que tiene un Azud que podemos cruzar sin problemas. Mejor por el márgen derecho, ya que hay menos vegetación. No obstante con 10m3 la altura del río llega por los tobillos en ese tramo. El resto sucede sin problemas, es clase I*
 
-**:exclamation: Tabla de riesgos**
+**Tabla de riesgos :exclamation:**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
 |    1    |     1      |   2  |   Bajo    |
@@ -124,7 +124,7 @@
 >**Observaciones:**
 *La zona del Embocador está imposible de embarcar, hay que hacerlo desde la playa que está más abajo. El primer tramo tiene algo de corriente, pero en general es muy ancho y tranquilo. En el último tramo sí o sí toca palear*
 
-**:exclamation: Tabla de riesgos**
+**Tabla de riesgos :exclamation:**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
 |     0   |       2    |   2  |      Bajo      |
