@@ -23,7 +23,7 @@
 * **PID/PSC:** [40.36798525173037, -4.304214797326591](https://maps.app.goo.gl/bQ1y4CQ3naBfBZrVA)
 
 **Tracks:**
-* [Track Raft](https://connect.garmin.com/modern/course/75805824)
+* [Track Raft - 15 Km](https://connect.garmin.com/modern/course/75805824)
 
 **Historial**
 * [20200711](https://connect.garmin.com/modern/activity/5219682527)

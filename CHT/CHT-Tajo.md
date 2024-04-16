@@ -42,8 +42,8 @@
 * **PSC :arrow_upper_right::** [40.7089710785168, -2.0660792731437905](https://maps.app.goo.gl/ZXxJWzcsDVDtYTmu9)
 
 **Tracks:**
-* [Track Raft](https://connect.garmin.com/modern/course/188402902)
-* [Track Walk](https://connect.garmin.com/modern/course/188400896)
+* [Track Raft - 14 Km](https://connect.garmin.com/modern/course/188402902)
+* [Track Walk - 14 Km](https://connect.garmin.com/modern/course/188400896)
 
 **Historial**
 * [20220819 - 25m3/s (en Trillo)](https://connect.garmin.com/modern/activity/9435744089)
@@ -75,11 +75,47 @@
 
 **Tracks:**
 * [Track Raft - Pendiente]()
-* [Track Walk](https://connect.garmin.com/modern/course/260863842)
+* [Track Walk - 15 Km](https://connect.garmin.com/modern/course/260863842)
 
 **Historial**
 * N/A
 
+## Río Tajo S8 en CN José Cabrera-Zorita
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Tajo
+* **Sector:** 8
+* **Dificultad:** G-I/II
+* **Estaciones y Caudales:**
+    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+* **Fuente:** Libro SUP - Embalses y ríos (p 604)
+
+>**Observaciones:**
+*Los primeros 4 kms están muy tupidos de vegetación. Se puede empezar a partir del Km 4 (PID y Tracks alternativos). **Si se decide hacer recorrido completo, hay que comprobar los primeros 4 kms, ya que el paso por el cauce puede estar cortado**.*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    x    |     x      |   x  |   Pendiente    |
+
+**Waypoints:**
+* **PID :arrow_lower_right::** [40.355583, -2.902907](https://maps.app.goo.gl/oQF7mw9VoYUdLVuY7)
+* **PID alternativo :arrow_lower_right::** [40.338377, -2.899121](https://maps.app.goo.gl/TL521Q8unZtgF9pL7)
+* **PSC :arrow_upper_right::** [40.286657, -2.937845](https://maps.app.goo.gl/3aZ871KVPiroTVmG8)
+
+**Tracks:**
+* [Track Raft - 15 Km](https://connect.garmin.com/modern/course/261686636)
+* [Track Walk - 13 Km](https://connect.garmin.com/modern/course/261685815)
+
+**Tracks Alternativos:**
+* [Track Raft - 11,5 Km](https://connect.garmin.com/modern/course/261689911)
+* [Track Walk - 10 Km](https://connect.garmin.com/modern/course/261689446)
+
+
+**Historial**
+* N/A
 
 ## Río Tajo en Almoguera S9 :heavy_check_mark:
 
@@ -104,8 +140,8 @@
 * **PSC :arrow_upper_right::** [40.207728, -2.999645](https://maps.app.goo.gl/sKgPSA1KogRraM4FA)
 
 **Tracks:**
-* [Track Raft](https://connect.garmin.com/modern/course/260875268)
-* [Track Walk](https://connect.garmin.com/modern/course/260870419)
+* [Track Raft - 10 Km](https://connect.garmin.com/modern/course/260875268)
+* [Track Walk - 11 Km](https://connect.garmin.com/modern/course/260870419)
 
 **Historial**
 * [20240414 - 10,5m3/s](https://connect.garmin.com/modern/activity/14893553432/3)
@@ -134,8 +170,8 @@
 * **PSC :arrow_upper_right::** [40.0405854, -3.6046260](https://maps.app.goo.gl/X2XSDdWAZEU7fe3Z9)
 
 **Tracks:**
-* [Track Raft](https://connect.garmin.com/modern/course/113898968)
-* [Track Walk](https://connect.garmin.com/modern/course/259947726)
+* [Track Raft - 8 Km](https://connect.garmin.com/modern/course/113898968)
+* [Track Walk - 5 Km](https://connect.garmin.com/modern/course/259947726)
 
 **Historial**
 * [20221009 - 7,71m3/s](https://connect.garmin.com/modern/activity/9756696416)

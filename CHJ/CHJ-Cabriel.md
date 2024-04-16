@@ -16,8 +16,8 @@
 * **PSC :arrow_upper_right::** [39.37732139241995, -1.4302263832818556](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8)
 
 **Tracks:**
-* [Track Raft](https://connect.garmin.com/modern/course/125878441)
-* [Track Walk](https://connect.garmin.com/modern/course/260097420)
+* [Track Raft - 7 Km](https://connect.garmin.com/modern/course/125878441)
+* [Track Walk - 5,5 Km](https://connect.garmin.com/modern/course/260097420)
 
 **Historial**
 * N/A
@@ -37,8 +37,8 @@
 * **PSC :arrow_upper_right::** [39.37919888874519, -1.4253023949120833](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9)
 
 **Tracks:**
-* [Track Raft](https://connect.garmin.com/modern/course/127110253)
-* [Track Walk](https://connect.garmin.com/modern/course/260097250)
+* [Track Raft - 5 Km](https://connect.garmin.com/modern/course/127110253)
+* [Track Walk - 1 Km](https://connect.garmin.com/modern/course/260097250)
 
 **Historial**
 * [20220828 - 6,53m3/s](https://connect.garmin.com/modern/activity/9495001222)
@@ -58,8 +58,8 @@
 * **PSC :arrow_upper_right::** [39.37919888874519, -1.4253023949120833](https://maps.app.goo.gl/c3n44kZUPzGqwqPk9)
 
 **Tracks:**
-* [Track Raft](https://connect.garmin.com/modern/course/187820557)
-* [Track Walk](https://connect.garmin.com/modern/course/127111055)
+* [Track Raft - 9 Km](https://connect.garmin.com/modern/course/187820557)
+* [Track Walk - 5 Km](https://connect.garmin.com/modern/course/127111055)
 
 **Historial**
 * N/A

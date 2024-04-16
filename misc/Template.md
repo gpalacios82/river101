@@ -24,8 +24,8 @@
 * **PSC :arrow_upper_right::** [XXXXX](XXXX)
 
 **Tracks:**
-* [Track Raft](XXX)
-* [Track Walk](XXX)
+* [Track Raft - xx Km](XXX)
+* [Track Walk - xx Km](XXX)
 
 **Historial**
 * [aaaammdd - XXm3/s](XXX)

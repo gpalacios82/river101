@@ -24,8 +24,8 @@
 * **PSC :arrow_upper_right::** [40.8448698, -3.4706558](https://maps.app.goo.gl/ExHsKKNre9HN4KVS6)
 
 **Tracks:**
-* [Track Raft](https://connect.garmin.com/modern/course/192904137)
-* [Track Walk](https://connect.garmin.com/modern/course/192902293)
+* [Track Raft - 5,5 Km](https://connect.garmin.com/modern/course/192904137)
+* [Track Walk - 4 Km](https://connect.garmin.com/modern/course/192902293)
 
 **Historial**
 * N/A
