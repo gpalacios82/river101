@@ -20,8 +20,8 @@
 |     2   |       2    |   4  |      Alto      |
 
 **Waypoints:**
-* **PID:** [40.8705969, -3.4518471](https://maps.app.goo.gl/NYryL6f8RY85Gvvd8)
-* **PSC:** [40.8448698, -3.4706558](https://maps.app.goo.gl/ExHsKKNre9HN4KVS6)
+* **PID :arrow_lower_right::** [40.8705969, -3.4518471](https://maps.app.goo.gl/NYryL6f8RY85Gvvd8)
+* **PSC :arrow_upper_right::** [40.8448698, -3.4706558](https://maps.app.goo.gl/ExHsKKNre9HN4KVS6)
 
 **Tracks:**
 * [Track Raft](https://connect.garmin.com/modern/course/192904137)

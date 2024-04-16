@@ -20,8 +20,8 @@
 |    x    |     x      |   x  |   Pendiente    |
 
 **Waypoints:**
-* **PID:** [XXXXX](XXXX)
-* **PSC:** [XXXXX](XXXX)
+* **PID :arrow_lower_right::** [XXXXX](XXXX)
+* **PSC :arrow_upper_right::** [XXXXX](XXXX)
 
 **Tracks:**
 * [Track Raft](XXX)

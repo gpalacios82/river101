@@ -38,8 +38,8 @@
 |     2   |       2    |   4  |      Alto      |
 
 **Waypoints:**
-* **PID:** [40.649787592295425, -1.9807165108637843](https://maps.app.goo.gl/CtLjpEqyyVF13hSc6)
-* **PSC:** [40.7089710785168, -2.0660792731437905](https://maps.app.goo.gl/ZXxJWzcsDVDtYTmu9)
+* **PID :arrow_lower_right::** [40.649787592295425, -1.9807165108637843](https://maps.app.goo.gl/CtLjpEqyyVF13hSc6)
+* **PSC :arrow_upper_right::** [40.7089710785168, -2.0660792731437905](https://maps.app.goo.gl/ZXxJWzcsDVDtYTmu9)
 
 **Tracks:**
 * [Track Raft](https://connect.garmin.com/modern/course/188402902)
@@ -70,8 +70,8 @@
 |    x    |     x      |   x  |   Pendiente    |
 
 **Waypoints:**
-* **PID:** [40.6910908697471, -2.6106828586780235](https://maps.app.goo.gl/X3GGjtTS8nwsBnjN9)
-* **PSC:** [40.66765257963737, -2.6686732441267274](https://maps.app.goo.gl/43XQDMtKVYR85QUEA)
+* **PID :arrow_lower_right::** [40.6910908697471, -2.6106828586780235](https://maps.app.goo.gl/X3GGjtTS8nwsBnjN9)
+* **PSC :arrow_upper_right::** [40.66765257963737, -2.6686732441267274](https://maps.app.goo.gl/43XQDMtKVYR85QUEA)
 
 **Tracks:**
 * [Track Raft - Pendiente]()
@@ -100,8 +100,8 @@
 |    1    |     1      |   2  |   Bajo    |
 
 **Waypoints:**
-* **PID:** [40.265445, -2.967324](https://maps.app.goo.gl/42WFqvDiRspDeJGP8)
-* **PSC:** [40.207728, -2.999645](https://maps.app.goo.gl/sKgPSA1KogRraM4FA)
+* **PID :arrow_lower_right::** [40.265445, -2.967324](https://maps.app.goo.gl/42WFqvDiRspDeJGP8)
+* **PSC :arrow_upper_right::** [40.207728, -2.999645](https://maps.app.goo.gl/sKgPSA1KogRraM4FA)
 
 **Tracks:**
 * [Track Raft](https://connect.garmin.com/modern/course/260875268)
@@ -130,8 +130,8 @@
 |     0   |       2    |   2  |      Bajo      |
 
 **Waypoints:**
-* **PID:** [40.0431662, -3.5548072](https://maps.app.goo.gl/XmdJq9Q4n8FmUYTe9)
-* **PSC:** [40.0405854, -3.6046260](https://maps.app.goo.gl/X2XSDdWAZEU7fe3Z9)
+* **PID :arrow_lower_right::** [40.0431662, -3.5548072](https://maps.app.goo.gl/XmdJq9Q4n8FmUYTe9)
+* **PSC :arrow_upper_right::** [40.0405854, -3.6046260](https://maps.app.goo.gl/X2XSDdWAZEU7fe3Z9)
 
 **Tracks:**
 * [Track Raft](https://connect.garmin.com/modern/course/113898968)
