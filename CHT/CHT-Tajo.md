@@ -46,7 +46,7 @@
 
 >**Observaciones:**
 *Los primeros kms hasta la presa discurren con algunos tramos de aguas rápidas de clase II. Ojo en la presa, que hay que sortearla por la izquierda*
-![Camino para esquivar la presa](../misc/cht-tajo-s6-escape-presa.jpg)
+![Camino para esquivar la presa](../misc/img/cht-tajo-s6-escape-presa.jpg)
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
