@@ -6,6 +6,6 @@
 
 [Waze con Hibrido](http://waze://?ll=40.649787,-1.980716&navigate=yes)
 
-[Waze con Hibrido mejorado 1](http://waze:://?ll=40.649787,-1.980716&navigate=yes)
+[Waze con Hibrido bard](http://waze:\\?ll=40.649787,-1.980716&navigate=yes)
 
 [Waze con Hibrido mejorado 2](http://waze\://?ll=40.649787,-1.980716&navigate=yes)
