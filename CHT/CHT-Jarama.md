@@ -1,5 +1,5 @@
 # CHT - Jarama
-*[+ Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)*
+[:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Río Jarama en Uceda S6
 

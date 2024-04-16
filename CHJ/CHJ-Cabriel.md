@@ -1,8 +1,9 @@
 # CHJ - Cabriel
-*[+ Seguridad y seguimiento - Mapa de Garmin InReach](https://share.garmin.com/gpalacios82)*
+[:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)(https://share.garmin.com/gpalacios82)
+
+**Fuente:** [Topología del Cabriel en Youtube](https://www.youtube.com/watch?v=e7pmjRh3XRc)
 
 ## Río Cabriel Tamayo y Tete
-
 ![Topología del Cabriel - Tramo Tamayo y Tete](../misc/images/chj-cabriel-tamayo-tete.jpg)
 
 **Datos Generales:**
@@ -11,7 +12,6 @@
 * **Sector:** Tamayo y Tete
 * **Dificultad:** G-II(3)
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
-* **Fuente:** [Topología del Cabriel en Youtube](https://www.youtube.com/watch?v=e7pmjRh3XRc)
 * **Tiempo total (aprox):** 7:30
 
 **Waypoints:**
@@ -33,7 +33,6 @@
 * **Sector:** Tamayo
 * **Dificultad:** G-II(3)
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
-* **Fuente:** [Topología del Cabriel en Youtube](https://www.youtube.com/watch?v=e7pmjRh3XRc)
 * **Tiempo total (aprox):** 7:00
 
 **Waypoints:**
@@ -56,7 +55,6 @@
 * **Sector:** Tete
 * **Dificultad:** G-I(2)
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
-* **Fuente:** [Topología del Cabriel en Youtube](https://www.youtube.com/watch?v=e7pmjRh3XRc)
 * **Tiempo total (aprox):** 5:30
 
 **Waypoints:**
