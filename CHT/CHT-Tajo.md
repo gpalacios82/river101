@@ -123,10 +123,10 @@
 >**Observaciones:**
 *Los primeros 4 kms están muy tupidos de vegetación. Se puede empezar a partir del Km 4 (PID y Tracks alternativos). **Si se decide hacer recorrido completo, hay que comprobar los primeros 4 kms, ya que el paso por el cauce puede estar cortado**.*
 
-**Tabla de riesgos**
+**Tabla de riesgos (alternativo)**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
-|    x    |     x      |   x  |   Pendiente    |
+|    0    |     2      |   2  |   Bajo    |
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [40.355583,-2.902907](https://maps.app.goo.gl/oQF7mw9VoYUdLVuY7) :car: [Waze a PID](https://waze.com/?ll=40.355583,-2.902907&navigate=yes)
