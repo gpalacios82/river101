@@ -6,7 +6,7 @@
 ## Índice
 * [Río Cabriel Tamayo y Tete](CHJ-Cabriel.md#río-cabriel-tamayo-y-tete)
 * [Río Cabriel Tamayo](CHJ-Cabriel.md#río-cabriel-tamayo)
-* [Río Cabriel Tete](CHJ-Cabriel.md#río-cabriel-tete-heavy_check_mark)
+* [Río Cabriel Tete :heavy_check_mark:](CHJ-Cabriel.md#río-cabriel-tete)
 
 
 ## Río Cabriel Tamayo y Tete
@@ -53,7 +53,7 @@
 * N/A
 
 
-## Río Cabriel Tete :heavy_check_mark:
+## Río Cabriel Tete
 
 **Datos Generales:**
 * **Cuenca:** CHJ
