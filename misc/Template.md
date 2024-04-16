@@ -10,6 +10,7 @@
 * **Dificultad:** G-XX(XX)
 * **Estación y Caudal:** [ARXX - XXX: xm3](XXXXX)
 * **Fuente:** XXX
+* **Tiempo total (aprox):** xx:xx
 
 >**Observaciones:**
 *Loren Ipsun*

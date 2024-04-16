@@ -10,6 +10,7 @@
 * **Dificultad:** G-II(2+)
 * **Fuente:** Libro SUP - Embalses y ríos (p 488)
 * **Estación y Caudal:** [AR16 - Jarama en Valdepeñas: 12-20m3 (altura entre 0,8-1,3m)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR16)
+* **Tiempo total (aprox):** 4:00
 
 >**Observaciones:**
 *Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y desde la fecha de edición del libro, la rivera del río ha ido ganando frondosidad. Observé dos puntos intermedios en el río, y además de mucha velocidad (15m3) habia zonas muy estrechas y con muchas ramas. Eso facilita la posibilidad de quedarse enganchado, y se dificulta la posibilidad de evacuación. Totalmente descartado remontar el río. No se puede hacer en solitario*

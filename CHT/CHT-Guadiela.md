@@ -10,6 +10,7 @@
 * **Dificultad:** G-I(2)
 * **Estación y Caudal:** [AR04 - Guadiela en la ruidera: 15-20m3 (aceptable desde 10m3)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR04)
 * **Fuente:** Libro SUP - Embalses y ríos (p 462)
+* **Tiempo total (aprox):** 7:30
 
 >**Observaciones:**
 *Hay muchas salidas, pero incluso con 12m3 el río lleva velocidad, los datos del libro son antiguos, y hay mucha maleza y troncos atravesados, lo recategorizaría como G-I/II, se puede hacer en solitario, pero conlleva riesgos. Además, monitoricé tres puntos del río, en uno de ellos encontré troncos. En el resto no, pero son 3 puntos en 10km de descenso*

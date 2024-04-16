@@ -12,6 +12,7 @@
     * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 578)
+* **Tiempo total (aprox):** 12:00
 
 >**Observaciones:**
 *Es un río radicalmente distinto. En verano con un caudal de escasos 25m3 (en Trillo) es un tramo donde se hacen excursiones con niños y kayak auto-vaciables*
@@ -32,7 +33,7 @@
 **Historial**
 * [20220819 - 25m3/s (en Trillo)](https://connect.garmin.com/modern/activity/9435744089)
 
-## Río Tajo S6 en Puente de Murel
+## Río Tajo en Puente de Murel S6
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -43,6 +44,7 @@
     * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 598)
+* **Tiempo total (aprox):** 9:00
 
 >**Observaciones:**
 *Los primeros kms hasta la presa discurren con algunos tramos de aguas rápidas de clase II. Ojo en la presa, que hay que sortearla por la izquierda*
@@ -75,6 +77,7 @@
     * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 600)
+* **Tiempo total (aprox):** 10:00
 
 >**Observaciones:**
 *El primer tramo tiene algún rápido que agiliza el descenso (los primeros 4-6 km), luego es un paseo tranquilo de remar y remar. Hay mucha vegetación a ambas orillas*
@@ -95,7 +98,7 @@
 **Historial**
 * N/A
 
-## Río Tajo S8 en CN José Cabrera-Zorita
+## Río Tajo en CN José Cabrera-Zorita S8
 
 **Datos Generales:**
 * **Cuenca:** CHT
@@ -107,6 +110,7 @@
     * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 604)
+* **Tiempo total (aprox):** 7:30 (alternativo)
 
 >**Observaciones:**
 *Los primeros 4 kms están muy tupidos de vegetación. Se puede empezar a partir del Km 4 (PID y Tracks alternativos). **Si se decide hacer recorrido completo, hay que comprobar los primeros 4 kms, ya que el paso por el cauce puede estar cortado**.*
@@ -142,6 +146,7 @@
 * **Dificultad:** G-I(3)
 * **Estación y Caudal:** [AR08 - Tajo en Almoguera: Todo el año, recomendable 10-22m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR08)
 * **Fuente:** Libro SUP - Embalses y ríos (p 606)
+* **Tiempo total (aprox):** 7:30
 
 >**Observaciones:**
 *Nada más empezar hay un paso 3, se puede ver y observar desde el emmbarque y así evaluar riesgos e incluso evitarle. A 500m está la ola de Almoguera, que entre 10 y 20m3 se forma. Por debajo y por encima, no se llega a formar la ola. Más abajo nos encontramos con la Piscifactoría de Illana, que tiene un Azud que podemos cruzar sin problemas. Mejor por el márgen derecho, ya que hay menos vegetación. No obstante con 10m3 la altura del río llega por los tobillos en ese tramo. El resto sucede sin problemas, es clase I*
@@ -172,6 +177,7 @@
 * **Dificultad:** G-I/II
 * **Estación y Caudal:** [AR56 - Tajo en Embocador: 8-12m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR56)
 * **Fuente:** Libro SUP - Embalses y ríos (p 610)
+* **Tiempo total (aprox):** 4:30
 
 >**Observaciones:**
 *La zona del Embocador está imposible de embarcar, hay que hacerlo desde la playa que está más abajo. El primer tramo tiene algo de corriente, pero en general es muy ancho y tranquilo. En el último tramo sí o sí toca palear*

@@ -10,6 +10,7 @@
 * **Dificultad:** G-III
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
 * **Fuente:** N/A
+* **Tiempo total (aprox):** xx:xx
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [39.371443,-1.449603](https://maps.app.goo.gl/gyorUtGE9u5uP97j6) :car: [Waze a PID](https://waze.com/?ll=39.371443,-1.449603&navigate=yes)
@@ -31,6 +32,7 @@
 * **Sector:** Tete
 * **Dificultad:** G-I(2)
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
+* **Tiempo total (aprox):** xx:xx
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [39.377321,-1.430226](https://maps.app.goo.gl/wZcu9q4gMF6po2cQ8) :car: [Waze a PID](https://waze.com/?ll=39.377321,-1.430226&navigate=yes)
@@ -52,6 +54,7 @@
 * **Sector:** Tamayo y Tete
 * **Dificultad:** G-III
 * **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
+* **Tiempo total (aprox):** xx:xx
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [39.371443,-1.449603](https://maps.app.goo.gl/gyorUtGE9u5uP97j6) :car: [Waze a PID](https://waze.com/?ll=39.371443,-1.449603&navigate=yes)

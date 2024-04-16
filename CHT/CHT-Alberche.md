@@ -10,6 +10,7 @@
 * **Dificultad:** G-0
 * **Estación y Caudal:** [E20](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:E_20)
 * **Fuente:** Libro SUP - Embalses y ríos (p 156)
+* **Tiempo total (aprox):** 5:00
 
 >**Observaciones:**
 *Tiene lo cómodo de un embalse, y lo bonito de un río*
