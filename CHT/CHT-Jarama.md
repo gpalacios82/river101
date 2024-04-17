@@ -80,7 +80,7 @@
 * **Tiempo total (aprox):** 6:30
 
 >**Observaciones:**
-*Mucha vegetación en los laterales, con bastante mal olor. Un par de pasos un poco más delicados, el resto muy asequibles*
+*Mucha vegetación en los laterales, con bastante mal olor, se recomienda el uso de mecanismos de bloqueo de olores ("Viks Vaporubs", "Nosa odor control" o "Nosa odor protection"). Un par de pasos un poco más delicados, el resto muy asequibles*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
