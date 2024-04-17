@@ -1,6 +1,8 @@
 # Cuenca hidrográfica del Tajo
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
+* [Relación de Cauces Navegables CHT - Actualizado a 2024](./CHT-CaucesNavegables-2024.pdf)
+
 * [Río Alberche](./CHT-Alberche.md)
 * [Río Guadiela](./CHT-Guadiela.md)
 * [Río Jarama](./CHT-Jarama.md)
