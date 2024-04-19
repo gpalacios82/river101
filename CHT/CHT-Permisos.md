@@ -43,7 +43,7 @@ Desde el [Registro Electrónico](https://www.chtajo.es/Servicios/Tramitaciones/P
 
 ### Reclamación de Carta de Pago
 
-De los 3 años que llevo solicitando el permiso de navegación responsable (a fecha 2024), me han respondido directamente 1 vez, las otras 2 veces lo he tenido que reclamar a los 2/3 meses. He conseguido obtener dicha carta de pago mediante contacto con ellos por Email a: [Info Tajo <informacion@chtajo.es>](informacion@chtajo.es)
+De los 3 años que llevo solicitando el permiso de navegación responsable (a fecha 2024), me han respondido directamente 1 vez, las otras 2 veces lo he tenido que reclamar a los 2/3 meses. He conseguido obtener dicha carta de pago mediante contacto con ellos por Email a: [Info Tajo <informacion@chtajo.es>](mailto:informacion@chtajo.es)
 
 **Asunto:**
 ```
