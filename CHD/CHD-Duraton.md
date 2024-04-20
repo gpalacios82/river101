@@ -1,6 +1,13 @@
 # CHD - Duratón
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
+**Es todo zona protegida, se necesita permiso de medio ambiente**
+
+*Es todo zona protegida, se necesita permiso de medio ambiente. Además hay limitación de navegación entre la Ermita de San Frutos y la bóbeda de la presa de Burgomillodo entre el 1 de enero y el 31 de julio por cria de aves (Buitre Leonado). Esta ruta queda fuera de dicha zona*
+
+
+![](../misc/images/CHD-DuratonProtegido.jpg)
+
 ## Índice
 * [Río Duratón desde el Puente de Villaseca](./CHD-Duraton.md#río-duratón-desde-el-puente-de-villaseca)
 
@@ -13,9 +20,6 @@
 * **Dificultad:** G-I/II
 * **Estación y Caudal:** [EA012 - Duratón en Sepúlveda](https://www.saihduero.es/risr/EA012)
 * **Tiempo total (aprox):** 3:00
-
->**Observaciones:**
-*Hay limitación de navegación entre la Ermita de San Frutos y la bóbeda de la presa de Burgomillodo entre el 1 de enero y el 31 de julio por cria de aves (Buitre Leonado). Esta ruta queda fuera de dicha zona*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
