@@ -9,6 +9,7 @@
 
 ## Índice
 * [Cuenca hidrográfica del Tajo](./CHT/)
+* [Cuenca hidrográfica del Duero](./CHD/)
 * [Cuenca hidrográfica del Júcar](./CHJ/)
 
 
