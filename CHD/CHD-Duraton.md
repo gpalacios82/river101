@@ -11,6 +11,7 @@
 ## Índice
 * [Río Duratón desde el Puente de Villaseca](./CHD-Duraton.md#río-duratón-desde-el-puente-de-villaseca)
 * [Río Duratón desde Burgomillodo hasta San Miguel de Bernuy](./CHD-Duraton.md#río-duratón-desde-burgomillodo-hasta-san-miguel-de-bernuy)
+* [Río Duratón en el embalse de las Vencías](./CHD-Duraton.md#río-duratón-en-embalse-de-las-vencías) :heavy_check_mark:
 
 ## Río Duratón desde el Puente de Villaseca
 
@@ -45,7 +46,7 @@
 * **Río:** Duratón
 * **Sector:** Desde Burgomillodo
 * **Dificultad:** Pendiente
-* **Estaciones y Caudales:** 
+* **Estación y Caudal:**
     * [EA012 - Duratón en Sepúlveda](https://www.saihduero.es/risr/EA012)
     * [EA012 - Duratón en Salida del embalse de Las Vencías](https://www.saihduero.es/risr/EA161)
 * **Tiempo total (aprox):** 5:00
@@ -69,6 +70,35 @@ Es una zona del rio con más bien poco caudal, habrá que bajarse bastantes vece
 
 **Historial**
 * N/A
+
+
+## Río Duratón en Embalse de las Vencías
+
+**Datos Generales:**
+* **Cuenca:** CHD
+* **Río:** Duratón
+* **Sector:** Embalse de las Vencías
+* **Dificultad:** G-0(I)
+* **Estación y Caudal:** [EM522 - Embalse de las Vencías](https://www.saihduero.es/risr/EM522)
+* **Tiempo total (aprox):** 2:00
+
+>**Observaciones:**
+*Se llena mucho de embarcaciones, mejor ir entre semana o madrugar para estar tranquilos. Se puede remontar el río hasta el puente de San Miguel de Bernuy*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    0    |     0      |   0  |   Sin Riesgo    |
+
+**Waypoints:**
+* **PID y PSC:arrow_lower_right::** [41.420226,-3.962568](https://maps.app.goo.gl/eYwUtSYpNNAKTeps8) :car: [Waze a PID y PSC](https://waze.com/?ll=41.420226,-3.962568&navigate=yes)
+
+**Tracks:**
+* [Track Raft - 9 Km](https://connect.garmin.com/modern/course/263067847)
+
+**Historial**
+* [20220709](https://connect.garmin.com/modern/activity/9169257606)
+
 
 ## Aviso importante
 >*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
