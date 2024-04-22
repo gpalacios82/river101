@@ -17,7 +17,7 @@
 >**Observaciones:**
 *Habrá que observar el río para evaluar si hay nivel suficiente. Cuidado con la estación de aforo, habrá que esquivarla*
 
-![](../misc/images/CHC-SajaTorrelavega.jpg)
+![](../misc/images/CHC-SajaTorrelavegaEsquivar.jpg)
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
