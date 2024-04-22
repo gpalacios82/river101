@@ -15,7 +15,7 @@
 * **Cuenca:** CHT
 * **Río:** Tajo
 * **Sector:** 1 y 2
-* **Dificultad:** G-III(3+)
+* **Dificultad:** G-II(2+)
 * **Estaciones y Caudales:**
     * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
@@ -205,6 +205,9 @@
 
 **Historial**
 * [20221009 - 7,71m3/s](https://connect.garmin.com/modern/activity/9756696416)
+* [20240421 - 7,9m3/s](https://connect.garmin.com/modern/activity/15002739376)
+
+![](../misc/images/CHT-Tajo-s11-conJaime.jpg)
 
 ## Aviso importante
 
