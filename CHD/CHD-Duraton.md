@@ -10,6 +10,7 @@
 
 ## Índice
 * [Río Duratón desde el Puente de Villaseca](./CHD-Duraton.md#río-duratón-desde-el-puente-de-villaseca)
+* [Río Duratón desde Burgomillodo hasta San Miguel de Bernuy](./CHD-Duraton.md#río-duratón-desde-burgomillodo-hasta-san-miguel-de-bernuy)
 
 ## Río Duratón desde el Puente de Villaseca
 
@@ -33,6 +34,38 @@
 **Tracks:**
 * [Track Raft - 7,8 Km](https://connect.garmin.com/modern/course/130324061)
 * [Track Walk - 5,5 Km](https://connect.garmin.com/modern/course/262529052)
+
+**Historial**
+* N/A
+
+## Río Duratón desde Burgomillodo hasta San Miguel de Bernuy
+
+**Datos Generales:**
+* **Cuenca:** CHD
+* **Río:** Duratón
+* **Sector:** Desde Burgomillodo
+* **Dificultad:** Pendiente
+* **Estaciones y Caudales:** 
+    * [EA012 - Duratón en Sepúlveda](https://www.saihduero.es/risr/EA012)
+    * [EA012 - Duratón en Salida del embalse de Las Vencías](https://www.saihduero.es/risr/EA161)
+* **Tiempo total (aprox):** 5:00
+
+>**Observaciones:**
+*Ningúna estación sirve como referencia, ya que una está antes del embalse de Burgomillodo, y el otro después del embalse de las Vencías. Por lo que dependerá del caudal de suelta del embalse de Burgomillodo. Todo el año tiene caudal eso sí.
+Es una zona del rio con más bien poco caudal, habrá que bajarse bastantes veces. Lo bueno es que tiene poco desnivel. Entre la presa y Carrascal del Río, los niños remontan el río para capturar cangrejos de río.*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    x    |     X      |   x  |   Pendiente    |
+
+**Waypoints:**
+* **PID :arrow_lower_right::** [41.339037,-3.886910](https://maps.app.goo.gl/bkdvbSF11tiHVSyK9) :car: [Waze a PID](https://waze.com/?ll=41.339037,-3.886910&navigate=yes)
+* **PSC :arrow_upper_right::** [41.396472,-3.953428](https://maps.app.goo.gl/u4QagSynDJoNFADr9) :car: [Waze a PSC](https://waze.com/?ll=41.396472,-3.953428&navigate=yes)
+
+**Tracks:**
+* [Track Raft - 12 Km](https://connect.garmin.com/modern/course/263056749)
+* [Track Walk - 11 Km](https://connect.garmin.com/modern/course/263056101)
 
 **Historial**
 * N/A
