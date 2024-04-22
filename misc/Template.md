@@ -2,9 +2,9 @@
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Índice
-* [SX - NombreRío en NombreInicioSección :heavy_check_mark:](./FileName.md#Anchor)
+* [SX - NombreRío en NombreInicioSección](./FileName.md#Anchor) :heavy_check_mark:
 
-## Río NombreRío SX :heavy_check_mark:
+## Río NombreRío SX
 
 **Datos Generales:**
 * **Cuenca:** CHX
