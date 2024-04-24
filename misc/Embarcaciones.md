@@ -1,5 +1,5 @@
 ## Packraft Mekong Pablo Whisky Bar
-*CHT-43109 / CHE-38531-R*
+*CHT-43109 / CHE-38531-R / CHC-810-W-001*
 * **Marca**: Mekong
 * **Modelo**: Pablo Whisky Bar
 * **Talla**: L
