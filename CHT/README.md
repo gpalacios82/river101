@@ -3,7 +3,7 @@
 
 * [Relación de Cauces Navegables CHT - Actualizado a 2024](../misc/CHT-CaucesNavegables-2024.pdf)
 
-Es necesario disponer de un permiso de navegación responsable. Se solicita mediante [este procedimiento](../misc/CHT-Permisos.md)
+Es necesario disponer de un permiso de navegación responsable. Se solicita mediante [este procedimiento](../misc/Permisos%20de%20Navegación.md)
 
 * [Río Alberche](./CHT-Alberche.md)
 * [Río Guadiela](./CHT-Guadiela.md)
