@@ -12,7 +12,7 @@
 **Datos Generales:**
 * **Cuenca:** CHC
 * **Río:** Sella
-* **Sector:** Desde Orriondas a Santianes
+* **Sector:** Desde Arriondas a Santianes
 * **Dificultad:** Clase I
 * **Estación y Caudal:** [1292 Río Sella En Arriondas](https://visor.saichcantabrico.es/)
 * **Tiempo total (aprox):** 6:00
