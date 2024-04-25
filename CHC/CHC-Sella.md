@@ -17,7 +17,8 @@
 * **Tiempo total (aprox):** 6:00
 
 >**Observaciones:**
-*Mejor fuera de época estival, por encontrar algo menos de gente y encontrar más caudal*
+*Mejor fuera de época estival, por encontrar algo menos de gente y encontrar más caudal
+Se puede empezar un poco más arriba [43.307181,-5.131318](https://maps.app.goo.gl/GkJtTtuddXUuvWH56)*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
