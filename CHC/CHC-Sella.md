@@ -5,6 +5,7 @@
 * [Río Sella](./CHC-Sella.md#chc---río-sella) :heavy_check_mark:
 
 ![](../misc/images/CHC-SellaTramosNavegables.jpg)
+![](../misc/images/CHC-SellaPilonaTramosNavegables.jpg)
 
 ## Río Sella
 
@@ -18,7 +19,8 @@
 
 >**Observaciones:**
 *Mejor fuera de época estival, por encontrar algo menos de gente y encontrar más caudal
-Se puede empezar un poco más arriba [43.307181,-5.131318](https://maps.app.goo.gl/GkJtTtuddXUuvWH56)*
+Se puede empezar un poco más arriba [Camporriondi - 43.250982,-5.107726](https://maps.app.goo.gl/U1df4XyHZR95h3TG8)
+ [43.307181,-5.131318](https://maps.app.goo.gl/GkJtTtuddXUuvWH56)*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
