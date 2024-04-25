@@ -18,9 +18,7 @@
 * **Tiempo total (aprox):** 6:00
 
 >**Observaciones:**
-*Mejor fuera de época estival, por encontrar algo menos de gente y encontrar más caudal
-Se puede empezar un poco más arriba [Camporriondi - 43.250982,-5.107726](https://maps.app.goo.gl/U1df4XyHZR95h3TG8)
- [43.307181,-5.131318](https://maps.app.goo.gl/GkJtTtuddXUuvWH56)*
+*Mejor fuera de época estival, por encontrar algo menos de gente y encontrar más caudal*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
