@@ -143,7 +143,7 @@
 
 
 **Historial**
-* [29240426 23,50m3](https://connect.garmin.com/modern/activity/15086830603)
+* [29240426 - 23,50m3](https://connect.garmin.com/modern/activity/15086830603)
 
 ## Río Tajo en Almoguera S9
 
