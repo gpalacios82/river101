@@ -5,7 +5,7 @@
 * [S2 - Río Tajo en Peralejos de las Truchas](./CHT-Tajo.md#río-tajo-en-peralejos-de-las-truchas-s2) :heavy_check_mark:
 * [S6 - Río Tajo en Puente de Murel](./CHT-Tajo.md#río-tajo-en-puente-de-murel-s6)
 * [S7 - Río Tajo en CN Trillo](./CHT-Tajo.md#río-tajo-en-cn-trillo-s7)
-* [S8 - Río Tajo en CN José Cabrera-Zorita](./CHT-Tajo.md#río-tajo-en-cn-josé-cabrera-zorita-s8)
+* [S8 - Río Tajo en CN José Cabrera-Zorita](./CHT-Tajo.md#río-tajo-en-cn-josé-cabrera-zorita-s8) :heavy_check_mark:
 * [S9 - Río Tajo en Almoguera](./CHT-Tajo.md#río-tajo-en-almoguera-s9) :heavy_check_mark:
 * [S11 - Río Tajo en Aranjuez](./CHT-Tajo.md#río-tajo-en-aranjuez-s11) :heavy_check_mark:
 
@@ -143,7 +143,7 @@
 
 
 **Historial**
-* N/A
+* [29240426 23,50m3](https://connect.garmin.com/modern/activity/15086830603)
 
 ## Río Tajo en Almoguera S9
 
