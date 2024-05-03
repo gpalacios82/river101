@@ -9,17 +9,6 @@
 * **Peso total**: 3,37 kg
 * **Carga máxima**: 150 Kg
 
-## Kayak Itiwit Drop Stitch X500
-*CHT-45156 / CHE-39979-R*
-* **Marca**: Itiwit
-* **Modelo**: Drop Stitch X500
-* **Talla**: 1 plaza
-* **Eslora**: 380 cm
-* **Manga**: 64 cm
-* **Calado / Puntal**: 15 cm
-* **Peso total**: 18 kg
-* **Carga máxima**: 125 Kg
-
 ## Packraft MSR Barracuda R2 PRO
 *Pendiente*
 * **Marca**: MSR
