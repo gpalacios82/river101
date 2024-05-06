@@ -46,13 +46,11 @@
 * **Río:** Duratón
 * **Sector:** Desde Burgomillodo
 * **Dificultad:** Pendiente
-* **Estación y Caudal:**
-    * [EA012 - Duratón en Sepúlveda](https://www.saihduero.es/risr/EA012)
-    * [EA012 - Duratón en Salida del embalse de Las Vencías](https://www.saihduero.es/risr/EA161)
+* **Estación y Caudal:** [EM521 - Embalse de Burgomillodo](https://www.saihduero.es/risr/EM521)
 * **Tiempo total (aprox):** 5:00
 
 >**Observaciones:**
-*Ningúna estación sirve como referencia, ya que una está antes del embalse de Burgomillodo, y el otro después del embalse de las Vencías. Por lo que dependerá del caudal de suelta del embalse de Burgomillodo. Todo el año tiene caudal eso sí.
+*Como referencia se puede obtener la salida del Embalse de Burgomillodo
 Es una zona del rio con más bien poco caudal, habrá que bajarse bastantes veces. Lo bueno es que tiene poco desnivel. Entre la presa y Carrascal del Río, los niños remontan el río para capturar cangrejos de río.*
 
 **Tabla de riesgos**
