@@ -1,4 +1,8 @@
-## Packraft Mekong Pablo Whisky Bar
+## Modelos en mi mochila
+[Packraft Mekong Pablo Whisky Bar](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar)
+[Packraft MSR Barracuda R2 PRO](./Embarcaciones.md#packraft-msr-barracuda-r2-pro)
+
+### Packraft Mekong Pablo Whisky Bar
 *CHT-43109 / CHE-38531-R / CHC-810-W-001*
 * **Marca**: Mekong
 * **Modelo**: Pablo Whisky Bar
@@ -13,7 +17,7 @@
     * Suelo: Nylon 840D
     * Cubierta: Nylon 210D
 
-## Packraft MSR Barracuda R2 PRO
+### Packraft MSR Barracuda R2 PRO
 *Pendiente*
 * **Marca**: MSR
 * **Modelo**: Barracuda R2 PRO
@@ -29,3 +33,7 @@
     * Cubierta: Nylon 210D / TPU
 
 ![](./images/Barracuda-R2-Pro-1.svg)
+
+Además el Packraft MSR ofrece dos posibilidades de quilla
+
+![](./images/mrs-skegs.jpg)
