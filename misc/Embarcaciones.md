@@ -34,6 +34,6 @@
 
 ![](./images/Barracuda-R2-Pro-1.svg)
 
-Además el Packraft MSR ofrece dos posibilidades de quilla
+Además el Packraft MSR ofrece dos posibilidades de quilla, la pequeña viene de serie, [la grande es un extra](https://www.microrafting.com/products/skeg?variant=40271482192069)
 
 ![](./images/mrs-skegs.jpg)
