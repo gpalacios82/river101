@@ -19,3 +19,5 @@
 * **Calado / Puntal**: 31 cm
 * **Peso total**: 5,95 kg
 * **Carga máxima**: 230 Kg
+
+![](./images/Barracuda-R2-Pro-1.svg)
