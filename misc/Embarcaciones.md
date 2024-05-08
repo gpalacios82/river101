@@ -8,6 +8,10 @@
 * **Calado / Puntal**: 10 cm
 * **Peso total**: 3,37 kg
 * **Carga máxima**: 150 Kg
+* **Material**:
+    * Tubos: Nylon 210D
+    * Suelo: Nylon 840D
+    * Cubierta: Nylon 210D
 
 ## Packraft MSR Barracuda R2 PRO
 *Pendiente*
@@ -19,5 +23,9 @@
 * **Calado / Puntal**: 31 cm
 * **Peso total**: 5,95 kg
 * **Carga máxima**: 230 Kg
+* **Material**:
+    * Tubos: Nylon 420D / TPU
+    * Suelo: Nylon 840D / TPU double
+    * Cubierta: Nylon 210D / TPU
 
 ![](./images/Barracuda-R2-Pro-1.svg)
