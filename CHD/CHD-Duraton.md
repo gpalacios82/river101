@@ -67,7 +67,7 @@ Es una zona del rio con más bien poco caudal, habrá que bajarse bastantes vece
 * [Track Walk - 11 Km](https://connect.garmin.com/modern/course/263056101)
 
 **Historial**
-* N/A
+* [20240512 - 3,70m3](https://connect.garmin.com/modern/activity/15352976327/3)
 
 
 ## Río Duratón en Embalse de las Vencías
