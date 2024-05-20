@@ -49,6 +49,8 @@
 * **Estación y Caudal:** [EM521 - Embalse de Burgomillodo](https://www.saihduero.es/risr/EM521)
 * **Tiempo total (aprox):** 5:00
 
+![](../misc/images/chd-carrascal-rio.jpg)
+
 >**Observaciones:**
 *Como referencia se puede obtener la salida del Embalse de Burgomillodo
 Es una zona del rio con más bien poco caudal, habrá que bajarse bastantes veces. Lo bueno es que tiene poco desnivel. Entre la presa y Carrascal del Río, los niños remontan el río para capturar cangrejos de río.*
