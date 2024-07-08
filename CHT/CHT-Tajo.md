@@ -236,6 +236,7 @@
 **Tracks:**
 * [Track Raft - 14,5 Km](https://connect.garmin.com/modern/course/285948657)
 * [Track Walk - 15 Km](https://connect.garmin.com/modern/course/285947435)
+* [Track Bike - 15,6 Km](https://connect.garmin.com/modern/course/285953564)
 
 **Historial**
 * N/A
