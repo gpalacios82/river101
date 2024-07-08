@@ -8,6 +8,7 @@
 * [S8 - Río Tajo en CN José Cabrera-Zorita](./CHT-Tajo.md#río-tajo-en-cn-josé-cabrera-zorita-s8) :heavy_check_mark:
 * [S9 - Río Tajo en Almoguera](./CHT-Tajo.md#río-tajo-en-almoguera-s9) :heavy_check_mark:
 * [S11 - Río Tajo en Aranjuez](./CHT-Tajo.md#río-tajo-en-aranjuez-s11) :heavy_check_mark:
+* [S13 - Río Tajo en Toledo](./CHT-Tajo.md#río-tajo-en-toledo-s13)
 
 ## Río Tajo en Peralejos de las Truchas S2
 
@@ -208,6 +209,36 @@
 * [20240421 - 7,9m3/s](https://connect.garmin.com/modern/activity/15002739376)
 
 ![](../misc/images/CHT-Tajo-s11-conJaime.jpg)
+
+## Río Tajo en Toledo S13
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Tajo
+* **Sector:** 13
+* **Dificultad:** G-I
+* **Estación y Caudal:** [AR10 - Tajo en Higares: 35m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR10)
+* **Fuente:** Libro SUP - Embalses y ríos (p 614)
+* **Tiempo total (aprox):** 8:00
+
+>**Observaciones:**
+*Mejor entre octubre y mayo, aunque en verano estará bien para refrescarse en el río, cero riesgo, y poca corriente*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|     0   |       1    |   1  |      Bajo      |
+
+**Waypoints:**
+* **PID :arrow_lower_right::** [39.902956,-3.937790](https://maps.app.goo.gl/cxFuRbyY8in5U1QW6) :car: [Waze a PID](https://waze.com/?ll=39.902956,-3.937790&navigate=yes)
+* **PSC :arrow_upper_right::** [39.870436,-4.012219](https://maps.app.goo.gl/u588iPz5StD5qgraA) :car: [Waze a PSC](https://waze.com/?ll=39.870436,-4.012219&navigate=yes)
+
+**Tracks:**
+* [Track Raft - 14,5 Km](https://connect.garmin.com/modern/course/285948657)
+* [Track Walk - 15 Km](https://connect.garmin.com/modern/course/285947435)
+
+**Historial**
+* N/A
 
 ## Aviso importante
 
