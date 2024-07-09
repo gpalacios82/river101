@@ -44,11 +44,11 @@ Además el Packraft MRS Barracuda R2 Pro ofrece dos posibilidades de quilla, la 
 * **Marca**: MRS
 * **Modelo**: Alligator 2S Pro
 * **Talla**: M
-* **Eslora**: 256 cm
-* **Manga**: 87 cm
+* **Eslora**: 255 cm
+* **Manga**: 85 cm
 * **Calado / Puntal**: 31 cm
-* **Peso total**: 3,36 kg
-* **Carga máxima**: 140 Kg
+* **Peso total**: 3,55 kg
+* **Carga máxima**: 131 Kg
 * **Material**:
     * Tubos: Nylon 420D / TPU
     * Suelo: Nylon 840D / TPU double
