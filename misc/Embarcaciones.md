@@ -1,6 +1,7 @@
 ## Modelos en mi mochila
-[Packraft Mekong Pablo Whisky Bar](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar)
-[Packraft MSR Barracuda R2 PRO](./Embarcaciones.md#packraft-msr-barracuda-r2-pro)
+* [Packraft Mekong Pablo Whisky Bar](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar)
+* [Packraft MSR Barracuda R2 PRO](./Embarcaciones.md#packraft-msr-barracuda-r2-pro)
+* [Packraft MSR Alligator 2S PRO](./Embarcaciones.md#packraft-msr-alligator-2s-pro)
 
 ### Packraft Mekong Pablo Whisky Bar
 *CHT-43109 / CHE-38531-R / CHC-810-W-001*
