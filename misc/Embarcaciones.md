@@ -18,10 +18,10 @@
     * Cubierta: Nylon 210D
 
 ### Packraft MSR Barracuda R2 PRO
-*Pendiente*
+*CHT-46562*
 * **Marca**: MSR
 * **Modelo**: Barracuda R2 PRO
-* **Talla**: 2 plazas
+* **Talla**: Única (2 plazas)
 * **Eslora**: 360 cm
 * **Manga**: 99 cm
 * **Calado / Puntal**: 31 cm
@@ -37,3 +37,20 @@
 Además el Packraft MSR ofrece dos posibilidades de quilla, la pequeña viene de serie, [la grande es un extra](https://www.microrafting.com/products/skeg?variant=40271482192069)
 
 ![](./images/mrs-skegs.jpg)
+
+### Packraft MSR Alligator 2S Pro
+*Pendiente*
+* **Marca**: MSR
+* **Modelo**: Alligator 2S Pro
+* **Talla**: M
+* **Eslora**: 256 cm
+* **Manga**: 87 cm
+* **Calado / Puntal**: 31 cm
+* **Peso total**: 3,36 kg
+* **Carga máxima**: 140 Kg
+* **Material**:
+    * Tubos: Nylon 420D / TPU
+    * Suelo: Nylon 840D / TPU double
+    * Cubierta: Nylon 210D / TPU
+
+![](./images/Alligator-2S-Pro-1.svg)
