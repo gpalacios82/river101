@@ -45,7 +45,7 @@ Desde el [Registro Electrónico](https://rec.redsara.es/registro/action/are/acce
 
 ### Reclamación de Carta de Pago
 
-De los 3 años que llevo solicitando el permiso de navegación responsable (a fecha 2024):
+De los 4 años que llevo solicitando el permiso de navegación responsable (a fecha 2024):
 * En la CHE me han respondido casi al día siguiente con el permiso gratuito por 5 años
 * En el CHT, me han respondido directamente 1 vez (a los dos meses), las otras 2 veces lo he tenido que reclamar a los 2/3 meses. He conseguido obtener dicha carta de pago mediante contacto con ellos por Email a: [Info Tajo <informacion@chtajo.es>](mailto:informacion@chtajo.es)
 
@@ -70,3 +70,17 @@ DNI: XXXXXXX
 Gracias por todo y un saludo
 Gustavo
 ```
+
+### Matrículas sí o no
+Según la normativa, no queda claro si un packraft hinchable debería o no llevar la matrícula pegada.
+Mi pensamiento es... si es una embarcación y debe tener el permiso de navegación responsable, debería tener la matrícula. Ahora bien, en el Mekong tengo permiso para:
+
+* CHT
+* CHE
+* CHC
+* Quiero sacar en 2025 la del CHD
+
+**¿Cómo hacemos para ponerlas todas?**
+Bueno o usamos el kayak como si fuera un lienzo de gomets, o ponemos las más significativas (donde más vayamos a navegar)
+[Las pegatinas se pueden comprar aquí](https://www.matriculasdebarcos.com/producto/matriculas-confederacion-hidrografica/)
+NO obstante, depende de la interpretación de la ley de los responsables (seprona, guardia civil, medio ambiente...) de si te van a multar o no por llevar o no la matrícula
