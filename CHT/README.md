@@ -1,7 +1,7 @@
 # Cuenca hidrográfica del Tajo
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
-* [Relación de Cauces Navegables CHT - Actualizado a 2024](../misc/CHT-CaucesNavegables-2024.pdf)
+* [Relación de Cauces Navegables CHT - Actualizado a 2024](../misc/var/CHT-CaucesNavegables-2024.pdf)
 
 Es necesario disponer de un permiso de navegación responsable. Se solicita mediante [este procedimiento](../misc/Permisos%20de%20Navegación.md)
 
