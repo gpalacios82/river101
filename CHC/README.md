@@ -1,6 +1,8 @@
 # Cuenca hidrográfica del Cantábrico
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
+![](../misc/images/chc.png)
+
 * [Río Saja](./CHC-Saja.md)
 * [Río Sella](./CHC-Sella.md)
 
