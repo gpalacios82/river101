@@ -18,7 +18,7 @@
     * Cubierta: Nylon 210D
 
 ### Packraft MSR Barracuda R2 PRO
-*CHT-46562*
+*CHT-46562 / CHC-810-W-002*
 * **Marca**: MSR
 * **Modelo**: Barracuda R2 PRO
 * **Talla**: Única (2 plazas)
@@ -39,7 +39,7 @@ Además el Packraft MSR ofrece dos posibilidades de quilla, la pequeña viene de
 ![](./images/mrs-skegs.jpg)
 
 ### Packraft MSR Alligator 2S Pro
-*Pendiente*
+*CHC-810-W-003*
 * **Marca**: MSR
 * **Modelo**: Alligator 2S Pro
 * **Talla**: M
