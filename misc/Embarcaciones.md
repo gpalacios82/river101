@@ -7,10 +7,10 @@
 
 ### Packraft Mekong Pablo Whisky Bar
 * **Matrículas**:
-    * **CHT-43109** *durante 2024*
-    * **CHE-38531-R** *27-oct 2022 hasta 26-oct-2027*
+    * **CHT-43109** *desde 2022 hasta 2024*
+    * **CHE-38531-R** *desde 27-oct 2022 hasta 26-oct-2027*
     * **CHD** *pendiente*
-    * **CHC-810-W-001** *1-30 ago de 2024*
+    * **CHC-810-W-001** *desde 1 hasta 30 ago de 2024*
 * **Marca**: Mekong
 * **Modelo**: Pablo Whisky Bar
 * **Talla**: L
@@ -26,10 +26,10 @@
 
 ### Packraft MRS Barracuda R2 PRO
 * **Matrículas**:
-    * **CHT-46562** *durante 2024*
+    * **CHT-46562** *desde 2024 hasta 2024*
     * **CHE** *en trámite*
     * **CHD** *pendiente*
-    * **CHC-810-W-002** *15 ago - 15 sept de 2024*
+    * **CHC-810-W-002** *desde 15 ago hasta 15 sept de 2024*
 * **Marca**: MRS
 * **Modelo**: Barracuda R2 PRO
 * **Talla**: Única (2 plazas)
@@ -54,7 +54,7 @@ Además el Packraft MRS Barracuda R2 Pro ofrece dos posibilidades de quilla, la 
     * **CHT** *pendiente*
     * **CHE** *en trámite*
     * **CHD** *pendiente*
-    * **CHC-810-W-003** *15 ago - 15 sept de 2024*
+    * **CHC-810-W-003** *desde 15 ago hasta 15 sept de 2024*
 * **Marca**: MRS
 * **Modelo**: Alligator 2S Pro
 * **Talla**: M
