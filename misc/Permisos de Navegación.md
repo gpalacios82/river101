@@ -6,7 +6,7 @@
 
 * **Para la CHT (hasta 3m: 25€ / a partir de 3m: 40€)**: Desde la web de la [CHT](https://www.chtajo.es/Servicios/Tramitaciones/Paginas/procedimientos/navegacion.aspx) podemos acceder y descargar el [formulario de navegación responsable](https://www.chtajo.es/Servicios/Tramitaciones/Documents/Declara_Resp/DR_Impreso_Completo.pdf)
 * **Para la CHC (gratis)**: Desde la web de la [CHC](https://www.chcantabrico.es/servicios/navegacion-y-flotacion) podemos acceder y descargar el [formulario de navegación responsable](https://www.chcantabrico.es/documents/20143/406489/20200508_modelo_declaracion_responsable.pdf/354a99f4-8079-f91e-8421-188a3b759ba3)
-* **Para la CHE (gratis)**: Desde la web de la [CHE](https://www.chebro.es/web/guest/declaracion-responsable-e-instrucciones-para-su-cumplimentacion) podemos acceder y tramitarlo directamente online, sin formularios
+* **Para la CHE (gratis)**: Desde la web de la [CHE](https://sede.miteco.gob.es/portal/site/seMITECO/ficha-procedimiento?procedure_suborg_responsable=3&boton=Ver+m%C3%A1s&procedure_id=253&by=theme) podemos acceder y tramitarlo directamente online, sin formularios
 
 Se rellena con nuestros datos y la de nuestra embarcación, y se guarda o imprime en PDF. Si tuvieramos matrícula de años anteriores, hay que rellenarla. Hay que firmarlo 2 veces, en la parte de las embarcaciones, y la parte de autorización RGPD
 
