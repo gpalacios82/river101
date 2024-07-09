@@ -10,7 +10,7 @@
 
 ## Índice
 * [Río Duratón desde el Puente de Villaseca](./CHD-Duraton.md#río-duratón-desde-el-puente-de-villaseca)
-* [Río Duratón desde Burgomillodo hasta San Miguel de Bernuy](./CHD-Duraton.md#río-duratón-desde-burgomillodo-hasta-san-miguel-de-bernuy)
+* [Río Duratón desde Burgomillodo hasta San Miguel de Bernuy](./CHD-Duraton.md#río-duratón-desde-burgomillodo-hasta-san-miguel-de-bernuy) :heavy_check_mark:
 * [Río Duratón en el embalse de las Vencías](./CHD-Duraton.md#río-duratón-en-embalse-de-las-vencías) :heavy_check_mark:
 
 ## Río Duratón desde el Puente de Villaseca
