@@ -1,5 +1,7 @@
 ## Solicitud de permiso de navegación responsable
 
+![](./images/spain.png)
+
 ### Descarga del Formulario
 
 * **Para la CHT (hasta 3m: 25€ / a partir de 3m: 40€)**: Desde la web de la [CHT](https://www.chtajo.es/Servicios/Tramitaciones/Paginas/procedimientos/navegacion.aspx) podemos acceder y descargar el [formulario de navegación responsable](https://www.chtajo.es/Servicios/Tramitaciones/Documents/Declara_Resp/DR_Impreso_Completo.pdf)
