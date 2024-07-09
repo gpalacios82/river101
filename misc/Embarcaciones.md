@@ -1,10 +1,16 @@
 ## Modelos en mi mochila
-* [Packraft Mekong Pablo Whisky Bar](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar)
-* [Packraft MRS Barracuda R2 PRO](./Embarcaciones.md#packraft-MRS-barracuda-r2-pro)
-* [Packraft MRS Alligator 2S PRO](./Embarcaciones.md#packraft-MRS-alligator-2s-pro)
+| Embarcación | CHT | CHE | CHD | CHC | Link |
+|-------------|-----|-----|-----|-----|------|
+| Mekong Pablo Whisky Bar | CHT-43109 | CHE-38531-R | *Pendiente* | CHC-810-W-001 | [Mekong](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar) |
+| MRS Barracuda R2 PRO | CHT-46562 | *En trámite* | *Pendiente* | CHC-810-W-002 | [Barracuda](./Embarcaciones.md#packraft-MRS-barracuda-r2-pro) |
+| MRS Alligator 2S PRO | *Pendiente* | *En trámite* | *Pendiente* | CHC-810-W-003 | [Alligator](./Embarcaciones.md#packraft-MRS-alligator-2s-pro) |
 
 ### Packraft Mekong Pablo Whisky Bar
-*CHT-43109 / CHE-38531-R / CHC-810-W-001*
+* **Matrículas**:
+    * **CHT-43109** *durante 2024*
+    * **CHE-38531-R** *27-oct 2022 hasta 26-oct-2027*
+    * **CHD** *pendiente*
+    * **CHC-810-W-001** *1-30 ago de 2024*
 * **Marca**: Mekong
 * **Modelo**: Pablo Whisky Bar
 * **Talla**: L
@@ -19,7 +25,11 @@
     * Cubierta: Nylon 210D
 
 ### Packraft MRS Barracuda R2 PRO
-*CHT-46562 / CHC-810-W-002*
+* **Matrículas**:
+    * **CHT-46562** *durante 2024*
+    * **CHE** *en trámite*
+    * **CHD** *pendiente*
+    * **CHC-810-W-002** *15 ago - 15 sept de 2024*
 * **Marca**: MRS
 * **Modelo**: Barracuda R2 PRO
 * **Talla**: Única (2 plazas)
@@ -40,7 +50,11 @@ Además el Packraft MRS Barracuda R2 Pro ofrece dos posibilidades de quilla, la 
 ![](./images/MRS-skegs.jpg)
 
 ### Packraft MRS Alligator 2S Pro
-*CHC-810-W-003*
+* **Matrículas**:
+    * **CHT** *pendiente*
+    * **CHE** *en trámite*
+    * **CHD** *pendiente*
+    * **CHC-810-W-003** *15 ago - 15 sept de 2024*
 * **Marca**: MRS
 * **Modelo**: Alligator 2S Pro
 * **Talla**: M
