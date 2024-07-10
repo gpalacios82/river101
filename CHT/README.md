@@ -8,6 +8,7 @@ Es necesario disponer de un permiso de navegación responsable. Se solicita medi
 * [Río Alberche](./CHT-Alberche.md)
 * [Río Guadiela](./CHT-Guadiela.md)
 * [Río Jarama](./CHT-Jarama.md)
+* [Río Lozoya](./CHT-Lozoya.md)
 * [Río Tajo](./CHT-Tajo.md)
 
 ## Aviso importante
