@@ -16,7 +16,7 @@
 * **Tiempo total (aprox):** 5:00
 
 >**Observaciones:**
-*No he encontrado ningún sitio en internet donde se muestre el aforo del río. Ni hay estaciones en el río, ni el embalse del Atazar informa del agua circundante de salida*
+*No he encontrado ningún sitio en internet donde se muestre el aforo del río. Ni hay estaciones en el río, ni el embalse del Atazar informa del agua circundante de salida, ni de entrada en el Pontón de la Oliva, ni tampoco en el Azud de La Parra, por lo que aunque hay sueltas continuas desde el Atazar, habrá que tener cuidado con las posibles subidas de agua*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
