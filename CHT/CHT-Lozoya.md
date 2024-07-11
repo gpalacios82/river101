@@ -10,9 +10,9 @@
 * **Cuenca:** CHT
 * **Río:** Lozoya
 * **Sector:** 6
-* **Dificultad:** G-XXX(XXX)
+* **Dificultad:** G-II(3)
 * **Estación y Caudal:** *No encontrado*
-* **Fuente:** Libro SUP - Embalses y ríos (p XXX)
+* **Fuente:** Libro SUP - Embalses y ríos (p 544)
 * **Tiempo total (aprox):** 5:00
 
 >**Observaciones:**
