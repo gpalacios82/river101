@@ -51,7 +51,7 @@ Además el Packraft MRS Barracuda R2 Pro ofrece dos posibilidades de quilla, la 
 
 ### Packraft MRS Alligator 2S Pro
 * **Matrículas**:
-    * **CHT** *pendiente*
+    * **CHT** *en trámite*
     * **CHE** *en trámite*
     * **CHD** *pendiente*
     * **CHC-810-W-003** *desde 15 ago hasta 15 sept de 2024*
