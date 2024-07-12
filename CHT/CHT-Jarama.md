@@ -18,7 +18,18 @@
 * **Tiempo total (aprox):** 4:00
 
 >**Observaciones:**
-*Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y desde la fecha de edición del libro, la rivera del río ha ido ganando frondosidad. Observé dos puntos intermedios en el río, y además de mucha velocidad (15m3) habia zonas muy estrechas y con muchas ramas. Eso facilita la posibilidad de quedarse enganchado, y se dificulta la posibilidad de evacuación. Totalmente descartado remontar el río. No se puede hacer en solitario*
+Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y desde la fecha de edición del libro, la rivera del río ha ido ganando frondosidad. Observé dos puntos intermedios en el río, y además de mucha velocidad (15m3) habia zonas muy estrechas y con muchas ramas. Eso facilita la posibilidad de quedarse enganchado, y se dificulta la posibilidad de evacuación. Totalmente descartado remontar el río. No se puede hacer en solitario
+Lo he visto con 10m3 y hay tramos que dan miedo. Y lo he visto con 3m3 y va justo pero se puede hacer, por lo que yo creo que el rango perfecto para hacerlo sería entre 5-7m3 dada la gran densidad de vegetación de la rivera
+
+**Galería fotográfica:**
+Puente al lado de la Playa del Jarama con **3m3** de agua
+![](../misc/images/cht-jarama-s6-3m3-01.jpg) ![](../misc/images/cht-jarama-s6-3m3-02.jpg) 
+
+Mismo punto con **10m3** de agua
+![](../misc/images/cht-jarama-s6-10m3-01.png) ![](../misc/images/cht-jarama-s6-10m3-02.png) 
+
+Otro punto del recorrido, más abajo, tambien con **10m3**
+![](../misc/images/cht-jarama-s6-10m3-03.png) ![](../misc/images/cht-jarama-s6-10m3-04.jpg) 
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |

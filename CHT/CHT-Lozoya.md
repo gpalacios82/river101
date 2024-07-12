@@ -16,12 +16,23 @@
 * **Tiempo total (aprox):** 5:00
 
 >**Observaciones:**
-*No he encontrado ningún sitio en internet donde se muestre el aforo del río. Ni hay estaciones en el río, ni el embalse del Atazar informa del agua circundante de salida, ni de entrada en el Pontón de la Oliva, ni tampoco en el Azud de La Parra, por lo que aunque hay sueltas continuas desde el Atazar, habrá que tener cuidado con las posibles subidas de agua*
+*No he encontrado ningún sitio en internet donde se muestre el aforo del río. Ni hay estaciones en el río, ni el embalse del Atazar informa del agua circundante de salida, ni de entrada en el Pontón de la Oliva, ni tampoco en el Azud de La Parra, por lo que aunque hay sueltas continuas desde el Atazar, habrá que tener cuidado con las posibles subidas de agua
+
+Por otro lado, hay mucha vegetación y árboles caidos en todo el curso del río. Con poco agua se puede hacer y es más fácil, aunque corremos el riesgo de que no se pueda meter bien la pala. Con mucho agua, a pesar de que hay poco desnivel, el rio puede alcanzar grandes velocidades, y en algunos tramos el río puede convertirse en una trampa mortal, por haber un tramo lleno de zarzas y ramas sin salida.*
+
+**Galería fotográfica:**
+Varias fotos a lo largo del recorrido con poco agua, muy justo para navegar (tomadas el 11/07/24)
+![](../misc/images/cht-lozoya-s6-01.jpg) 
+![](../misc/images/cht-lozoya-s6-02.jpg) 
+![](../misc/images/cht-lozoya-s6-03.jpg) 
+![](../misc/images/cht-lozoya-s6-04.jpg) 
+![](../misc/images/cht-lozoya-s6-05.jpg) 
+![](../misc/images/cht-lozoya-s6-06.jpg) 
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
-|    x    |     x      |   x  |   Pendiente    |
+|    2    |     2      |   4  |   Alto    |
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [40.912883,-3.451326](https://maps.app.goo.gl/ZBQfK9zXSVHmMR3e8) :car: [Waze a PID](https://waze.com/?ll=40.912883,-3.451326&navigate=yes)
