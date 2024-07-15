@@ -2,13 +2,8 @@
 | Embarcación | CHT | CHE | CHD | CHC | Link |
 |-------------|-----|-----|-----|-----|------|
 | Mekong Pablo Whisky Bar | CHT-43109 | CHE-38531-R | *Pendiente* | CHC-810-W-001 | [Mekong](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar) |
-<<<<<<< HEAD
 | MRS Barracuda R2 PRO | CHT-46562 | CHE-41245-R | *Pendiente* | CHC-810-W-002 | [Barracuda](./Embarcaciones.md#packraft-MRS-barracuda-r2-pro) |
 | MRS Alligator 2S PRO | *En trámite* | CHE-41246-R | *Pendiente* | CHC-810-W-003 | [Alligator](./Embarcaciones.md#packraft-MRS-alligator-2s-pro) |
-=======
-| MRS Barracuda R2 PRO | CHT-46562 | CHE-41245-R | *Pendiente* | CHC-810-W-002 | [Barracuda](./Embarcaciones.md#packraft-MRS-barracuda-r2-pro) |
-| MRS Alligator 2S PRO | *En trámite* | CHE-41246-R | *Pendiente* | CHC-810-W-003 | [Alligator](./Embarcaciones.md#packraft-MRS-alligator-2s-pro) |
->>>>>>> 129a1841ab5aa72c59e9578110b47916df15089c
 
 ### Packraft Mekong Pablo Whisky Bar
 * **Matrículas**:
