@@ -219,7 +219,7 @@
 * **Dificultad:** G-I
 * **Estación y Caudal:** [AR10 - Tajo en Higares: 35m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR10)
 * **Fuente:** Libro SUP - Embalses y ríos (p 614)
-* **Tiempo total (aprox):** 8:00 by walk / 6:00 by foot
+* **Tiempo total (aprox):** 8:00 by walk / 6:00 by bike
 
 >**Observaciones:**
 *Mejor entre octubre y mayo, aunque en verano estará bien para refrescarse en el río, cero riesgo, y poca corriente*
