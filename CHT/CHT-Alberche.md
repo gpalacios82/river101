@@ -24,7 +24,8 @@
 |     0   |       1    |   1  |      Bajo      |
 
 **Waypoints:**
-* **PID/PSC:** [40.36798525173037,-4.304214797326591](https://maps.app.goo.gl/bQ1y4CQ3naBfBZrVA) :car: [Waze a PID/PSC](https://waze.com/?ll=40.36798525173037,-4.304214797326591&navigate=yes)
+* **PID/PSC:** [40.367985,-4.304214](https://maps.app.goo.gl/bQ1y4CQ3naBfBZrVA) :car: [Waze a PID/PSC](https://waze.com/?ll=40.367985,-4.304214&navigate=yes)
+* **PID/PSC Alternativo (4x4):** [40.353379,-4.281761](https://maps.app.goo.gl/AMtc3cdfJxoPwkuk9) :car: [Waze a PID/PSC](https://waze.com/?ll=40.353379,-4.281761&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 15 Km](https://connect.garmin.com/modern/course/75805824)
