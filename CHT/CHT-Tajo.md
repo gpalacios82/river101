@@ -219,7 +219,7 @@
 * **Dificultad:** G-I
 * **Estación y Caudal:** [AR10 - Tajo en Higares: 35m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR10)
 * **Fuente:** Libro SUP - Embalses y ríos (p 614)
-* **Tiempo total (aprox):** 8:00 by walk / 6:00 by bike
+* **Tiempo total (aprox):** 8:00 by walk / 6:00 by bike / 5:30 by walk corto
 
 >**Observaciones:**
 *Mejor entre octubre y mayo, aunque en verano estará bien para refrescarse en el río, cero riesgo, y poca corriente*
@@ -237,6 +237,7 @@
 * [Track Raft - 14,5 Km](https://connect.garmin.com/modern/course/285948657)
 * [Track Walk - 15 Km](https://connect.garmin.com/modern/course/285947435)
 * [Track Bike - 15,6 Km](https://connect.garmin.com/modern/course/285953564)
+* [Track Walk Corto - 8 Km](https://connect.garmin.com/modern/course/289131377)
 
 **Historial**
 * N/A
