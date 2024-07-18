@@ -17,7 +17,7 @@
 * **Sector:** Desde Torrelavega a su desembocadura
 * **Dificultad:** Pendiente
 * **Estación y Caudal:** [1240 - Río Saja en Torrelavega](https://visor.saichcantabrico.es/)
-* **Tiempo total (aprox):** 5:00
+* **Tiempo total (aprox):** 5:00 (4:00 acortado)
 
 >**Observaciones:**
 *Habrá que observar el río para evaluar si hay nivel suficiente. Cuidado con la estación de aforo, habrá que esquivarla*
@@ -31,11 +31,13 @@
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [43.355851,-4.059678](https://maps.app.goo.gl/gdPm3TkRxPG1piNh9) :car: [Waze a PID](https://waze.com/?ll=43.355851,-4.059678&navigate=yes)
+* **PID alternativo :arrow_lower_right::** [43.377409,-4.047008](https://maps.app.goo.gl/gdPm3TkRxPG1piNh9) :car: [Waze a PID](https://waze.com/?ll=43.377409,-4.047008&navigate=yes)
 * **PSC :arrow_upper_right::** [43.433841,-4.039856](https://maps.app.goo.gl/x1LJqr3k7kYBZHnQ8) :car: [Waze a PSC](https://waze.com/?ll=43.433841,-4.039856&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 13 Km](https://connect.garmin.com/modern/course/263074652)
 * [Track Walk - 11 Km](https://connect.garmin.com/modern/course/263074264)
+* [Track Walk Acortado - 7,5 Km](https://connect.garmin.com/modern/course/289134936)
 
 **Historial**
 * N/A
