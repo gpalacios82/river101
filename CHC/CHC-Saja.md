@@ -34,6 +34,8 @@
 * **PID alternativo :arrow_lower_right::** [43.377409,-4.047008](https://maps.app.goo.gl/yyHak9qt4zAj3yAF7) :car: [Waze a PID](https://waze.com/?ll=43.377409,-4.047008&navigate=yes)
 * **PSC :arrow_upper_right::** [43.433841,-4.039856](https://maps.app.goo.gl/x1LJqr3k7kYBZHnQ8) :car: [Waze a PSC](https://waze.com/?ll=43.433841,-4.039856&navigate=yes)
 
+> **Marea alta** Habrá que tener en cuenta las mareas para hacer el recorrido con más agua, idealmente cuando haya marea alta: [ver tabla de mareas](https://es.surf-forecast.com/breaks/Los-Locos/tides/latest)
+
 **Tracks:**
 * [Track Raft - 13 Km](https://connect.garmin.com/modern/course/263074652)
 * [Track Walk - 11 Km](https://connect.garmin.com/modern/course/263074264)
