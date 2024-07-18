@@ -31,7 +31,7 @@
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [43.355851,-4.059678](https://maps.app.goo.gl/gdPm3TkRxPG1piNh9) :car: [Waze a PID](https://waze.com/?ll=43.355851,-4.059678&navigate=yes)
-* **PID alternativo :arrow_lower_right::** [43.377409,-4.047008](https://maps.app.goo.gl/gdPm3TkRxPG1piNh9) :car: [Waze a PID](https://waze.com/?ll=43.377409,-4.047008&navigate=yes)
+* **PID alternativo :arrow_lower_right::** [43.377409,-4.047008](https://maps.app.goo.gl/yyHak9qt4zAj3yAF7) :car: [Waze a PID](https://waze.com/?ll=43.377409,-4.047008&navigate=yes)
 * **PSC :arrow_upper_right::** [43.433841,-4.039856](https://maps.app.goo.gl/x1LJqr3k7kYBZHnQ8) :car: [Waze a PSC](https://waze.com/?ll=43.433841,-4.039856&navigate=yes)
 
 **Tracks:**
