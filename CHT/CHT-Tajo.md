@@ -2,7 +2,8 @@
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Índice
-* [S2 - Río Tajo en Peralejos de las Truchas](./CHT-Tajo.md#río-tajo-en-peralejos-de-las-truchas-s2) :heavy_check_mark:
+* [S1 - Río Tajo en Peralejos de las Truchas](./CHT-Tajo.md#río-tajo-en-peralejos-de-las-truchas-s1)
+* [S2 - Río Tajo en Salto de Poveda](./CHT-Tajo.md#río-tajo-en-salto-de-poveda-s2) :heavy_check_mark:
 * [S6 - Río Tajo en Puente de Murel](./CHT-Tajo.md#río-tajo-en-puente-de-murel-s6)
 * [S7 - Río Tajo en CN Trillo](./CHT-Tajo.md#río-tajo-en-cn-trillo-s7)
 * [S8 - Río Tajo en CN José Cabrera-Zorita](./CHT-Tajo.md#río-tajo-en-cn-josé-cabrera-zorita-s8) :heavy_check_mark:
@@ -10,17 +11,47 @@
 * [S11 - Río Tajo en Aranjuez](./CHT-Tajo.md#río-tajo-en-aranjuez-s11) :heavy_check_mark:
 * [S13 - Río Tajo en Toledo](./CHT-Tajo.md#río-tajo-en-toledo-s13)
 
-## Río Tajo en Peralejos de las Truchas S2
+## Río Tajo en Peralejos de las Truchas S1
 
 **Datos Generales:**
 * **Cuenca:** CHT
 * **Río:** Tajo
-* **Sector:** 1 y 2
-* **Dificultad:** G-II(2+)
+* **Sector:** 1
+* **Dificultad:** G-III(3+)
 * **Estaciones y Caudales:**
     * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 578)
+* **Tiempo total (aprox):** Pendiente
+
+>**Observaciones:**
+*Pendiente*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|   Pendiente   |    Pendiente    |  Pendiente  |     Pendiente      |
+
+**Waypoints:**
+*Pendiente*
+
+**Tracks:**
+*Pendiente*
+
+**Historial**
+* N/A
+
+## Río Tajo en Salto de Poveda S2
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Tajo
+* **Sector:** 2
+* **Dificultad:** G-II(3)
+* **Estaciones y Caudales:**
+    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+* **Fuente:** Libro SUP - Embalses y ríos (p 582)
 * **Tiempo total (aprox):** 12:00
 
 >**Observaciones:**
@@ -40,7 +71,8 @@
 * [Track Walk - 14 Km](https://connect.garmin.com/modern/course/188400896)
 
 **Historial**
-* [20220819 - 25m3/s (en Trillo)](https://connect.garmin.com/modern/activity/9435744089)
+* [20220819 - Parte Baja](https://connect.garmin.com/modern/activity/9435744089)
+* [20240822 - 7,05m3/s (en Trillo) - Parte Alta](https://connect.garmin.com/modern/activity/16830867287)
 
 ## Río Tajo en Puente de Murel S6
 
