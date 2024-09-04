@@ -17,7 +17,7 @@
 * **Río:** Cabriel
 * **Sector:** Tamayo y Tete
 * **Dificultad:** G-II(3)
-* **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
+* **Estación y Caudal:** [EA130 - Contreras](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
 * **Tiempo total (aprox):** 7:30
 
 **Waypoints:**
@@ -38,7 +38,7 @@
 * **Río:** Cabriel
 * **Sector:** Tamayo
 * **Dificultad:** G-II(3)
-* **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
+* **Estación y Caudal:** [EA130 - Contreras](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
 * **Tiempo total (aprox):** 7:00
 
 **Waypoints:**
@@ -60,7 +60,7 @@
 * **Río:** Cabriel
 * **Sector:** Tete
 * **Dificultad:** G-I(2)
-* **Estación y Caudal:** [EA112 - Cofrentes](https://saih.chj.es/chj/saih/estacionform?id=313&t=a)
+* **Estación y Caudal:** [EA130 - Contreras](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
 * **Tiempo total (aprox):** 5:30
 
 **Waypoints:**
