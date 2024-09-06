@@ -17,8 +17,11 @@
 * **Río:** Cabriel
 * **Sector:** Tamayo y Tete
 * **Dificultad:** G-II(3)
-* **Estación y Caudal:** [EA130 - Contreras](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
+* **Estación y Caudal:** [EA130 - Contreras: 5-20m3](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
 * **Tiempo total (aprox):** 7:30
+
+>**Observaciones:**
+*El río cambia radicalmente entre hacerlo con 7 o con 14m3. Por ejemplo, con 7m3, recuerdo caidas de agua tipo azud, que se habian convertido en trenes de olas con 14m3. De hecho es más divertido este tramo con 7 que con 14, ya que el rio tiene más gracia. Con 14 es todo agua rápida y trenes de olas*
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [39.371443,-1.449603](https://maps.app.goo.gl/gyorUtGE9u5uP97j6) :car: [Waze a PID](https://waze.com/?ll=39.371443,-1.449603&navigate=yes)
@@ -38,7 +41,7 @@
 * **Río:** Cabriel
 * **Sector:** Tamayo
 * **Dificultad:** G-II(3)
-* **Estación y Caudal:** [EA130 - Contreras](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
+* **Estación y Caudal:** [EA130 - Contreras: 5-20m3](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
 * **Tiempo total (aprox):** 7:00
 
 **Waypoints:**
@@ -60,7 +63,7 @@
 * **Río:** Cabriel
 * **Sector:** Tete
 * **Dificultad:** G-I(2)
-* **Estación y Caudal:** [EA130 - Contreras](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
+* **Estación y Caudal:** [EA130 - Contreras: 5-20m3](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
 * **Tiempo total (aprox):** 5:30
 
 **Waypoints:**
@@ -73,6 +76,7 @@
 
 **Historial**
 * [20220828 - 6,53m3/s](https://connect.garmin.com/modern/activity/9495001222)
+* [20240906 - 12,7m3/s](https://connect.garmin.com/modern/activity/16963988558/3)
 
 ## Aviso importante
 >*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
