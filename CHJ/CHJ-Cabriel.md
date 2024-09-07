@@ -4,8 +4,8 @@
 **Fuente:** [Topología del Cabriel en Youtube](https://www.youtube.com/watch?v=e7pmjRh3XRc)
 
 ## Índice
-* [Río Cabriel Tamayo y Tete](CHJ-Cabriel.md#río-cabriel-tamayo-y-tete)
-* [Río Cabriel Tamayo](CHJ-Cabriel.md#río-cabriel-tamayo)
+* [Río Cabriel Tamayo y Tete](CHJ-Cabriel.md#río-cabriel-tamayo-y-tete) :heavy_check_mark:
+* [Río Cabriel Tamayo](CHJ-Cabriel.md#río-cabriel-tamayo) :heavy_check_mark:
 * [Río Cabriel Tete](CHJ-Cabriel.md#río-cabriel-tete) :heavy_check_mark:
 
 
@@ -32,7 +32,8 @@
 * [Track Walk - 5 Km](https://connect.garmin.com/modern/course/127111055)
 
 **Historial**
-* N/A
+* [20240907 - 12,13m3/s](https://connect.garmin.com/modern/activity/16970708702/1)
+* [20240907 - 12,27m3/s](https://connect.garmin.com/modern/activity/16973531327/1)
 
 ## Río Cabriel Tamayo
 
@@ -53,8 +54,8 @@
 * [Track Walk - 5,5 Km](https://connect.garmin.com/modern/course/260097420)
 
 **Historial**
-* N/A
-
+* [20240907 - 12,13m3/s](https://connect.garmin.com/modern/activity/16970708702/1)
+* [20240907 - 12,27m3/s](https://connect.garmin.com/modern/activity/16973531327/1)
 
 ## Río Cabriel Tete
 
@@ -77,6 +78,8 @@
 **Historial**
 * [20220828 - 6,53m3/s](https://connect.garmin.com/modern/activity/9495001222)
 * [20240906 - 12,7m3/s](https://connect.garmin.com/modern/activity/16963988558/3)
+* [20240907 - 12,13m3/s](https://connect.garmin.com/modern/activity/16970708702/1)
+* [20240907 - 12,27m3/s](https://connect.garmin.com/modern/activity/16973531327/1)
 
 ## Aviso importante
 >*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
