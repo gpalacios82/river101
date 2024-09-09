@@ -3,7 +3,6 @@
 
 Es necesario disponer de un permiso de navegación responsable. Se solicita mediante [este procedimiento](../misc/Permisos%20de%20Navegación.md)
 
-* [Río Ebro](./CHE-Ebro.md)
 * [Río Gállego](./CHE-Gallego.md)
 
 ## Aviso importante
