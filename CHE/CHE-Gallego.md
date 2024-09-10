@@ -9,9 +9,13 @@
 **Datos Generales:**
 * **Cuenca:** CHE
 * **Río:** Gallego
-* **Sector:** Murillo de Gállego
+* **Sector:** S4 y S5 - Murillo de Gállego
 * **Dificultad:** G-III(IV)
 * **Estación y Caudal:** [A059 - Gállego en Santa Eulalia](http://www.saihebro.com/semobile/index.php?url=/tr/ficha/estacion:A059)
+* **Fuente:** Guía de navegación de los Ríos Pirenaicos (p.65)
+
+**Tracks:**
+* [Track Raft - 7,5 Km](https://connect.garmin.com/modern/course/306567836)
 
 >**Observaciones:**
 *Realizado siempre con guias*
