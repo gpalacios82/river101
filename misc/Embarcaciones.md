@@ -3,7 +3,7 @@
 |-------------|-----|-----|-----|-----|------|
 | Mekong Pablo Whisky Bar | CHT-43109 | CHE-38531-R | *Pendiente* | CHC-810-W-001 | [Mekong](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar) |
 | MRS Barracuda R2 PRO | CHT-46562 | CHE-41245-R | *Pendiente* | CHC-810-W-002 | [Barracuda](./Embarcaciones.md#packraft-MRS-barracuda-r2-pro) |
-| MRS Alligator 2S PRO | *En trámite* | CHE-41246-R | *Pendiente* | CHC-810-W-003 | [Alligator](./Embarcaciones.md#packraft-MRS-alligator-2s-pro) |
+| MRS Alligator 2S PRO | CHT-46867 | CHE-41246-R | *Pendiente* | CHC-810-W-003 | [Alligator](./Embarcaciones.md#packraft-MRS-alligator-2s-pro) |
 
 ### Packraft Mekong Pablo Whisky Bar
 * **Matrículas**:
@@ -51,7 +51,7 @@ Además el Packraft MRS Barracuda R2 Pro ofrece dos posibilidades de quilla, la 
 
 ### Packraft MRS Alligator 2S Pro
 * **Matrículas**:
-    * **CHT** *en trámite*
+    * **CHT-46867** *desde 2024 hasta 2024*
     * **CHE-41246-R** *desde 2024 hasta 31 de julio de 2029*
     * **CHD** *pendiente*
     * **CHC-810-W-003** *desde 15 ago hasta 15 sept de 2024*
