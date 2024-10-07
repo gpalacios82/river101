@@ -2,6 +2,7 @@
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Índice
+* [S4 - Río Guadiela en La Ruidera](./CHT-Guadiela.md#río-guadiela-en-la-ruidera-s4-sub-tramo-ii)
 * [S5 - Río Guadiela en Villar del Infantado](./CHT-Guadiela.md#río-guadiela-en-villar-del-infantado-s5-sub-tramo-ii)
 
 ![](../misc/images/cht-guadiela.jpg)
