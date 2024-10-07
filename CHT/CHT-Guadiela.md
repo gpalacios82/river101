@@ -9,6 +9,38 @@
 * **Tramo I:** [Presa del embalse del molino de Chincha](https://maps.app.goo.gl/kopDQTeuA5kzkeB96) > [Cola del embalse de la Ruidera](https://maps.app.goo.gl/5LoFkw9HUSgJK7iG8)
 * **Tramo II:** [Presa del embalse de la Ruidera (Parking de las Juntas)](https://maps.app.goo.gl/TgsDYqKD69TDmfCY6) > [Cola del embalse de Buendía](https://maps.app.goo.gl/faLCwpQdgJwi5Top7)
 
+## Río Guadiela en La Ruidera S4 (Sub Tramo II)
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Guadiela
+* **Sector:** 4
+* **Dificultad:** G-II(3)
+* **Estación y Caudal:** [AR04 - Guadiela en la ruidera: 15-20m3 (aceptable desde 10m3)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR04)
+* **Fuente:** Libro SUP - Embalses y ríos (p 458)
+* **Tiempo total (aprox):** X:XX
+
+>**Observaciones:**
+*Hay muchos saltos de medio metro. En total unos 17 pasos de grado 2+.
+Los últimos 5km sucedenen un cauce más ancho, y la velocidad es más suave
+La salida es justo después de la presa de la sartenilla (en la zona de baño de Villar del Infartado), se puede sortear por ambos márgenes*
+
+**Tabla de riesgos**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    X    |      X     |  X   |      XXXXX     |
+
+**Waypoints:**
+* **PID :arrow_upper_right::** [40.4736475,-2.3856862](https://maps.app.goo.gl/QDBtMHJwbmUz5qtq6) :car: [Waze a PID](https://waze.com/?ll=40.4736475,-2.3856862&navigate=yes)
+* **PSC :arrow_lower_right::** [40.4202209,-2.4782656](https://maps.app.goo.gl/hmZ1jz2Vd6ABZMcm7) :car: [Waze a PSC](https://waze.com/?ll=40.4202209,-2.4782656&navigate=yes)
+
+**Tracks:**
+* [Track Raft - 13 Km](https://connect.garmin.com/modern/course/312749736)
+* [Track Walk - 15 Km](https://connect.garmin.com/modern/course/312747273)
+
+**Historial**
+* N/A
+
 ## Río Guadiela en Villar del Infantado S5 (Sub Tramo II)
 
 **Datos Generales:**
