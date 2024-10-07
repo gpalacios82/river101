@@ -2,11 +2,19 @@
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Índice
-* [S5 - Río Guadiela en Villar del Infantado](./CHT-Guadiela.md#río-guadiela-en-villar-del-infantado-s5)
+* [S5 - Río Guadiela en Villar del Infantado](./CHT-Guadiela.md#río-guadiela-en-villar-del-infantado-s5-sub-tramo-ii)
 
 ![](../misc/images/cht-guadiela.jpg)
 
-## Río Guadiela en Villar del Infantado S5
+Tramo I:
+    * [Presa del embalse del molino de Chincha](https://maps.app.goo.gl/kopDQTeuA5kzkeB96)
+    * [Cola del embalse de la Ruidera](https://maps.app.goo.gl/5LoFkw9HUSgJK7iG8)
+
+Tramo II:
+    * [Presa del embalse de la Ruidera - Parking de las Juntas (descenso popular)](https://maps.app.goo.gl/TgsDYqKD69TDmfCY6)
+    * [Cola del embalse de Buendía](https://maps.app.goo.gl/faLCwpQdgJwi5Top7)
+
+## Río Guadiela en Villar del Infantado S5 (Sub Tramo II)
 
 **Datos Generales:**
 * **Cuenca:** CHT
