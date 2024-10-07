@@ -6,11 +6,11 @@
 
 ![](../misc/images/cht-guadiela.jpg)
 
-Tramo I:
+**Tramo I:**
 * [Presa del embalse del molino de Chincha](https://maps.app.goo.gl/kopDQTeuA5kzkeB96)
 * [Cola del embalse de la Ruidera](https://maps.app.goo.gl/5LoFkw9HUSgJK7iG8)
 
-Tramo II:
+**Tramo II:**
 * [Presa del embalse de la Ruidera - Parking de las Juntas (descenso popular)](https://maps.app.goo.gl/TgsDYqKD69TDmfCY6)
 * [Cola del embalse de Buendía](https://maps.app.goo.gl/faLCwpQdgJwi5Top7)
 
