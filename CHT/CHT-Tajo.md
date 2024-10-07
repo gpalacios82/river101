@@ -19,7 +19,6 @@
 * **Sector:** 1
 * **Dificultad:** G-III(3+)
 * **Estaciones y Caudales:**
-    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 578)
 * **Tiempo total (aprox):** Pendiente
@@ -49,7 +48,6 @@
 * **Sector:** 2
 * **Dificultad:** G-II(3)
 * **Estaciones y Caudales:**
-    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 582)
 * **Tiempo total (aprox):** 12:00
@@ -82,13 +80,13 @@
 * **Sector:** 6
 * **Dificultad:** G-I(II)
 * **Estaciones y Caudales:**
-    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 598)
 * **Tiempo total (aprox):** 9:00
 
 >**Observaciones:**
-*Los primeros kms hasta la presa discurren con algunos tramos de aguas rápidas de clase II. Ojo en la presa, que hay que sortearla por la izquierda*
+*Los primeros kms hasta la presa discurren con algunos tramos de aguas rápidas de clase II. Ojo en la presa, que hay que sortearla por la izquierda.
+Una vez sorteada la presa, no hay ninguna dificultad, ya que es un tramo del río que se hace en plan "descenso popular" de trillo*
 ![Camino para esquivar la presa](../misc/images/cht-tajo-s6-escape-presa.jpg)
 
 **Tabla de riesgos**
@@ -115,7 +113,6 @@
 * **Sector:** 7
 * **Dificultad:** G-I/II
 * **Estaciones y Caudales:**
-    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 600)
 * **Tiempo total (aprox):** 10:00
@@ -148,7 +145,6 @@
 * **Dificultad:** G-I/II
 * **Dificultad alternativo:** G-I
 * **Estaciones y Caudales:**
-    * [AR52 - La Rocha: 10-20m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR02)
     * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
 * **Fuente:** Libro SUP - Embalses y ríos (p 604)
 * **Tiempo total (aprox):** 7:30 (alternativo)
