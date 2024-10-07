@@ -4,6 +4,8 @@
 ## Índice
 * [S5 - Río Guadiela en Villar del Infantado](./CHT-Guadiela.md#río-guadiela-en-villar-del-infantado-s5)
 
+![](../misc/images/cht-guadiela.jpg)
+
 ## Río Guadiela en Villar del Infantado S5
 
 **Datos Generales:**
