@@ -16,7 +16,7 @@
 * **Cuenca:** CHT
 * **Río:** Guadiela
 * **Sector:** 4
-* **Dificultad:** G-II(3)
+* **Dificultad:** G-II(3) ó G-II(2+) empezando después del puente
 * **Estación y Caudal:** [AR04 - Guadiela en la ruidera: 15-20m3 (aceptable desde 10m3)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR04)
 * **Fuente:** Libro SUP - Embalses y ríos (p 458)
 * **Tiempo total (aprox):** X:XX
@@ -25,6 +25,9 @@
 *Hay muchos saltos de medio metro. En total unos 17 pasos de grado 2+.
 Los últimos 5km sucedenen un cauce más ancho, y la velocidad es más suave
 La salida es justo después de la presa de la sartenilla (en la zona de baño de Villar del Infartado), se puede sortear por ambos márgenes*
+
+El paso 3 está justo antes del puente, y se puede evitar. El track empieza justo despues, o sea que pasa a ser G-II(2+)
+![Paso 3](../misc/images/cht-guadiela-paso3.jpg)
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
