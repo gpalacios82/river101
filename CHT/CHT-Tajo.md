@@ -89,6 +89,9 @@
 Una vez sorteada la presa, no hay ninguna dificultad, ya que es un tramo del río que se hace en plan "descenso popular" de trillo*
 ![Camino para esquivar la presa](../misc/images/cht-tajo-s6-escape-presa.jpg)
 
+*Alternativamente, se puede bajar por la presa, aunque luego hay troncos atravesados*
+![Bajada por la presa](../misc/images/cht-presa-azanon.jpg)
+
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
