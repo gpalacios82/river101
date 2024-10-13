@@ -4,7 +4,7 @@
 ## Índice
 * [S1 - Río Tajo en Peralejos de las Truchas](./CHT-Tajo.md#río-tajo-en-peralejos-de-las-truchas-s1)
 * [S2 - Río Tajo en Salto de Poveda](./CHT-Tajo.md#río-tajo-en-salto-de-poveda-s2) :heavy_check_mark:
-* [S6 - Río Tajo en Puente de Murel](./CHT-Tajo.md#río-tajo-en-puente-de-murel-s6)
+* [S6 - Río Tajo en Puente de Murel](./CHT-Tajo.md#río-tajo-en-puente-de-murel-s6) :heavy_check_mark:
 * [S7 - Río Tajo en CN Trillo](./CHT-Tajo.md#río-tajo-en-cn-trillo-s7)
 * [S8 - Río Tajo en CN José Cabrera-Zorita](./CHT-Tajo.md#río-tajo-en-cn-josé-cabrera-zorita-s8) :heavy_check_mark:
 * [S9 - Río Tajo en Almoguera](./CHT-Tajo.md#río-tajo-en-almoguera-s9) :heavy_check_mark:
@@ -106,7 +106,7 @@ Una vez sorteada la presa, no hay ninguna dificultad, ya que es un tramo del rí
 * [Track Walk - 12 Km](https://connect.garmin.com/modern/course/261693206)
 
 **Historial**
-* N/A
+* [20241013 - 14,60m3/s (en Trillo)](https://connect.garmin.com/modern/activity/17275281564)
 
 ## Río Tajo en CN Trillo S7
 
