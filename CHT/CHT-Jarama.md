@@ -22,16 +22,34 @@ Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y de
 Lo he visto con 10m3 y hay tramos que dan miedo. Y lo he visto con 3m3 y va justo pero se puede hacer, por lo que yo creo que el rango perfecto para hacerlo sería entre 5-7m3 dada la gran densidad de vegetación de la rivera
 
 **Galería fotográfica:**
-Puente al lado de la Playa del Jarama: 
-| **3m3** de agua | **10m3** de agua |
-|-----------------|------------------|
-| ![](../misc/images/cht-jarama-s6-3m3-01.jpg) | ![](../misc/images/cht-jarama-s6-10m3-02.png) |
-| ![](../misc/images/cht-jarama-s6-3m3-02.jpg) | ![](../misc/images/cht-jarama-s6-10m3-01.png) |
 
-Otro punto del recorrido, más abajo:
-| Tambien con **10m3** | |
-|----------------------|-|
-| ![](../misc/images/cht-jarama-s6-10m3-03.png) | ![](../misc/images/cht-jarama-s6-10m3-04.jpg) |
+<table>
+    <tr>
+        <td colspan=2><b>Puente al lado de la Playa del Jarama</b></td>
+    </tr>
+    <tr>
+        <td><strong>3m3</strong> de agua</td>
+        <td><strong>10m3</strong> de agua</td>
+    </tr>
+    <tr>
+        <td><img src="../misc/images/cht-jarama-s6-3m3-01.jpg" alt="3m3 de agua"></td>
+        <td><img src="../misc/images/cht-jarama-s6-10m3-02.png" alt="10m3 de agua"></td>
+    </tr>
+    <tr>
+        <td><img src="../misc/images/cht-jarama-s6-3m3-02.jpg" alt="3m3 de agua"></td>
+        <td><img src="../misc/images/cht-jarama-s6-10m3-01.png" alt="10m3 de agua"></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td colspan=2>Otro punto del recorrido, más abajo, tambien  <b>con 10m3</b></td>
+    </tr>
+    <tr>
+        <td><img src="../misc/images/cht-jarama-s6-10m3-03.png" alt="10m3 de agua"></td>
+        <td><img src="../misc/images/cht-jarama-s6-10m3-04.jpg" alt="10m3 de agua"></td>
+    </tr>
+</table>
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
