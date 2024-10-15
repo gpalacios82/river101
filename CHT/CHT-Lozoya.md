@@ -20,14 +20,22 @@
 
 Por otro lado, hay mucha vegetación y árboles caidos en todo el curso del río. Con poco agua se puede hacer y es más fácil, aunque corremos el riesgo de que no se pueda meter bien la pala. Con mucho agua, a pesar de que hay poco desnivel, el rio puede alcanzar grandes velocidades, y en algunos tramos el río puede convertirse en una trampa mortal, por haber un tramo lleno de zarzas y ramas sin salida.*
 
-**Galería fotográfica:**
-Varias fotos a lo largo del recorrido con poco agua, muy justo para navegar (tomadas el 11/07/24)
-![](../misc/images/cht-lozoya-s6-01.jpg) 
-![](../misc/images/cht-lozoya-s6-02.jpg) 
-![](../misc/images/cht-lozoya-s6-03.jpg) 
-![](../misc/images/cht-lozoya-s6-04.jpg) 
-![](../misc/images/cht-lozoya-s6-05.jpg) 
-![](../misc/images/cht-lozoya-s6-06.jpg) 
+
+
+<table>
+    <tr>
+        <td colspan=3>Varias fotos a lo largo del recorrido con poco agua, muy justo para navegar (tomadas el 11/07/24)</td>
+    <tr>
+        <td><img src="../misc/images/cht-lozoya-s6-01.jpg" alt="Image 1"></td>
+        <td><img src="../misc/images/cht-lozoya-s6-02.jpg" alt="Image 2"></td>
+        <td><img src="../misc/images/cht-lozoya-s6-03.jpg" alt="Image 3"></td>
+    </tr>
+    <tr>
+        <td><img src="../misc/images/cht-lozoya-s6-04.jpg" alt="Image 4"></td>
+        <td><img src="../misc/images/cht-lozoya-s6-05.jpg" alt="Image 5"></td>
+        <td><img src="../misc/images/cht-lozoya-s6-06.jpg" alt="Image 6"></td>
+    </tr>
+</table>
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
