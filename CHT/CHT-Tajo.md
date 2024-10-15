@@ -85,8 +85,9 @@
 * **Tiempo total (aprox):** 9:00
 
 >**Observaciones:**
-*Los primeros kms hasta la presa discurren con algunos tramos de aguas rápidas de clase II. Ojo en la presa, que hay que sortearla por la izquierda.
-Una vez sorteada la presa, no hay ninguna dificultad, ya que es un tramo del río que se hace en plan "descenso popular" de trillo*
+*Los primeros kms hasta la presa discurren súper tranquilos, y hay que remar bastante. Hay algún tramo con algo de corriente, pero muy leve.
+Despues de la presa, hay más tramos de corrientes rápidas, el río te va llevando, aunque sigue habiendo remansos, y al menos con 15m3 (que es como lo hicimos), no hay ninguna dificultad. Los trenes de olas son pequeños, suaves y divertidos
+Se debe ir siempre por el cauce principal, ya que los pequeños ramales laterales tienen muchas ramas, y en alguna ocasión, no tienen ni salida.
 
 <table>
     <tr>
