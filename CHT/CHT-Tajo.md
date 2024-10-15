@@ -87,10 +87,19 @@
 >**Observaciones:**
 *Los primeros kms hasta la presa discurren con algunos tramos de aguas rápidas de clase II. Ojo en la presa, que hay que sortearla por la izquierda.
 Una vez sorteada la presa, no hay ninguna dificultad, ya que es un tramo del río que se hace en plan "descenso popular" de trillo*
-![Camino para esquivar la presa](../misc/images/cht-tajo-s6-escape-presa.jpg)
 
-*Alternativamente, se puede bajar por la presa, aunque luego hay troncos atravesados*
-![Bajada por la presa](../misc/images/CHT-tajo-s6-presa.jpg)
+<table>
+    <tr>
+        <td>
+            Este es el recorrido a hacer para evitar la presa, se sale por MI, y se vuelve a entrar despues de la caseta de la central
+            <img src="../misc/images/cht-tajo-s6-escape-presa.jpg" alt="Camino para esquivar la presa">
+        </td>
+        <td>
+            Alternativamente, se puede bajar por la presa, aunque luego hay troncos atravesados
+            <img src="../misc/images/CHT-tajo-s6-presa.jpg" alt="Bajada por la presa">
+        </td>
+    </tr>
+</table>
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
