@@ -105,7 +105,7 @@ Se debe ir siempre por el cauce principal, ya que los pequeños ramales laterale
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
-|    1    |     2      |   3  |   Medio    |
+|    1    |     1      |   2  |   Bajo    |
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [40.703229,-2.495974](https://maps.app.goo.gl/LE5Z6B4XNwJierMa9) :car: [Waze a PID](https://waze.com/?ll=40.703229,-2.495974&navigate=yes)
