@@ -46,6 +46,8 @@ Y una vez enviado nos descargamos y guardamos el justificante, ya que si no nos 
 
 Desde el [Registro Electrónico](https://rec.redsara.es/registro/action/are/acceso.do), nos logueamos con el Certificado digital, o bien con la clave PIN, y vamos a [Mis Registros](https://reg.redsara.es/list). Desde ahí vemos las solicitudes pendientes, y el estado.
 
+Tambien podemos consultar en [Dehu](https://dehu.redsara.es/notificaciones-pendientes) si tenemos notificaciones certificadas pendientes de recibir.
+
 ### Reclamación de Carta de Pago
 
 De los 4 años que llevo solicitando el permiso de navegación responsable (a fecha 2024):
@@ -76,12 +78,15 @@ Gustavo
 
 ### Matrículas sí o no
 Según la normativa, no queda claro si un packraft hinchable debería o no llevar la matrícula pegada.
-Mi pensamiento es... si es una embarcación y debe tener el permiso de navegación responsable, debería tener la matrícula. Ahora bien, en el Mekong tengo permiso para:
+Mi pensamiento es... si es una embarcación y debe tener el permiso de navegación responsable, debería tener la matrícula. Ahora bien, en mis packrafts, a fecha de hoy, tengo permiso para:
 
 * CHT
 * CHE
 * CHC
-* Quiero sacar en 2025 la del CHD
+* CHD
+
+Si somos 100% legales, acabaríamos así:
+![](../misc/images/legales.jpg)
 
 **¿Cómo hacemos para ponerlas todas?**
 Bueno o usamos el kayak como si fuera un lienzo de gomets, o ponemos las más significativas (donde más vayamos a navegar)
