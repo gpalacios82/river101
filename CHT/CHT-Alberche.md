@@ -2,7 +2,39 @@
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Índice
+* [Río Alberche en Presa de Cazalegas S8](./CHT-Alberche.md#río-alberche-en-presa-de-cazalegas-s8)
 * [Río Alberche en el Embalse de Picadas](./CHT-Alberche.md#río-alberche-en-el-embalse-de-picadas) :heavy_check_mark:
+
+## Río Alberche en Presa de Cazalegas S8
+
+**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Alberche
+* **Sector:** 8
+* **Dificultad:** G-I(II)
+* **Estaciones y Caudales:** [AR21 - Alberche en Navaluenga: 45-70m3 (o más)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR21)
+* **Fuente:** Libro SUP - Embalses y ríos (p 364)
+* **Tiempo total (aprox):** 7:00
+
+>**Observaciones:**
+*Tiene corriente constante. Los primeros 5,3 kms son comodos, luego se atraviesan varios viaductos y puentes, con anchuras de cauce de hasta 100m*
+
+**Tabla de riesgos (alternativo)**
+| Peligro | Evacuación | Suma | Categorización |
+|---------|------------|------|----------------|
+|    0    |     1      |   1  |   Bajo    |
+
+**Waypoints:**
+* **PID :arrow_lower_right::** [40.011893,-4.710301](https://maps.app.goo.gl/AhDtNjJrkpXowwtE9) :car: [Waze a PID](https://waze.com/?ll=40.011893,-4.710301&navigate=yes)
+* **PSC :arrow_upper_right::** [39.964941,-4.774061](https://maps.app.goo.gl/Jbc9AFMQEoU3xxo47) :car: [Waze a PSC](https://waze.com/?ll=39.964941,-4.774061&navigate=yes)
+
+**Tracks:**
+* [Track Raft - 8,5 Km](https://connect.garmin.com/modern/course/314355320)
+* [Track Walk - 9,5 Km](https://connect.garmin.com/modern/course/314354837)
+
+**Historial**
+* N/A
+
 
 ## Río Alberche en el Embalse de Picadas
 
