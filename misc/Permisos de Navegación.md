@@ -78,15 +78,21 @@ Gustavo
 
 ### Matrículas sí o no
 Según la normativa, no queda claro si un packraft hinchable debería o no llevar la matrícula pegada.
-Mi pensamiento es... si es una embarcación y debe tener el permiso de navegación responsable, debería tener la matrícula. Ahora bien, en mis packrafts, a fecha de hoy, tengo permiso para:
+
+<table>
+<tr>
+<td>Mi pensamiento es... si es una embarcación y debe tener el permiso de navegación responsable, debería tener la matrícula. Ahora bien, en mis packrafts, a fecha de hoy, tengo permiso para:
 
 * CHT
 * CHE
 * CHC
 * CHD
 
+<td>
 Si somos 100% legales, acabaríamos así:
+
 ![](../misc/images/legales.jpg)
+</table>
 
 **¿Cómo hacemos para ponerlas todas?**
 Bueno o usamos el kayak como si fuera un lienzo de gomets, o ponemos las más significativas (donde más vayamos a navegar)
