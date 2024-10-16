@@ -49,7 +49,7 @@
 * **Estación y Caudal:** [EM521 - Embalse de Burgomillodo](https://www.saihduero.es/risr/EM521)
 * **Tiempo total (aprox):** 5:00
 
-![](../misc/images/chd-carrascal-rio.jpg)
+![](../misc/images/chd-duraton-carrascal.jpg)
 
 >**Observaciones:**
 *Como referencia se puede obtener la salida del Embalse de Burgomillodo
