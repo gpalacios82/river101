@@ -54,6 +54,7 @@ Lo he visto con 10m3 y hay tramos que dan miedo. Y lo he visto con 3m3 y va just
 
 Punto de desembarque, por encima de la *Presilla de Uceda*, MD, y luego cruzar por la pasarela hacia el coche:
 ![](../misc/images/cht-jarama-presillauceda.jpg)
+
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
 |---------|------------|------|----------------|
@@ -89,6 +90,8 @@ Punto de desembarque, por encima de la *Presilla de Uceda*, MD, y luego cruzar p
 >
 >*A partir de la curva de Caraquiz, hay varias **pozas con drosajes***
 
+Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
+![](../misc/images/cht-jarama-presillauceda.jpg)
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
