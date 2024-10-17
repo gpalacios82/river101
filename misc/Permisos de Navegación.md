@@ -88,10 +88,8 @@ Según la normativa, no queda claro si un packraft hinchable debería o no lleva
 * CHC
 * CHD
 
-<td>
-Si somos 100% legales, acabaríamos así:
-
-![](../misc/images/legales.jpg)
+Si fueramos 100% legales, y quisieramos navegar por toda España, acabaríamos así...
+<td><img src="../misc/images/legales.jpg"></img>
 </table>
 
 **¿Cómo hacemos para ponerlas todas?**
