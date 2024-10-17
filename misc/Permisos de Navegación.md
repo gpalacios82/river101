@@ -56,6 +56,8 @@ Este año 2025, me han escrito los de la CHT para informarme de lo siguiente:
 Para ello, debe solicitar la contraseña por correo electrónico (informacion@chtajo.es), indicando en el Asunto la palabra “ConsulTajo” seguida del número de identificación fiscal del titular del expediente (asunto: ConsulTajo DNI / NIF).
 Una vez que este Organismo compruebe que cumple los requisitos, le remitiríamos la contraseña por notificación electrónica o correo postal.
 
+![](../misc/images/cht-consultajo.jpg)
+
 ### Reclamación de Carta de Pago
 
 De los 4 años que llevo solicitando el permiso de navegación responsable (a fecha 2024):
