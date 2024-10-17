@@ -1,7 +1,7 @@
 # Cuenca hidrográfica del Ebro
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
-Es necesario disponer de un permiso de navegación responsable. Se solicita mediante [este procedimiento](../misc/Permisos%20de%20Navegación.md)
+Es necesario disponer de un permiso de navegación responsable. Se solicita mediante [este procedimiento](../misc/Permisos-de-Navegacion.md)
 
 * [Río Gállego](./CHE-Gallego.md)
 

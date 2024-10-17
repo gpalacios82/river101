@@ -2,6 +2,14 @@
 
 ![](./images/spain.png)
 
+* [Descarga del Formulario](./Permisos-de-Navegacion.md#descarga-del-formulario)
+* [Presentación del Formulario](./Permisos-de-Navegacion.md#presentación-del-formulario)
+* [Consultar estado](./Permisos-de-Navegacion.md#consultar-estado)
+* [Reclamación de Carta de Pago](./Permisos-de-Navegacion.md#reclamación-de-carta-de-pago)
+* [Reclamación con alegaciones por rechazo](./Permisos-de-Navegacion.md#reclamación-con-alegaciones-por-rechazo)
+* [Matrículas sí o no](./Permisos-de-Navegacion.md#matrículas-sí-o-no)
+
+
 ### Descarga del Formulario
 
 * **Para la CHT (hasta 3m: 25€ / a partir de 3m: 40€)**: Desde la web de la [CHT](https://www.chtajo.es/Servicios/Tramitaciones/Paginas/procedimientos/navegacion.aspx) podemos acceder y descargar el [formulario de navegación responsable](https://www.chtajo.es/Servicios/Tramitaciones/Documents/Declara_Resp/DR_Impreso_Completo.pdf) Se puede solicitar para 6 o 12 meses, y la antelación mínima para la solicitud es de 2 meses.
