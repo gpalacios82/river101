@@ -83,9 +83,9 @@ Punto de desembarque, por encima de la *Presilla de Uceda*, MD, y luego cruzar p
 * **Tiempo total (aprox):** 6:00
 
 >**Observaciones:**
-*Se puede hacer todo el año, pero la mejor época es noviembre-mayo por haber más caudal por las lluvias.
-La primera mitad del recorrido, el río está encañonado en el MI y con mucha vegetación y campos de cultivo en el MD. En este primer tramo hay varios rápidos y trenes de olas pequeños.
-A partir de la curva de Caraquiz, hay varias **pozas con drosajes** *
+*Se puede hacer todo el año, pero la mejor época es noviembre-mayo por haber más caudal por las lluvias.*
+*La primera mitad del recorrido, el río está encañonado en el MI y con mucha vegetación y campos de cultivo en el MD. En este primer tramo hay varios rápidos y trenes de olas pequeños.*
+*A partir de la curva de Caraquiz, hay varias **pozas con drosajes** *
 
 
 **Tabla de riesgos**
