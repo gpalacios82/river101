@@ -13,7 +13,7 @@
 ### Caudal de invierno
 *De mediados de septiembre a mayo*
 
-El caudal de invierno se caracteriza por tener menos caudal. Es cuando la presa de Contreras se encuentra cerrada recogiendo los excedentes y almacenando agua. La suelta se reduce al mínimo ecológico, apenas  1 metro cubico por segundo.  A partir del tramo de las Hoces (puente de Vadocañas) el río Cabriel ya vuelve a recoger caudal suficiente para la navegación. Esto se debe a la gran cantidad de surgencias, fuentes, manantiales, ramblas y alguna otra fuga que tiene el propio pantano.
+El caudal de invierno se caracteriza por tener menos caudal. Es cuando la presa de Contreras se encuentra cerrada recogiendo los excedentes y almacenando agua. La suelta se reduce al mínimo ecológico, apenas  1 metro cubico por segundo.  A partir del [tramo de las Hoces (puente de Vadocañas)](https://maps.app.goo.gl/Pkd8ut2qx6rxXu1GA) el río Cabriel ya vuelve a recoger caudal suficiente para la navegación. Esto se debe a la gran cantidad de surgencias, fuentes, manantiales, ramblas y alguna otra fuga que tiene el propio pantano.
 
 El agua no está fría y espectacularmente limpia.
 
