@@ -48,6 +48,14 @@ Desde el [Registro Electrónico](https://rec.redsara.es/registro/action/are/acce
 
 Tambien podemos consultar en [Dehu](https://dehu.redsara.es/notificaciones-pendientes) si tenemos notificaciones certificadas pendientes de recibir.
 
+#### Consultar estado CHT
+
+Este año 2025, me han escrito los de la CHT para informarme de lo siguiente:
+
+> Le informamos de que ahora también puede consultar en tiempo real el estado de tramitación de sus expedientes administrativos a través de CONSULTAJO (https://consultaweb.chtajo.es/login.aspx). En su expediente administrativo podrá ver y descargar la tasa de navegación.
+Para ello, debe solicitar la contraseña por correo electrónico (informacion@chtajo.es), indicando en el Asunto la palabra “ConsulTajo” seguida del número de identificación fiscal del titular del expediente (asunto: ConsulTajo DNI / NIF).
+Una vez que este Organismo compruebe que cumple los requisitos, le remitiríamos la contraseña por notificación electrónica o correo postal.
+
 ### Reclamación de Carta de Pago
 
 De los 4 años que llevo solicitando el permiso de navegación responsable (a fecha 2024):
