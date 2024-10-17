@@ -8,6 +8,22 @@
 * [Río Cabriel Tamayo](CHJ-Cabriel.md#río-cabriel-tamayo) :heavy_check_mark:
 * [Río Cabriel Tete](CHJ-Cabriel.md#río-cabriel-tete) :heavy_check_mark:
 
+## El río ofrece dos versiones:
+
+### Caudal de invierno
+*De mediados de septiembre a mayo*
+
+El caudal de invierno se caracteriza por tener menos caudal. Es cuando la presa de Contreras se encuentra cerrada recogiendo los excedentes y almacenando agua. La suelta se reduce al mínimo ecológico, apenas  1 metro cubico por segundo.  A partir del tramo de las Hoces (puente de Vadocañas) el río Cabriel ya vuelve a recoger caudal suficiente para la navegación. Esto se debe a la gran cantidad de surgencias, fuentes, manantiales, ramblas y alguna otra fuga que tiene el propio pantano.
+
+El agua no está fría y espectacularmente limpia.
+
+### Caudal de verano
+*Desde mayo a mediados de septiembre*
+
+Caudal de verano o presa suelta: El río se convierte en un río más potente donde según las necesidades hídricas el caudal puede variar desde los 7,5 metros cúbicos hasta los 25 metros cúbicos por segundo. Como hemos mencionado anteriormente las fechas de sueltas varían.
+
+El río está más bravo y más emocionante. No hay que remar tanto, pero el agua esta fría debido a que el agua que sale por la presa sale de la parte de abajo donde no le da el sol.
+
 
 ## Río Cabriel Tamayo y Tete
 ![Topología del Cabriel - Tramo Tamayo y Tete](../misc/images/chj-cabriel-tamayo-tete.jpg)
