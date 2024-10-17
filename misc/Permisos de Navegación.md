@@ -92,15 +92,14 @@ Estimados Sres. de la Confederación Hidrográfica del Tajo,
 
 El día XXXXXXX presenté la solicitud de Permiso de Navegación Responsable con número de registro XXXXXXX , para el periodo completo del año XXXXXXX . Adjunto justificante de la presentación.
 
-Hoy, XXXXXXX , he recibido una notificación en la que se indica que la solicitud presentada elXXXXXXX  es incorrecta, debido a un error en el "Plazo declarado para el ejercicio de la actividad". En dicha notificación se hace referencia al identificador XXXXXXX , el cual no corresponde a la solicitud que presenté.
+Hoy, XXXXXXX , he recibido una notificación en la que se indica que la solicitud presentada el XXXXXXX  es incorrecta, debido a un error en el "Plazo declarado para el ejercicio de la actividad". En dicha notificación se hace referencia al identificador XXXXXXX , el cual no corresponde a la solicitud que presenté.
 
 Les ruego revisen la información y subsanen este error, ya que la solicitud correcta es la XXXXXXX , cuyo justificante adjunto a este correo.
 
 Agradezco su atención y quedo a la espera de su respuesta.
 
 Atentamente,
-
-Gustavo Palacios San Felipe
+Gustavo
 ```
 
 
