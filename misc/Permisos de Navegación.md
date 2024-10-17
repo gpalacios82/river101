@@ -76,6 +76,34 @@ Gracias por todo y un saludo
 Gustavo
 ```
 
+
+### Reclamación con alegaciones por rechazo
+
+En las dos últimas declaraciones de navegación responsable de la CHT (a fecha 2024), **me las han rechazado por un supuesto "error en el plazo declarado"**. En ambos casos estaba correcto, y en ambos casos he reclamado y me lo han corregido y autorizado. Para ello, he contactado con ellos por Email a: [Info Tajo <informacion@chtajo.es>](mailto:informacion@chtajo.es)
+
+**Asunto:**
+```
+Error en notificación - Solicitud Permiso de Navegación Responsable XXXXXXX
+```
+
+**Cuerpo:** 
+```
+Estimados Sres. de la Confederación Hidrográfica del Tajo,
+
+El día XXXXXXX presenté la solicitud de Permiso de Navegación Responsable con número de registro XXXXXXX , para el periodo completo del año XXXXXXX . Adjunto justificante de la presentación.
+
+Hoy, XXXXXXX , he recibido una notificación en la que se indica que la solicitud presentada elXXXXXXX  es incorrecta, debido a un error en el "Plazo declarado para el ejercicio de la actividad". En dicha notificación se hace referencia al identificador XXXXXXX , el cual no corresponde a la solicitud que presenté.
+
+Les ruego revisen la información y subsanen este error, ya que la solicitud correcta es la XXXXXXX , cuyo justificante adjunto a este correo.
+
+Agradezco su atención y quedo a la espera de su respuesta.
+
+Atentamente,
+
+Gustavo Palacios San Felipe
+```
+
+
 ### Matrículas sí o no
 Según la normativa, no queda claro si un packraft hinchable debería o no llevar la matrícula pegada.
 
