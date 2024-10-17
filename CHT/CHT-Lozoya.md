@@ -6,6 +6,7 @@
 * S5 - Lozoya en Buitrago - Ya no es legal navegar en este tramo
 * [S6 - Lozoya en el Atazar](./CHT-Lozoya.md#río-lozoya-en-el-atazar-s6)
 
+![](../misc/images/cht-lozoya-mapa.jpg)
 
 ## Río Lozoya en el Atazar S6
 
