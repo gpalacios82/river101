@@ -119,7 +119,7 @@ Punto de desembarque, por encima de la *Presilla de Uceda*, MD, y luego cruzar p
 * **Tiempo total (aprox):** 6:00
 
 >**Observaciones:**
-*Loren Ipsun*
+*Pendiente de inspección visual, pero me abruma la vegetación...*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
