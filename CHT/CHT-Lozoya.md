@@ -2,7 +2,10 @@
 [:earth_americas: *Seguridad y seguimiento - Mapa de Garmin InReach* :earth_americas:](https://share.garmin.com/gpalacios82)
 
 ## Índice
+* S4 - Lozoya en Riosequillo - Ya no es legal navegar en este tramo
+* S5 - Lozoya en Buitrago - Ya no es legal navegar en este tramo
 * [S6 - Lozoya en el Atazar](./CHT-Lozoya.md#río-lozoya-en-el-atazar-s6)
+
 
 ## Río Lozoya en el Atazar S6
 
