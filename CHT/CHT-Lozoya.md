@@ -24,7 +24,7 @@
 
 Por otro lado, hay mucha vegetación y árboles caidos en todo el curso del río. Con poco agua se puede hacer y es más fácil, aunque corremos el riesgo de que no se pueda meter bien la pala. Con mucho agua, a pesar de que hay poco desnivel, el rio puede alcanzar grandes velocidades, y en algunos tramos el río puede convertirse en una trampa mortal, por haber un tramo lleno de zarzas y ramas sin salida.*
 
-![Galería fotofráfica](https://photos.app.goo.gl/MQzi39d2gAZweeQs5)
+[Galería fotofráfica](https://photos.app.goo.gl/MQzi39d2gAZweeQs5)
 
 <table>
     <tr>
