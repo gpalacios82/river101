@@ -15,6 +15,8 @@
 * [Cuenca hidrográfica del Júcar](./CHJ/)
 * [Cuenca hidrográfica del Tajo](./CHT/)
 
+* [Fotos sobre el terreno, sobre el mapa](https://www.google.com/maps/d/edit?mid=1E5DIX6wkrzVqhNuokiejKsnt3cpUySo&usp=sharing)
+
 **En todos los casos, es necesario disponer de un permiso de navegación responsable**. Es probable que si tu embarcación mida menos de 2,5m de eslora, se considere (en algunas cuencas hidrográficas) un artículo de baño. Aún así, te recomiendo informarte. En caso que lo necesites, se solicita mediante [este procedimiento](./misc/Permisos-de-Navegacion.md)
 
 ## Leyenda de Análisis de Riesgos
