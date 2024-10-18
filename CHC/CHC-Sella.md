@@ -34,7 +34,7 @@
 * [Track Walk - 13 Km](https://connect.garmin.com/modern/course/263744764)
 
 **Historial**
-* [20290829 - Con empresa de turismo activo](https://connect.garmin.com/modern/activity/5457046017)
+* [20200829 - Con empresa de turismo activo](https://connect.garmin.com/modern/activity/5457046017)
 
 
 ## Aviso importante
