@@ -20,12 +20,11 @@
 * **Tiempo total (aprox):** 5:00
 
 >**Observaciones:**
-*No he encontrado ningún sitio en internet donde se muestre el aforo del río. Ni hay estaciones en el río, ni el embalse del Atazar informa del agua circundante de salida, ni de entrada en el Pontón de la Oliva, ni tampoco en el Azud de La Parra, por lo que aunque hay sueltas continuas desde el Atazar, habrá que tener cuidado con las posibles subidas de agua
+*No he encontrado ningún sitio en internet donde se muestre el aforo del río. Ni hay estaciones en el río, ni el embalse del Atazar informa del agua circundante de salida, ni de entrada en el Pontón de la Oliva, ni tampoco en el Azud de La Parra, por lo que aunque hay sueltas continuas desde el Atazar, habrá que tener cuidado con las posibles subidas de agua*
 
-Por otro lado, hay mucha vegetación y árboles caidos en todo el curso del río. Con poco agua se puede hacer y es más fácil, aunque corremos el riesgo de que no se pueda meter bien la pala. Con mucho agua, a pesar de que hay poco desnivel, el rio puede alcanzar grandes velocidades, y en algunos tramos el río puede convertirse en una trampa mortal, por haber un tramo lleno de zarzas y ramas sin salida.*
+20240711: Hay mucha vegetación y árboles caidos en todo el curso del río. Con poco agua se puede hacer y es más fácil, aunque corremos el riesgo de que no se pueda meter bien la pala. Con mucho agua, a pesar de que hay poco desnivel, el rio puede alcanzar grandes velocidades, y en algunos tramos el río puede convertirse en una trampa mortal, por haber un tramo lleno de zarzas y ramas sin salida.
 
-* [Galería fotofráfica](https://photos.app.goo.gl/MQzi39d2gAZweeQs5)
-* [Fotos sobre el terreno, sobre el mapa](https://www.google.com/maps/d/edit?mid=1E5DIX6wkrzVqhNuokiejKsnt3cpUySo&usp=sharing)
+[Mapa con las fotos trackeadas de las exploraciones](https://www.google.com/maps/d/edit?mid=1YIytwsj1AbOgmEd9ajWHgAbDUCx5svU&ll=40.89117125860297%2C-3.4504625797271826&z=15)
 
 <table>
     <tr>
