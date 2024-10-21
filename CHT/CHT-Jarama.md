@@ -65,8 +65,8 @@ Lo he visto con 10m3 y hay tramos que dan miedo. Y lo he visto con 3m3 y va just
 |     2   |       2    |   4  |      Alto      |
 
 **Waypoints:**
-* **PID :arrow_lower_right::** [40.844935,-3.470037](https://maps.app.goo.gl/NYryL6f8RY85Gvvd8) :car: [Waze a PID](https://waze.com/?ll=40.844935,-3.470037&navigate=yes)
-* **PSC :arrow_upper_right::** [40.772147,-3.516891](https://maps.app.goo.gl/ExHsKKNre9HN4KVS6) :car: [Waze a PSC](https://waze.com/?ll=40.772147,-3.516891&navigate=yes)
+* **PID :arrow_lower_right::** [40.870586,-3.451925](https://maps.app.goo.gl/NYryL6f8RY85Gvvd8) :car: [Waze a PID](https://waze.com/?ll=40.870586,-3.451925&navigate=yes)
+* **PSC :arrow_upper_right::** [40.844982,-3.470688](https://maps.app.goo.gl/ExHsKKNre9HN4KVS6) :car: [Waze a PSC](https://waze.com/?ll=40.844982,-3.470688&navigate=yes)
 
 **Tracks:**
 * [Track Raft - 5,5 Km](https://connect.garmin.com/modern/course/192904137)
