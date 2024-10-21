@@ -31,7 +31,8 @@
 >
 >*Antes del Pontón Alto, es zona protegida y restringida por ser Reserva de la Biosfera y zona ZEPA del PN Guadarrama*
 
-20241020: Se ha procedido a explorar con 0,29m3/s y se ha determinado que no es suficiente caudal, pero tambien creo que con más de 1m3, se puede complicar debido al fuerte desnivel desde el PID al PSC
+**Exploraciones**
+* 20241020: Se ha procedido a explorar con 0,29m3/s y se ha determinado que no es suficiente caudal, pero tambien creo que con más de 1m3, se puede complicar debido al fuerte desnivel desde el PID al PSC
 
 [Mapa con las fotos trackeadas de las exploraciones](https://www.google.com/maps/d/edit?mid=1aHs-sK1hTiQmO2kKOP1mVDceQ_boCxY&usp=sharing)
 

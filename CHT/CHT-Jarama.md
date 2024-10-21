@@ -22,6 +22,12 @@
 Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y desde la fecha de edición del libro, la rivera del río ha ido ganando frondosidad. Observé dos puntos intermedios en el río, y además de mucha velocidad (15m3) habia zonas muy estrechas y con muchas ramas. Eso facilita la posibilidad de quedarse enganchado, y se dificulta la posibilidad de evacuación. Totalmente descartado remontar el río. No se puede hacer en solitario
 Lo he visto con 10m3 y hay tramos que dan miedo. Y lo he visto con 3m3 y va justo pero se puede hacer, por lo que yo creo que el rango perfecto para hacerlo sería entre 5-7m3 dada la gran densidad de vegetación de la rivera
 
+**Exploraciones**
+* 20240411: Se ha procedido a explorar 10m3s y el río es una locura, hay demasiada vegetación para tanta corriente, hay alto riesgo de quedarse atrapado entre ramas
+* 20240711: Se ha vuelto a explorar con 3m3, y se ha encontrado muchas zonas con bastante vegetación. La conclusión ha sido que se puede hacer con 5m3 aprox, y con un buen machete para abrirse paso entre la vegetación, para posibles obstaculizaciones
+
+[Mapa con las fotos trackeadas de las exploraciones](https://www.google.com/maps/d/u/0/edit?mid=1-Y43CBV7DBhx_eSraqZ1HhEpB9GOAE4&usp=sharing)
+
 **Galería fotográfica:**
 
 <table>

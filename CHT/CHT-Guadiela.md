@@ -69,7 +69,12 @@ La salida es justo después de la presa de la sartenilla (en la zona de baño de
 * **Tiempo total (aprox):** 7:30
 
 >**Observaciones:**
-*Hay muchas salidas, pero incluso con 12m3 el río lleva velocidad, los datos del libro son antiguos, y hay mucha maleza y troncos atravesados, lo recategorizaría como G-I/II, se puede hacer en solitario, pero conlleva riesgos. Además, monitoricé tres puntos del río, en uno de ellos encontré troncos. En el resto no, pero son 3 puntos en 10km de descenso*
+*Según el libro, es un descenso muy sencillo, pero, observar Exploraciones*
+
+[Mapa con las fotos trackeadas de las exploraciones](https://www.google.com/maps/d/u/0/edit?mid=1NZz698wOMrprNETQ6e1_hEXn_ZqaaYE&usp=sharing)
+
+**Exploraciones**
+* 20240411: Se explora con 12m3, y el río lleva velocidad, los datos del libro son antiguos, y hay mucha maleza y troncos atravesados, lo recategorizaría como G-I/II, se puede hacer en solitario, pero conlleva riesgos. Además, monitoricé tres puntos del río, en uno de ellos encontré troncos. En el resto no, pero son 3 puntos en 10km de descenso
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
