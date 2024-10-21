@@ -69,7 +69,7 @@ La salida es justo después de la presa de la sartenilla (en la zona de baño de
 * **Tiempo total (aprox):** 7:30
 
 >**Observaciones:**
-*Según el libro, es un descenso muy sencillo, pero, observar Exploraciones*
+*Según el libro, es un descenso muy sencillo, pero, observar Exploraciones. Además, aunque el AR04 no expulse agua, es un añadido al caudal, ya que he observado el rio con 0m3/s, y aún así tiene agua. A si que no es muy relevante*
 
 [Mapa con las fotos trackeadas de las exploraciones](https://www.google.com/maps/d/u/0/edit?mid=1NZz698wOMrprNETQ6e1_hEXn_ZqaaYE&usp=sharing)
 
