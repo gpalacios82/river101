@@ -27,6 +27,8 @@ Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y de
 
 [Mapa con las fotos trackeadas de las exploraciones](https://www.google.com/maps/d/u/0/edit?mid=1-Y43CBV7DBhx_eSraqZ1HhEpB9GOAE4&usp=sharing)
 
+[filename](_[media/ejemplo.md](https://www.google.com/maps/d/embed?mid=1-Y43CBV7DBhx_eSraqZ1HhEpB9GOAE4&ehbc=2E312F) ':include')
+
 **Galería fotográfica:**
 
 <table>
