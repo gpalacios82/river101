@@ -27,8 +27,6 @@ Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y de
 
 [Mapa con las fotos trackeadas de las exploraciones](https://www.google.com/maps/d/u/0/edit?mid=1-Y43CBV7DBhx_eSraqZ1HhEpB9GOAE4&usp=sharing)
 
-**Galería fotográfica:**
-
 <table>
     <tr>
         <td colspan=2><b>Puente al lado de la Playa del Jarama</b></td>
