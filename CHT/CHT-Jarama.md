@@ -149,14 +149,12 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 * **Río:** Jarama
 * **Sector:** PR Sureste
 * **Dificultad:** G-II(2+)
-* **Estaciones y Caudales:**
-    * [AR18 - Manzanares en Rivas Vaciamadrid](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR18)
-    * [AR17 - Jarama en Mejorada](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR17)
+* **Estación y Caudal:** [AR17 - Jarama en Mejorada (4-15m3/s)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR17)
 * **Fuente:** [Wikiloc - Cejus](https://es.wikiloc.com/rutas-kayac/kayak-lineal-rio-jarama-70996155)
 * **Tiempo total (aprox):** 6:30
 
 >**Observaciones:**
-*Tramo con abundante vegetación en las orillas y presencia de  mal olor (recomendado usar Vicks Vaporub o tapones nasales "Nosa").  Caudal óptimo para la navegación entre 4-10 m3/s.  Es fundamental realizar una inspección previa del río,  en especial los puntos de acceso y salida,  así como los rápidos clase II/III que presenta.  Prestar atención a posibles obstáculos como árboles caídos y ramas. Recordar que el Jarama, en este tramo,  recibe aguas residuales,  por lo que se desaconseja el baño.*
+*Tramo con abundante vegetación en las orillas y presencia de  mal olor (recomendado usar Vicks Vaporub o tapones nasales "Nosa").  Caudal óptimo para la navegación entre 4-15m3/s.  Es fundamental realizar una inspección previa del río,  en especial los puntos de acceso y salida,  así como los rápidos clase II/III que presenta.  Prestar atención a posibles obstáculos como árboles caídos y ramas. Recordar que el Jarama, en este tramo,  recibe aguas residuales,  por lo que se desaconseja el baño.*
 
 **Tabla de riesgos**
 | Peligro | Evacuación | Suma | Categorización |
