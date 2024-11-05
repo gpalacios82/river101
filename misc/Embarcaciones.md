@@ -1,15 +1,15 @@
 ## Modelos en mi mochila
 | Embarcación | CHT | CHE | CHD | CHC | Link |
 |-------------|-----|-----|-----|-----|------|
-| Mekong Pablo Whisky Bar | CHT-43109 (hasta 2025) | CHE-38531-R (hasta 26/10/2027) | *En Trámite* | CHC-810-W-001 (hasta 2025) | [Mekong](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar) |
-| MRS Barracuda R2 PRO | CHT-46562 (hasta 2025) | CHE-41245-R (hasta 31/07/2029) | *En Trámite* | CHC-810-W-002 (hasta 2025) | [Barracuda](./Embarcaciones.md#packraft-MRS-barracuda-r2-pro) |
-| MRS Alligator 2S PRO | CHT-46867 (hasta 2025) | CHE-41246-R (hasta 31/07/2029) | *En Trámite* | CHC-810-W-003 (hasta 2025) | [Alligator](./Embarcaciones.md#packraft-MRS-alligator-2s-pro) |
+| Mekong Pablo Whisky Bar | CHT-43109 (hasta 2025) | CHE-38531-R (hasta 26/10/2027) | CHD-18266 (hasta 2025) | CHC-810-W-001 (hasta 2025) | [Mekong](./Embarcaciones.md#packraft-mekong-pablo-whisky-bar) |
+| MRS Barracuda R2 PRO | CHT-46562 (hasta 2025) | CHE-41245-R (hasta 31/07/2029) | CHD-18267 (hasta 2025) | CHC-810-W-002 (hasta 2025) | [Barracuda](./Embarcaciones.md#packraft-MRS-barracuda-r2-pro) |
+| MRS Alligator 2S PRO | CHT-46867 (hasta 2025) | CHE-41246-R (hasta 31/07/2029) | CHD-18268 (hasta 2025) | CHC-810-W-003 (hasta 2025) | [Alligator](./Embarcaciones.md#packraft-MRS-alligator-2s-pro) |
 
 ### Packraft Mekong Pablo Whisky Bar
 * **Matrículas**:
     * **CHT-43109** *desde 2022 hasta 2025*
     * **CHE-38531-R** *desde 27/10/2022 hasta 26/10/2027*
-    * **CHD** *en trámite*
+    * **CHD-18266** *desde 01/01/2025 hasta 31/12/2025*
     * **CHC-810-W-001** *desde 1/08/2024 hasta 2025*
 * **Marca**: Mekong
 * **Modelo**: Pablo Whisky Bar
@@ -28,7 +28,7 @@
 * **Matrículas**:
     * **CHT-46562** *desde 2024 hasta 2025*
     * **CHE-41245-R** *desde 2024 hasta 31/07/2029*
-    * **CHD** *en trámite*
+    * **CHD-18267** *desde 01/01/2025 hasta 31/12/2025*
     * **CHC-810-W-002** *desde 15/08/2024 hasta 2025*
 * **Marca**: MRS
 * **Modelo**: Barracuda R2 PRO
@@ -53,7 +53,7 @@ Además el Packraft MRS Barracuda R2 Pro ofrece dos posibilidades de quilla, la 
 * **Matrículas**:
     * **CHT-46867** *desde 2024 hasta 2025*
     * **CHE-41246-R** *desde 2024 hasta 31/07/2029*
-    * **CHD** *en trámite*
+    * **CHD-18268** *desde 01/01/2025 hasta 31/12/2025*
     * **CHC-810-W-003** *desde 15/08/2024 hasta 2025*
 * **Marca**: MRS
 * **Modelo**: Alligator 2S Pro
