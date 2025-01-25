@@ -248,6 +248,7 @@ Se debe ir siempre por el cauce principal, ya que los pequeños ramales laterale
 **Historial**
 * [20221009 - 7,71m3/s](https://connect.garmin.com/modern/activity/9756696416)
 * [20240421 - 7,9m3/s](https://connect.garmin.com/modern/activity/15002739376)
+* [20250125 - 12,58m3/s](https://connect.garmin.com/modern/activity/18096940178/3)
 
 ![](../misc/images/CHT-Tajo-s11-conJaime.jpg)
 
