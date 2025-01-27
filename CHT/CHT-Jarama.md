@@ -150,7 +150,7 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 * **Sector:** PR Sureste
 * **Dificultad:** G-II(2+)
 * **Estación y Caudal:** [AR17 - Jarama en Mejorada (4-15m3/s)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR17)
-* **Fuente:** [Wikiloc - Cejus](https://es.wikiloc.com/rutas-kayac/kayak-lineal-rio-jarama-70996155)
+* **Fuente:** [Wikiloc - Cejus](https://es.wikiloc.com/rutas-kayac/kayak-lineal-rio-jarama-70996155) (Hecho el 19/04/2021 con **8,37m3**)
 * **Tiempo total (aprox):** 6:30
 
 >**Observaciones:**
