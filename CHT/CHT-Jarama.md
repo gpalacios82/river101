@@ -15,7 +15,7 @@
 * **Sector:** 6
 * **Dificultad:** G-II(2+)
 * **Fuente:** Libro SUP - Embalses y ríos (p 488)
-* **Estación y Caudal:** [AR16 - Jarama en Valdepeñas: 12-20m3 (altura entre 0,8-1,3m)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR16)
+* **Estación y Caudal:** [AR16 - Jarama en Valdepeñas: 12-20m3 (altura entre 0,8-1,3m)](https://saihtajo.chtajo.es/)
 * **Tiempo total (aprox):** 4:00
 
 >**Observaciones:**
@@ -81,7 +81,7 @@ Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y de
 * **Sector:** 7
 * **Dificultad:** G-II(2+)
 * **Fuente:** Libro SUP - Embalses y ríos (p 492)
-* **Estación y Caudal:** [AR16 - Jarama en Valdepeñas: 12-20m3 (altura entre 0,8-1,3m)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR16)
+* **Estación y Caudal:** [AR16 - Jarama en Valdepeñas: 12-20m3 (altura entre 0,8-1,3m)](https://saihtajo.chtajo.es/)
 * **Tiempo total (aprox):** 6:00
 
 >**Observaciones:**
@@ -118,7 +118,7 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 * **Río:** Jarama
 * **Sector:** 9
 * **Dificultad:** G-II
-* **Estación y Caudal:** [AR16 - Jarama en Valdepeñas: 10-18m3 (altura entre 0,6-1,2m máx 2m)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR16)
+* **Estación y Caudal:** [AR16 - Jarama en Valdepeñas: 10-18m3 (altura entre 0,6-1,2m máx 2m)](https://saihtajo.chtajo.es/)
 * **Fuente:** Libro SUP - Embalses y ríos (p 498)
 * **Tiempo total (aprox):** 6:00
 
@@ -149,7 +149,7 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 * **Río:** Jarama
 * **Sector:** PR Sureste
 * **Dificultad:** G-II(2+)
-* **Estación y Caudal:** [AR17 - Jarama en Mejorada (4-15m3/s)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR17)
+* **Estación y Caudal:** [AR17 - Jarama en Mejorada (4-15m3/s)](https://saihtajo.chtajo.es/)
 * **Fuente:** [Wikiloc - Cejus](https://es.wikiloc.com/rutas-kayac/kayak-lineal-rio-jarama-70996155) (Hecho el 19/04/2021 con **8,37m3**)
 * **Tiempo total (aprox):** 6:30
 

@@ -19,7 +19,7 @@
 * **Sector:** 1
 * **Dificultad:** G-III(3+)
 * **Estaciones y Caudales:**
-    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es)
 * **Fuente:** Libro SUP - Embalses y ríos (p 578)
 * **Tiempo total (aprox):** Pendiente
 
@@ -48,7 +48,7 @@
 * **Sector:** 2
 * **Dificultad:** G-II(3)
 * **Estaciones y Caudales:**
-    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es)
 * **Fuente:** Libro SUP - Embalses y ríos (p 582)
 * **Tiempo total (aprox):** 12:00
 
@@ -80,7 +80,7 @@
 * **Sector:** 6
 * **Dificultad:** G-I(II)
 * **Estaciones y Caudales:**
-    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es)
 * **Fuente:** Libro SUP - Embalses y ríos (p 598)
 * **Tiempo total (aprox):** 9:00
 
@@ -126,7 +126,7 @@ Se debe ir siempre por el cauce principal, ya que los pequeños ramales laterale
 * **Sector:** 7
 * **Dificultad:** G-I/II
 * **Estaciones y Caudales:**
-    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es)
 * **Fuente:** Libro SUP - Embalses y ríos (p 600)
 * **Tiempo total (aprox):** 10:00
 
@@ -158,7 +158,7 @@ Se debe ir siempre por el cauce principal, ya que los pequeños ramales laterale
 * **Dificultad:** G-I/II
 * **Dificultad alternativo:** G-I
 * **Estaciones y Caudales:**
-    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR03)
+    * [AR03 - Trillo: 25-45m3](https://saihtajo.chtajo.es)
 * **Fuente:** Libro SUP - Embalses y ríos (p 604)
 * **Tiempo total (aprox):** 7:30 (alternativo)
 
@@ -194,7 +194,7 @@ Se debe ir siempre por el cauce principal, ya que los pequeños ramales laterale
 * **Río:** Tajo
 * **Sector:** 9
 * **Dificultad:** G-I(3)
-* **Estación y Caudal:** [AR08 - Tajo en Almoguera: Todo el año, recomendable 10-22m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR08)
+* **Estación y Caudal:** [AR08 - Tajo en Almoguera: Todo el año, recomendable 10-22m3](https://saihtajo.chtajo.es)
 * **Fuente:** Libro SUP - Embalses y ríos (p 606)
 * **Tiempo total (aprox):** 7:30
 
@@ -225,7 +225,7 @@ Se debe ir siempre por el cauce principal, ya que los pequeños ramales laterale
 * **Río:** Tajo
 * **Sector:** 11
 * **Dificultad:** G-I/II
-* **Estación y Caudal:** [AR56 - Tajo en Embocador: 8-12m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR56)
+* **Estación y Caudal:** [AR56 - Tajo en Embocador: 8-12m3](https://saihtajo.chtajo.es)
 * **Fuente:** Libro SUP - Embalses y ríos (p 610)
 * **Tiempo total (aprox):** 4:30
 
@@ -259,7 +259,7 @@ Se debe ir siempre por el cauce principal, ya que los pequeños ramales laterale
 * **Río:** Tajo
 * **Sector:** 13
 * **Dificultad:** G-I
-* **Estación y Caudal:** [AR10 - Tajo en Higares: 35m3](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR10)
+* **Estación y Caudal:** [AR10 - Tajo en Higares: 35m3](https://saihtajo.chtajo.es)
 * **Fuente:** Libro SUP - Embalses y ríos (p 614)
 * **Tiempo total (aprox):** 8:00 by walk / 6:00 by bike / 5:30 by walk corto
 

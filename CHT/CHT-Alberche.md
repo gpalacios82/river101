@@ -12,7 +12,7 @@
 * **Río:** Alberche
 * **Sector:** 8
 * **Dificultad:** G-I(II)
-* **Estaciones y Caudales:** [AR21 - Alberche en Navaluenga: 45-70m3 (o más)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR21)
+* **Estaciones y Caudales:** [AR21 - Alberche en Navaluenga: 45-70m3 (o más)](https://saihtajo.chtajo.es/)
 * **Fuente:** Libro SUP - Embalses y ríos (p 364)
 * **Tiempo total (aprox):** 7:00
 
@@ -43,7 +43,7 @@
 * **Río:** Embalse de Picadas (Río Alberche)
 * **Sector:** Picadas
 * **Dificultad:** G-0
-* **Estación y Caudal:** [E20](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:E_20)
+* **Estación y Caudal:** [E20](https://saihtajo.chtajo.es/)
 * **Fuente:** Libro SUP - Embalses y ríos (p 156)
 * **Tiempo total (aprox):** 5:00
 

@@ -17,7 +17,7 @@
 * **Río:** Guadiela
 * **Sector:** 4
 * **Dificultad:** G-II(3) ó G-II(2+) empezando después del puente
-* **Estación y Caudal:** [AR04 - Guadiela en la ruidera: 15-20m3 (aceptable desde 10m3)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR04)
+* **Estación y Caudal:** [AR04 - Guadiela en la ruidera: 15-20m3 (aceptable desde 10m3)](https://saihtajo.chtajo.es/)
 * **Fuente:** Libro SUP - Embalses y ríos (p 458)
 * **Tiempo total (aprox):** X:XX
 
@@ -64,7 +64,7 @@ La salida es justo después de la presa de la sartenilla (en la zona de baño de
 * **Río:** Guadiela
 * **Sector:** 5
 * **Dificultad:** G-I(2)
-* **Estación y Caudal:** [AR04 - Guadiela en la ruidera: 15-20m3 (aceptable desde 10m3)](https://saihtajo.chtajo.es/stmobile/index.php?url=/tr/ficha/estacion:AR04)
+* **Estación y Caudal:** [AR04 - Guadiela en la ruidera: 15-20m3 (aceptable desde 10m3)](https://saihtajo.chtajo.es/)
 * **Fuente:** Libro SUP - Embalses y ríos (p 462)
 * **Tiempo total (aprox):** 7:30
 
