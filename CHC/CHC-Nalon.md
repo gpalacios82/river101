@@ -5,6 +5,9 @@
 * [Río Nalon en Peñaflor](./CHC-Nalon.md#río-nalon-en-Peñaflor)
 * [Río Nalon en Pravia](./CHC-Nalon.md#río-nalon-en-Pravia)
 
+**Ojo a las restricciones**, según la época del año es navegable, no navegable o en según que horarios (*fuente CHC*)
+![](../misc/images/chc-nalon-restricciones.jpg)
+
 ## Río Nalon en Peñaflor
 
 **Datos Generales:**
@@ -41,7 +44,7 @@
 
 **Datos Generales:**
 * **Cuenca:** CHC
-* **Río:** Nalon
+* **Río:** Nalon y final del río Narcea
 * **Sector:** Pravia a la Costa
 * **Dificultad:** Pendiente
 * **Estación y Caudal:** [1368 - Río Nalón en Grullos](https://visor.saichcantabrico.es/)
