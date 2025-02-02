@@ -44,7 +44,7 @@
 
 **Datos Generales:**
 * **Cuenca:** CHC
-* **Río:** Nalon y final del río Narcea
+* **Río:** Nalon
 * **Sector:** Pravia a la Costa
 * **Dificultad:** Pendiente
 * **Estación y Caudal:** [1368 - Río Nalón en Grullos](https://visor.saichcantabrico.es/)
