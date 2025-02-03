@@ -7,6 +7,9 @@
 * [S3 - Río Ebro](./CHE-Ebro.md#río-ebro-s3)
 * [S4 - Río Ebro](./CHE-Ebro.md#río-ebro-s4)
 
+El alto Ebro se hace en junio/julio, cuando hay sueltas del embalse del Ebro, el resto del año a penas hay caudal
+![](../misc/images/che-ebro-merindades.jpeg)
+
 ## Río Ebro S1
 
 **Datos Generales:**
