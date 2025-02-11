@@ -38,7 +38,7 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 * **Tiempo total (aprox):** 3 días
 
 >**Observaciones:**
-
+>
 >La **expedición en packraft por el río Cabriel** se plantea como una **travesía de tres días**, combinando un **remonte en bicicleta** con e-bike de **42 km y 851 m de desnivel** el **primer día**, seguido de **tres etapas de navegación**, progresivamente más largas. 
 >
 >La ruta comienza con un **día exigente**, en el que la **bicicleta servirá como medio de acceso al punto de embarque**, reduciendo el tiempo de ascenso gracias al remolque con e-bike. **El primer tramo en packraft (18 km) es técnico y requiere scouting previo**, finalizando en **Poza y Playa de Vadocañas**, donde se montará el primer campamento. 
