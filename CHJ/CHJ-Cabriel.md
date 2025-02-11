@@ -38,7 +38,17 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 * **Tiempo total (aprox):** 3 días
 
 >**Observaciones:**
-*La expedición en packraft por el río Cabriel se plantea como una travesía de tres días, combinando un remonte en bicicleta con e-bike de 42 km y 851 m de desnivel el primer día, seguido de tres etapas de navegación, progresivamente más largas. La ruta comienza con un día exigente en el que la bicicleta servirá como medio de acceso al punto de embarque, reduciendo el tiempo de ascenso gracias al remolque con e-bike. El primer tramo en packraft (18 km) es técnico y requiere scouting previo, finalizando en Poza y Playa de Vadocañas, donde se montará el primer campamento. El segundo día cubre 28 km de navegación, con una distribución equilibrada para gestionar la fatiga, permitiendo explorar y disfrutar del paisaje antes de llegar al área recreativa del Puente de Tamayo. El tercer día se recorren los últimos 25 km del río, con un tramo final que asegura una llegada a tiempo para desmontar equipo y regresar en coche a casa sin prisas. La planificación considera ritmos sostenibles, pausas estratégicas y scouting en puntos clave, asegurando una expedición autosuficiente, fluida y bien estructurada para maximizar la experiencia sin comprometer la seguridad ni la gestión del esfuerzo.*
+La **expedición en packraft por el río Cabriel** se plantea como una **travesía de tres días**, combinando un **remonte en bicicleta** con e-bike de **42 km y 851 m de desnivel** el **primer día**, seguido de **tres etapas de navegación**, progresivamente más largas. 
+
+La ruta comienza con un **día exigente**, en el que la **bicicleta servirá como medio de acceso al punto de embarque**, reduciendo el tiempo de ascenso gracias al remolque con e-bike. **El primer tramo en packraft (18 km) es técnico y requiere scouting previo**, finalizando en **Poza y Playa de Vadocañas**, donde se montará el primer campamento. 
+
+El **segundo día cubre 28 km de navegación**, con una distribución equilibrada para gestionar la fatiga, permitiendo explorar y disfrutar del paisaje antes de llegar al **área recreativa del Puente de Tamayo**. 
+
+El **tercer día** se recorren los **últimos 25 km del río**, con un tramo final que asegura una llegada a tiempo para **desmontar equipo y regresar en coche a casa sin prisas**. 
+
+La planificación considera **ritmos sostenibles, pausas estratégicas y scouting en puntos clave**, asegurando una expedición **autosuficiente, fluida y bien estructurada**, para maximizar la experiencia sin comprometer la **seguridad ni la gestión del esfuerzo**.
+
+En **invierno y principios de primavera**, la presa de **Contreras permanece cerrada**, reduciendo el caudal del río Cabriel al **mínimo ecológico de 1 m³/s**, lo que puede hacer **inviable la navegación en los primeros tramos** debido a la falta de profundidad y la necesidad de porteos frecuentes. Sin embargo, **a partir del Puente de Vadocañas**, el río **recupera caudal** gracias a **surgencias y manantiales**, permitiendo una navegación más fluida. Para la expedición, será clave **monitorizar el caudal en tiempo real**, y si se mantiene bajo, considerar **iniciar la ruta desde Vadocañas** para evitar tramos secos o excesivamente técnicos por falta de agua.
 
 | Día      | Actividad                         | Inicio | Fin   | Distancia | Tiempo estimado  |
 |----------|-----------------------------------|--------|-------|-----------|------------------|
