@@ -54,18 +54,18 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 
 *Basado en la información recopilada, el **descenso del río Cabriel** presenta varios puntos críticos donde hay que extremar la precaución debido a **sifones, drosajes y obstáculos naturales**. A continuación, se detallan los principales riesgos y la mejor estrategia para evitarlos:*
 
+* **Ola de Contreras**
+    - **Peligro:** **Ola potente** que puede volcar embarcaciones pequeñas.
+    - **Cómo evitarlo:** Si el nivel del agua es alto, valorar si es mejor **bordear la zona** o afrontarla con impulso suficiente.
 * **Paso del Caos (Grado III)**
     - **Peligro:** **Sifón peligroso** causado por la caída de dos pinos.
     - **Cómo evitarlo:** **Tomar el ramal izquierdo**, aunque este también tiene una **rama sumergida** bajo el agua que hay que sortear con cuidado.
 * **El Purgatorio (Grado III)**
     - **Peligro:** **Sifón localizado en la derecha** al final del rápido.
     - **Cómo evitarlo:** Mantenerse **hacia la izquierda** del paso para evitar ser arrastrado hacia el sifón.
-* **El Paredón**
+* **El Paredón o El Muro**
     - **Peligro:** **Drosaje fuerte** en la base de la pared izquierda. La corriente tiende a llevar hacia esta zona.
     - **Cómo evitarlo:** Navegar **pegado a la derecha** y evitar que la corriente arrastre hacia la izquierda.
-* **Ola de Contreras**
-    - **Peligro:** **Ola potente** que puede volcar embarcaciones pequeñas.
-    - **Cómo evitarlo:** Si el nivel del agua es alto, valorar si es mejor **bordear la zona** o afrontarla con impulso suficiente.
 
 **Waypoints:**
 * **PID :arrow_lower_right::** [39.536729,-1.503341](https://maps.app.goo.gl/MCRdDzqMn9ketyab6) :car: [Waze a PID](https://waze.com/?ll=39.536729,-1.503341&navigate=yes)
