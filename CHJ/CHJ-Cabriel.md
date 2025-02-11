@@ -24,9 +24,45 @@ Caudal de verano o presa suelta: El río se convierte en un río más potente do
 
 El río está más bravo y más emocionante. No hay que remar tanto, pero el agua esta fría debido a que el agua que sale por la presa sale de la parte de abajo donde no le da el sol.
 
+## Hoces del Cabriel hasta Villatoya
+![Topología del Cabriel - Tramo Tamayo y Tete](../misc/images/chj-cabriel-tamayo-tete.jpg)
+
+**Datos Generales:**
+* **Cuenca:** CHJ
+* **Río:** Cabriel
+* **Sector:** Hoces del Cabriel, Tamayo, Tete y Villatoya
+* **Dificultad:** G-III
+* **Estación y Caudal:** [EA130 - Contreras: 5-20m3](https://saih.chj.es/chj/saih/estacionform?id=344&t=a)
+* **Tiempo total (aprox):** 3 días
+
+>**Observaciones:**
+*La expedición en packraft por el río Cabriel se plantea como una travesía de tres días, combinando un remonte en bicicleta con e-bike de 42 km y 851 m de desnivel el primer día, seguido de tres etapas de navegación, progresivamente más largas. La ruta comienza con un día exigente en el que la bicicleta servirá como medio de acceso al punto de embarque, reduciendo el tiempo de ascenso gracias al remolque con e-bike. El primer tramo en packraft (18 km) es técnico y requiere scouting previo, finalizando en Poza y Playa de Vadocañas, donde se montará el primer campamento. El segundo día cubre 28 km de navegación, con una distribución equilibrada para gestionar la fatiga, permitiendo explorar y disfrutar del paisaje antes de llegar al área recreativa del Puente de Tamayo. El tercer día se recorren los últimos 25 km del río, con un tramo final que asegura una llegada a tiempo para desmontar equipo y regresar en coche a casa sin prisas. La planificación considera ritmos sostenibles, pausas estratégicas y scouting en puntos clave, asegurando una expedición autosuficiente, fluida y bien estructurada para maximizar la experiencia sin comprometer la seguridad ni la gestión del esfuerzo.*
+
+| Día      | Actividad                         | Inicio | Fin   | Distancia | Tiempo estimado  |
+|----------|-----------------------------------|--------|-------|-----------|------------------|
+| **Viernes**  | 🚴 **Bici** (42 km, 851 m D+)      | 07:30  | 12:30 | 42 km     | 5-5.5 h          |
+|          | 🛶 **Packraft** (18 km)           | 13:30  | 17:30 | 18 km     | 4 h              |
+|          | 🏕️ **Campamento en Vadocañas**     | 18:00  | 19:00 | -         | Cena y descanso  |
+| **Sábado**   | 🛶 **Packraft** (28 km)           | 08:00  | 16:30 | 28 km     | 8.5 h            |
+|          | 🏕️ **Campamento en Tamayo**        | 17:00  | 19:00 | -         | Cena y descanso  |
+| **Domingo**  | 🛶 **Packraft** (25 km)           | 08:00  | 15:30 | 25 km     | 7.5 h            |
+|          | 🚗 **Regreso en coche**            | 16:30  | 20:00 | -         | 3.5-4 h          |
+
+**Waypoints:**
+* **PID :arrow_lower_right::** [39.536729,-1.503341](https://maps.app.goo.gl/MCRdDzqMn9ketyab6) :car: [Waze a PID](https://waze.com/?ll=39.536729,-1.503341&navigate=yes)
+* **PSC :arrow_upper_right::** [39.336075,-1.339609](https://maps.app.goo.gl/GbG2jRhk36p3jLxeA) :car: [Waze a PSC](https://waze.com/?ll=39.336075,-1.339609&navigate=yes)
+
+**Tracks:**
+* [Track Raft Dia 1 - 18 Km](https://connect.garmin.com/modern/course/331766339)
+* [Track Raft Dia 2 - 28 Km](https://connect.garmin.com/modern/course/331766453)
+* [Track Raft Dia 3 - 24 Km](https://connect.garmin.com/modern/course/331767250)
+* [Track BTT - 42 Km](https://connect.garmin.com/modern/course/331766153)
+
+**Historial**
+* N/A
+
 
 ## Río Cabriel Tamayo y Tete
-![Topología del Cabriel - Tramo Tamayo y Tete](../misc/images/chj-cabriel-tamayo-tete.jpg)
 
 **Datos Generales:**
 * **Cuenca:** CHJ
