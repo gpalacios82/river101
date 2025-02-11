@@ -26,7 +26,6 @@ Caudal de verano o presa suelta: El río se convierte en un río más potente do
 El río está más bravo y más emocionante. No hay que remar tanto, pero el agua esta fría debido a que el agua que sale por la presa sale de la parte de abajo donde no le da el sol.
 
 ## Hoces del Cabriel hasta Villatoya
-![Topología del Cabriel - Tramo Tamayo y Tete](../misc/images/chj-cabriel-tamayo-tete.jpg)
 
 **Datos Generales:**
 * **Cuenca:** CHJ
@@ -64,6 +63,8 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 
 
 ## Río Cabriel Tamayo y Tete
+
+![Topología del Cabriel - Tramo Tamayo y Tete](../misc/images/chj-cabriel-tamayo-tete.jpg)
 
 **Datos Generales:**
 * **Cuenca:** CHJ
