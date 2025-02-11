@@ -56,7 +56,7 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 
 * **Ola de Contreras**
     - **Peligro:** **Ola potente** que puede volcar embarcaciones pequeñas.
-    - **Cómo evitarlo:** Si el nivel del agua es alto, valorar si es mejor **bordear la zona** o afrontarla con impulso suficiente.
+    - **Cómo evitarlo:** Si el nivel del agua es alto, valorar si es mejor **bordear la zona** o afrontarla con impulso suficiente **por la parte central**.
 * **Paso del Caos (Grado III)**
     - **Peligro:** **Sifón peligroso** causado por la caída de dos pinos.
     - **Cómo evitarlo:** **Tomar el ramal izquierdo**, aunque este también tiene una **rama sumergida** bajo el agua que hay que sortear con cuidado.
