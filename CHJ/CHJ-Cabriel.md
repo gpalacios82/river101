@@ -51,6 +51,7 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 |          | 🚗 **Regreso en coche**            | 16:30  | 20:00 | -         | 3.5-4 h          |
 
 **Peligros y puntos críticos en el descenso del Cabriel**
+
 *Basado en la información recopilada, el **descenso del río Cabriel** presenta varios puntos críticos donde hay que extremar la precaución debido a **sifones, drosajes y obstáculos naturales**. A continuación, se detallan los principales riesgos y la mejor estrategia para evitarlos:*
 
 * **Paso del Caos (Grado III)**
