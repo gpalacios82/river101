@@ -27,6 +27,8 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 
 ## Hoces del Cabriel hasta Villatoya
 
+![Topología del Cabriel - Hoces del Cabriel hasta Villatoya](../misc/images/chj-hoces-cabriel.png)
+
 **Datos Generales:**
 * **Cuenca:** CHJ
 * **Río:** Cabriel
