@@ -82,10 +82,24 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 * **PID :arrow_lower_right::** [39.536729,-1.503341](https://maps.app.goo.gl/MCRdDzqMn9ketyab6) :car: [Waze a PID](https://waze.com/?ll=39.536729,-1.503341&navigate=yes)
 * **PSC :arrow_upper_right::** [39.336075,-1.339609](https://maps.app.goo.gl/GbG2jRhk36p3jLxeA) :car: [Waze a PSC](https://waze.com/?ll=39.336075,-1.339609&navigate=yes)
 
+**Otros Waypoints de interés:**
+* **Punto de inicio del packraft y almacenamiento de bicicletas:** 39.536679,-1.503330
+* **Tobogán de la presa:** 39.534859,-1.501176
+* **Ola de Contreras:** 39.530319,-1.505704
+* **Vía de escape antes de las Hoces y los rápidos clase III:** 39.498185,-1.499841
+* **Barranco de la huerta de Mateo (puede aumentar el caudal en caso de lluvias):** 39.482664,-1.512179
+* **Rápido del Caos (Clase III):** 39.480668,-1.505772
+* **Rápido del Purgatorio (Clase III):** 39.477273,-1.505879
+* **Rápido del Muro o Paredón (Clase III):** 39.475590,-1.510370
+* **Zona de acampada de la primera noche (Puente de Vadocañas):** 39.444955,-1.522883
+* **Área de descanso de la segunda noche (Área Recreativa de Tamayo):** 39.369670,-1.448199
+* **Presa tras el Tete:** 39.372182,-1.406241 
+* **Punto de Fin y estacionamiento del vehículo:** 39.335947,-1.339617
+
 **Tracks:**
-* [Track Raft Dia 1 - 18 Km](https://connect.garmin.com/modern/course/331766339)
-* [Track Raft Dia 2 - 28 Km](https://connect.garmin.com/modern/course/331766453)
-* [Track Raft Dia 3 - 24 Km](https://connect.garmin.com/modern/course/331767250)
+* [Track Raft Dia 1 - 18 Km - Pendiente 0,41%](https://connect.garmin.com/modern/course/331766339)
+* [Track Raft Dia 2 - 28 Km - Pendiente 0,23%](https://connect.garmin.com/modern/course/331766453)
+* [Track Raft Dia 3 - 24 Km - Pendiente 0,21%](https://connect.garmin.com/modern/course/331767250)
 * [Track BTT - 42 Km](https://connect.garmin.com/modern/course/331766153)
 
 **Historial**
