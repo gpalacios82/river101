@@ -114,7 +114,7 @@ El río está más bravo y más emocionante. No hay que remar tanto, pero el agu
 * [Track Raft Dia 1 - 18 Km - Pendiente 0,41%](https://connect.garmin.com/modern/course/331766339)
 * [Track Raft Dia 2 - 28 Km - Pendiente 0,23%](https://connect.garmin.com/modern/course/331766453)
 * [Track Raft Dia 3 - 24 Km - Pendiente 0,21%](https://connect.garmin.com/modern/course/331767250)
-* [Track Raft - Plan B - 24 Km - Pendiente 0,18%](https://connect.garmin.com/modern/course/331894273)
+* [Track Raft - Plan B - 40 Km - Pendiente 0,18%](https://connect.garmin.com/modern/course/331894273)
 
 * [Track BTT - 42 Km](https://connect.garmin.com/modern/course/331766153)
 * [Track BTT - Plan B - 67 Km](https://connect.garmin.com/modern/course/331892604)
