@@ -6,7 +6,7 @@
 
 ## Río NombreRío SX
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHX
 * **Río:** NombreRío
 * **Sector:** X
@@ -23,15 +23,15 @@
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [XXXXX](XXXX) :car: [Waze a PID](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 * **PSC :arrow_upper_right::** [XXXXX](XXXX) :car: [Waze a PSC](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - xx Km](XXX)
 * [Track Walk - xx Km](XXX)
 
-**Historial**
+>**Historial**
 * [aaaammdd - XXm3/s](XXX)
 
 ## Aviso importante

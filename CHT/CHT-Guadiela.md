@@ -12,7 +12,7 @@
 
 ## Río Guadiela en La Ruidera S4 (Sub Tramo II)
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHT
 * **Río:** Guadiela
 * **Sector:** 4
@@ -46,20 +46,20 @@ La salida es justo después de la presa de la sartenilla (en la zona de baño de
 |---------|------------|------|----------------|
 |    X    |      X     |  X   |      XXXXX     |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_upper_right::** [40.4736475,-2.3856862](https://maps.app.goo.gl/QDBtMHJwbmUz5qtq6) :car: [Waze a PID](https://waze.com/?ll=40.4736475,-2.3856862&navigate=yes)
 * **PSC :arrow_lower_right::** [40.4202209,-2.4782656](https://maps.app.goo.gl/hmZ1jz2Vd6ABZMcm7) :car: [Waze a PSC](https://waze.com/?ll=40.4202209,-2.4782656&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 13 Km](https://connect.garmin.com/modern/course/312749736)
 * [Track Walk - 15 Km](https://connect.garmin.com/modern/course/312747273)
 
-**Historial**
+>**Historial**
 * N/A
 
 ## Río Guadiela en Villar del Infantado S5 (Sub Tramo II)
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHT
 * **Río:** Guadiela
 * **Sector:** 5
@@ -81,15 +81,15 @@ La salida es justo después de la presa de la sartenilla (en la zona de baño de
 |---------|------------|------|----------------|
 |    1    |      2     |  3   |      Medio     |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [40.4202209,-2.4782656](https://maps.app.goo.gl/hmZ1jz2Vd6ABZMcm7) :car: [Waze a PID](https://waze.com/?ll=40.4202209,-2.4782656&navigate=yes)
 * **PSC :arrow_upper_right::** [40.4434349,-2.5698536](https://maps.app.goo.gl/h7Yq5GKjxjH8bkABA) :car: [Waze a PSC](https://waze.com/?ll=40.4434349,-2.5698536&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 10 Km](https://connect.garmin.com/modern/course/141419120)
 * [Track Walk - 10 Km](https://connect.garmin.com/modern/course/257554291)
 
-**Historial**
+>**Historial**
 * N/A
 
 ## Aviso importante

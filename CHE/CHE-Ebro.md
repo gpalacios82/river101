@@ -12,7 +12,7 @@ El alto Ebro se hace en junio/julio, cuando hay sueltas del embalse del Ebro, el
 
 ## Río Ebro S1
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHE
 * **Río:** Ebro
 * **Sector:** 1
@@ -29,21 +29,21 @@ El alto Ebro se hace en junio/julio, cuando hay sueltas del embalse del Ebro, el
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [XXXXX](XXXX) :car: [Waze a PID](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 * **PSC :arrow_upper_right::** [XXXXX](XXXX) :car: [Waze a PSC](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - xx Km](XXX)
 * [Track Walk - xx Km](XXX)
 
-**Historial**
+>**Historial**
 * N/A
 
 
 ## Río Ebro S2
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHE
 * **Río:** Ebro
 * **Sector:** 2
@@ -60,21 +60,21 @@ El alto Ebro se hace en junio/julio, cuando hay sueltas del embalse del Ebro, el
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [XXXXX](XXXX) :car: [Waze a PID](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 * **PSC :arrow_upper_right::** [XXXXX](XXXX) :car: [Waze a PSC](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - xx Km](XXX)
 * [Track Walk - xx Km](XXX)
 
-**Historial**
+>**Historial**
 * N/A
 
 
 ## Río Ebro S3
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHE
 * **Río:** Ebro
 * **Sector:** 3
@@ -91,21 +91,21 @@ El alto Ebro se hace en junio/julio, cuando hay sueltas del embalse del Ebro, el
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [XXXXX](XXXX) :car: [Waze a PID](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 * **PSC :arrow_upper_right::** [XXXXX](XXXX) :car: [Waze a PSC](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - xx Km](XXX)
 * [Track Walk - xx Km](XXX)
 
-**Historial**
+>**Historial**
 * N/A
 
 
 ## Río Ebro S4
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHE
 * **Río:** Ebro
 * **Sector:** 4
@@ -123,15 +123,15 @@ Desde Pesquera de Ebro más fácil (clase II)*
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [XXXXX](XXXX) :car: [Waze a PID](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 * **PSC :arrow_upper_right::** [XXXXX](XXXX) :car: [Waze a PSC](https://waze.com/?ll=LATITUD,LONGITUD&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - xx Km](XXX)
 * [Track Walk - xx Km](XXX)
 
-**Historial**
+>**Historial**
 * N/A
 
 ## Aviso importante

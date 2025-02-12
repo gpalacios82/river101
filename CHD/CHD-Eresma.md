@@ -7,7 +7,7 @@
 
 ## Río Eresma desde el Pontón Alto
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHD
 * **Río:** Eresma
 * **Sector:** Ponton Alto - Segovia
@@ -42,15 +42,15 @@
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [40.915851,-4.038375](https://maps.app.goo.gl/3CiWw9ih6cKoehgq9) :car: [Waze a PID](https://waze.com/?ll=40.915851,-4.038375&navigate=yes)
 * **PSC :arrow_upper_right::** [40.954468,-4.134710](https://maps.app.goo.gl/oHib5MzmZS9RCLzM6) :car: [Waze a PSC](https://waze.com/?ll=40.954468,-4.134710&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 11,5 Km](https://connect.garmin.com/modern/course/314648803)
 * [Track Walk - 12 Km](https://connect.garmin.com/modern/course/314647767)
 
-**Historial**
+>**Historial**
 * N/A
 
 

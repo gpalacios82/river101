@@ -10,7 +10,7 @@
 
 ## Río Nalon en Peñaflor
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHC
 * **Río:** Nalon
 * **Sector:** Peñaflor a Pravia
@@ -27,22 +27,22 @@
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [43.397734,-6.024825](https://maps.app.goo.gl/hX3RgSdQu5x3cBNh8) :car: [Waze a PID](https://waze.com/?ll=43.397734,-6.024825&navigate=yes)
 * **PSC :arrow_upper_right::** [43.491644,-6.107746](https://maps.app.goo.gl/e8QkNYjUeR355ekD7) :car: [Waze a PSC](https://waze.com/?ll=43.491644,-6.107746&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 22 Km](https://connect.garmin.com/modern/course/330149092)
 * [Track Walk - 19 Km](https://connect.garmin.com/modern/course/330148937)
 
-**Historial**
+>**Historial**
 * N/A
 
 
 
 ## Río Nalon en Pravia
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHC
 * **Río:** Nalon
 * **Sector:** Pravia a la Costa
@@ -59,15 +59,15 @@
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [43.491644,-6.107746](https://maps.app.goo.gl/e8QkNYjUeR355ekD7) :car: [Waze a PSC](https://waze.com/?ll=43.491644,-6.107746&navigate=yes)
 * **PSC :arrow_upper_right::** [43.556546,-6.080369](https://maps.app.goo.gl/cBJZmFeUtDLGVqCD6) :car: [Waze a PSC](https://waze.com/?ll=43.556546,-6.080369&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 13 Km](https://connect.garmin.com/modern/course/330149678)
 * [Track Walk - 14 Km](https://connect.garmin.com/modern/course/330149569)
 
-**Historial**
+>**Historial**
 * N/A
 
 

@@ -9,7 +9,7 @@
 
 ## Río Jarama en Uceda S6
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHT
 * **Río:** Jarama
 * **Sector:** 6
@@ -61,21 +61,21 @@ Complicadas las salidas, son muy puntuales. Además, es una zona muy verde, y de
 |---------|------------|------|----------------|
 |     2   |       2    |   4  |      Alto      |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [40.870586,-3.451925](https://maps.app.goo.gl/NYryL6f8RY85Gvvd8) :car: [Waze a PID](https://waze.com/?ll=40.870586,-3.451925&navigate=yes)
 * **PSC :arrow_upper_right::** [40.844982,-3.470688](https://maps.app.goo.gl/ExHsKKNre9HN4KVS6) :car: [Waze a PSC](https://waze.com/?ll=40.844982,-3.470688&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 5,5 Km](https://connect.garmin.com/modern/course/192904137)
 * [Track Walk - 4 Km](https://connect.garmin.com/modern/course/192902293)
 
-**Historial**
+>**Historial**
 * N/A
 
 
 ## Río Jarama en Torremocha S7
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHT
 * **Río:** Jarama
 * **Sector:** 7
@@ -99,21 +99,21 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 |---------|------------|------|----------------|
 |     2   |       2    |   4  |      Alto      |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [40.844935,-3.470037](https://maps.app.goo.gl/aQjphbYd5sHTU4Kx8) :car: [Waze a PID](https://waze.com/?ll=40.844935,-3.470037&navigate=yes)
 * **PSC :arrow_upper_right::** [40.772147,-3.516891](https://maps.app.goo.gl/XN4uFr8zu7eCDtfc9) :car: [Waze a PSC](https://waze.com/?ll=40.772147,-3.516891&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 11,5 Km](https://connect.garmin.com/modern/course/314510299)
 * [Track Walk - 12,5 Km](https://connect.garmin.com/modern/course/314509606)
 
-**Historial**
+>**Historial**
 * N/A
 
 
 ## Río Jarama de Valdetorres a Santo Domingo S9
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHT
 * **Río:** Jarama
 * **Sector:** 9
@@ -130,21 +130,21 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [40.701647,-3.536752](https://maps.app.goo.gl/5Q71SzBuRXM7xdH76) :car: [Waze a PID](https://waze.com/?ll=40.701647,-3.536752&navigate=yes)
 * **PSC :arrow_upper_right::** [40.637167,-3.561681](https://maps.app.goo.gl/nW6hDeiUTeWGyfxz8) :car: [Waze a PSC](https://waze.com/?ll=40.637167,-3.561681&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 9,5 Km](https://connect.garmin.com/modern/course/261821481)
 * [Track Walk - 9 Km](https://connect.garmin.com/modern/course/261820407)
 
-**Historial**
+>**Historial**
 * N/A
 
 
 ## Río Jarama PR Sureste
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHT
 * **Río:** Jarama
 * **Sector:** PR Sureste
@@ -161,15 +161,15 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 |---------|------------|------|----------------|
 |    1    |     2      |   3  |   Medio    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [40.419854,-3.501089](https://maps.app.goo.gl/9v4pMTBDjEME6vmm8) :car: [Waze a PID](https://waze.com/?ll=40.419854,-3.501089&navigate=yes)
 * **PSC :arrow_upper_right::** [40.334706,-3.470097](https://maps.app.goo.gl/W6uDAxGPCmXoV9u96) :car: [Waze a PSC](https://waze.com/?ll=40.334706,-3.470097&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 15 Km](https://connect.garmin.com/modern/course/261825044)
 * [Track Walk - 12 Km](https://connect.garmin.com/modern/course/261825165)
 
-**Historial**
+>**Historial**
 * N/A
 
 ## Aviso importante

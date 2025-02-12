@@ -9,7 +9,7 @@
 
 ## Río Sella
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHC
 * **Río:** Sella
 * **Sector:** Desde Arriondas a Santianes
@@ -25,15 +25,15 @@
 |---------|------------|------|----------------|
 |    0    |     0      |   0  |   Bajo         |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [43.393027,-5.180817](https://maps.app.goo.gl/cg6vS8r3UfxUZvQN6) :car: [Waze a PID](https://waze.com/?ll=43.393027,-5.180817&navigate=yes)
 * **PSC :arrow_upper_right::** [43.431699,-5.063255](https://maps.app.goo.gl/C8wZ6hynpiEhUEs2A) :car: [Waze a PSC](https://waze.com/?ll=43.431699,-5.063255&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 15 Km](https://connect.garmin.com/modern/course/263743690)
 * [Track Walk - 13 Km](https://connect.garmin.com/modern/course/263744764)
 
-**Historial**
+>**Historial**
 * [20200829 - Con empresa de turismo activo](https://connect.garmin.com/modern/activity/5457046017)
 
 

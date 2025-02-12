@@ -10,7 +10,7 @@
 
 ## Río Lozoya en el Atazar S6
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHT
 * **Río:** Lozoya
 * **Sector:** 6
@@ -47,15 +47,15 @@
 |---------|------------|------|----------------|
 |    2    |     2      |   4  |   Alto    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [40.912883,-3.451326](https://maps.app.goo.gl/ZBQfK9zXSVHmMR3e8) :car: [Waze a PID](https://waze.com/?ll=40.912883,-3.451326&navigate=yes)
 * **PSC :arrow_upper_right::** [40.883695,-3.442521](https://maps.app.goo.gl/PNo1EmDpAYhxYKqg8) :car: [Waze a PSC](https://waze.com/?ll=40.883695,-3.442521&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 7,5 Km](https://connect.garmin.com/modern/course/286535876)
 * [Track Walk - 7,5 Km](https://connect.garmin.com/modern/course/286535212)
 
-**Historial**
+>**Historial**
 * N/A
 
 ## Aviso importante

@@ -15,7 +15,7 @@
 
 ## Río Duratón desde el Puente de Villaseca
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHD
 * **Río:** Duratón
 * **Sector:** Desde el Puente de Villaseca al Embalse de Burgomillodo
@@ -28,20 +28,20 @@
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [41.293343,-3.843757](https://maps.app.goo.gl/hN2zrVQtpRoeggfC6) :car: [Waze a PID](https://waze.com/?ll=41.293343,-3.843757&navigate=yes)
 * **PSC :arrow_upper_right::** [41.313174,-3.878785](https://maps.app.goo.gl/4XggUTaRQmpGB2Py7) :car: [Waze a PSC](https://waze.com/?ll=41.313174,-3.878785&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 7,8 Km](https://connect.garmin.com/modern/course/130324061)
 * [Track Walk - 5,5 Km](https://connect.garmin.com/modern/course/262529052)
 
-**Historial**
+>**Historial**
 * N/A
 
 ## Río Duratón desde Burgomillodo hasta San Miguel de Bernuy
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHD
 * **Río:** Duratón
 * **Sector:** Desde Burgomillodo
@@ -60,21 +60,21 @@ Es una zona del rio con más bien poco caudal, habrá que bajarse bastantes vece
 |---------|------------|------|----------------|
 |    x    |     X      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [41.339037,-3.886910](https://maps.app.goo.gl/bkdvbSF11tiHVSyK9) :car: [Waze a PID](https://waze.com/?ll=41.339037,-3.886910&navigate=yes)
 * **PSC :arrow_upper_right::** [41.396472,-3.953428](https://maps.app.goo.gl/u4QagSynDJoNFADr9) :car: [Waze a PSC](https://waze.com/?ll=41.396472,-3.953428&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 12 Km](https://connect.garmin.com/modern/course/263056749)
 * [Track Walk - 11 Km](https://connect.garmin.com/modern/course/263056101)
 
-**Historial**
+>**Historial**
 * [20240512 - 3,70m3](https://connect.garmin.com/modern/activity/15352976327/3)
 
 
 ## Río Duratón en Embalse de las Vencías
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHD
 * **Río:** Duratón
 * **Sector:** Embalse de las Vencías
@@ -90,13 +90,13 @@ Es una zona del rio con más bien poco caudal, habrá que bajarse bastantes vece
 |---------|------------|------|----------------|
 |    0    |     0      |   0  |   Sin Riesgo    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID y PSC:arrow_lower_right::** [41.420226,-3.962568](https://maps.app.goo.gl/eYwUtSYpNNAKTeps8) :car: [Waze a PID y PSC](https://waze.com/?ll=41.420226,-3.962568&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 9 Km](https://connect.garmin.com/modern/course/263067847)
 
-**Historial**
+>**Historial**
 * [20220709](https://connect.garmin.com/modern/activity/9169257606)
 
 

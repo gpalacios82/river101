@@ -11,7 +11,7 @@
 
 > Revisar si es navegable, en la última actualización de la CHC, este tramo era navegable sólo hasta el Puente de Barreda [43.363349,-4.048187](https://maps.app.goo.gl/WoR3oiQRJSGXN6VM9)
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHC
 * **Río:** Saja
 * **Sector:** Desde Torrelavega a su desembocadura
@@ -29,25 +29,25 @@
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [43.355851,-4.059678](https://maps.app.goo.gl/gdPm3TkRxPG1piNh9) :car: [Waze a PID](https://waze.com/?ll=43.355851,-4.059678&navigate=yes)
 * **PID alternativo :arrow_lower_right::** [43.377409,-4.047008](https://maps.app.goo.gl/yyHak9qt4zAj3yAF7) :car: [Waze a PID](https://waze.com/?ll=43.377409,-4.047008&navigate=yes)
 * **PSC :arrow_upper_right::** [43.433841,-4.039856](https://maps.app.goo.gl/x1LJqr3k7kYBZHnQ8) :car: [Waze a PSC](https://waze.com/?ll=43.433841,-4.039856&navigate=yes)
 
 > **Marea alta** Habrá que tener en cuenta las mareas para hacer el recorrido con más agua, idealmente cuando haya marea alta: [ver tabla de mareas](https://es.surf-forecast.com/breaks/Los-Locos/tides/latest)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 13 Km](https://connect.garmin.com/modern/course/263074652)
 * [Track Walk - 11 Km](https://connect.garmin.com/modern/course/263074264)
 * [Track Walk Acortado - 7,5 Km](https://connect.garmin.com/modern/course/289134936)
 
-**Historial**
+>**Historial**
 * N/A
 
 
 ## Río Saja en el Puente de las Trechas
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHC
 * **Río:** Saja
 * **Sector:** Desde El Puente de las Trechas hasta el Puente de Barreda
@@ -65,16 +65,16 @@ En el PK 13,1 hay otro obstáculo en el que habrá que desmontarse, y en el 14,8
 |---------|------------|------|----------------|
 |    x    |     x      |   x  |   Pendiente    |
 
-**Waypoints:**
+>**Waypoints:**
 * **PID :arrow_lower_right::** [43.321717,-4.192352](https://maps.app.goo.gl/roJRTVVS8tkV2K298) :car: [Waze a PID](https://waze.com/?ll=43.321717,-4.192352&navigate=yes)
 * **PSC :arrow_upper_right::** [43.363349,-4.048187](https://maps.app.goo.gl/XLT31CkRMG9ps1By5) :car: [Waze a PSC](https://waze.com/?ll=43.363349,-4.048187&navigate=yes)
 * **PSC alternativo (PK 9) :arrow_upper_right::** [43.365793,-4.141507](https://maps.app.goo.gl/pgeYijKzSQeGsamP9) :car: [Waze a PSC](https://waze.com/?ll=43.365793,-4.141507&navigate=yes)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 18 Km](https://connect.garmin.com/modern/course/263471589)
 * [Track Walk - 15 Km](https://connect.garmin.com/modern/course/263469697)
 
-**Historial**
+>**Historial**
 * N/A
 
 

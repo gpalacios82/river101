@@ -7,7 +7,7 @@
 
 ## Río Gallego en Carcavilla
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHE
 * **Río:** Gallego
 * **Sector:** S4 y S5 - Carcavilla
@@ -15,13 +15,13 @@
 * **Estación y Caudal:** [A059 - Gállego en Santa Eulalia](http://www.saihebro.com/semobile/index.php?url=/tr/ficha/estacion:A059)
 * **Fuente:** Guía de navegación de los Ríos Pirenaicos (p.65)
 
-**Tracks:**
+>**Tracks:**
 * [Track Raft - 7,5 Km](https://connect.garmin.com/modern/course/306567836)
 
 >**Observaciones:**
 *Realizado siempre con guias*
 
-**Historial**
+>**Historial**
 * [20221001 - 5,5m3/s](https://connect.garmin.com/modern/activity/9710631639)
 * [20221002 - 5,5m3/s](https://connect.garmin.com/modern/activity/9715802132)
 * [20230902 - 15,50m3/s - 0,67m](https://connect.garmin.com/modern/activity/11929234570)
@@ -32,7 +32,7 @@
 
 ## Río Gallego en Murillo de Gállego
 
-**Datos Generales:**
+>**Datos Generales:**
 * **Cuenca:** CHE
 * **Río:** Gallego
 * **Sector:** S6 - Murillo de Gállego
@@ -40,13 +40,13 @@
 * **Estación y Caudal:** [A059 - Gállego en Santa Eulalia](http://www.saihebro.com/semobile/index.php?url=/tr/ficha/estacion:A059)
 * **Fuente:** Guía de navegación de los Ríos Pirenaicos (p.66)
 
-**Tracks:**
+>**Tracks:**
 * *Pendiente*
 
 >**Observaciones:**
 *Realizado siempre con guias*
 
-**Historial**
+>**Historial**
 * [20240922 - 120,00m3/s - 2,00m](https://connect.garmin.com/modern/activity/17100694788)
 
 
