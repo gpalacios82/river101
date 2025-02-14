@@ -6,6 +6,7 @@
 * [S7 - Río Jarama en Torremocha](./CHT-Jarama.md#río-jarama-en-torremocha-s7)
 * [S9 - Río Jarama de Valdetorres a Santo Domingo](./CHT-Jarama.md#río-jarama-de-valdetorres-a-santo-domingo-s9)
 * [Río Jarama PR Sureste](./CHT-Jarama.md#río-jarama-pr-sureste)
+* [Río Jarama: Presa del Rey – San Martín de la Vega](./CHT-Jarama.md#río-jarama-presa-del-rey--san-martín-de-la-vega)
 
 ## Río Jarama en Uceda S6
 
@@ -171,6 +172,39 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 
 >**Historial**
 * N/A
+
+
+## Río Jarama: Presa del Rey – San Martín de la Vega
+
+>**Datos Generales:**
+* **Cuenca:** CHT
+* **Río:** Jarama
+* **Sector:** Presa del Rey – San Martín de la Vega
+* **Dificultad:** G-I (pendiente de confirmar)
+* **Estación y Caudal:**  [AR17 - Jarama en Mejorada (aunque pasa por la Presa del rey E_22 que podria reducir caudal)](https://saihtajo.chtajo.es/)
+* **Fuente:** Wikiloc y google maps
+* **Tiempo total (aprox):** 06:00
+
+>**Observaciones:**
+*La ruta comienza en San Martín de la Vega con una caminata hasta la Presa del Rey, donde se realizará la entrada al agua. Desde allí, se navegarán aproximadamente 12 km río abajo hasta el punto de desembarque en San Martín de la Vega. La travesía ha sido planificada para minimizar riesgos, con rutas de evacuación claras y medidas de seguridad implementadas para hacer frente a condiciones meteorológicas y posibles obstáculos en el cauce*
+
+**Tabla de riesgos**
+| Peligro                                 | Evacuación                                           | Suma | Categorización |
+|-----------------------------------------|------------------------------------------------------|------|----------------|
+| Viento fuerte en contra                 | Utilizar vía de escape en PK2 (40.281715, -3.552210 de difícil acceso por vegetación densa) o en PK7 (40.246375, -3.547301)  | -    | Riesgo bajo    |
+| Condiciones del río (vegetación/troncos)| Evaluación visual y salida por puntos alternativos     | -    | Riesgo bajo    |
+
+>**Waypoints:**
+* **PID :arrow_lower_right::** [40.297993,-3.542658](https://www.google.com/maps/search/?api=1&query=40.297993,-3.542658) :car: [Waze a PID](https://waze.com/?ll=40.297993,-3.542658&navigate=yes)
+* **PSC :arrow_upper_right::** [40.211994,-3.559598](https://www.google.com/maps/search/?api=1&query=40.211994,-3.559598) :car: [Waze a PSC](https://waze.com/?ll=40.211994,-3.559598&navigate=yes)
+
+>**Tracks:**
+* [Track Raft - 12 Km](https://connect.garmin.com/modern/course/332137112)
+* [Track Walk - 11 Km](https://connect.garmin.com/modern/course/332137023)
+
+>**Historial**
+* N/A
+
 
 ## Aviso importante
 >*La información de este sitio sobre secciones de aguas bravas se basa en las experiencias y valoraciones de este sitio web. No pretende ser una guía profesional ni una recomendación absoluta. **El usuario es el único responsable de conocer sus limitaciones y evaluar los riesgos** antes de realizar cualquier actividad en el río. Las condiciones del río cambian constantemente y la información aquí podría no ser completamente precisa en el momento de su viaje. **Considere este sitio como un registro personal, no como una guía general de navegación en aguas bravas**. Este sitio queda exento de cualquier responsabilidad por daños o lesiones derivados del uso de esta información. Siempre consulte con guías profesionales y tome todas las medidas de seguridad necesarias antes de adentrarse en el río.*
