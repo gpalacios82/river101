@@ -6,7 +6,7 @@
 * [S7 - Río Jarama en Torremocha](./CHT-Jarama.md#río-jarama-en-torremocha-s7)
 * [S9 - Río Jarama de Valdetorres a Santo Domingo](./CHT-Jarama.md#río-jarama-de-valdetorres-a-santo-domingo-s9)
 * [Río Jarama PR Sureste](./CHT-Jarama.md#río-jarama-pr-sureste)
-* [Río Jarama: Presa del Rey – San Martín de la Vega](./CHT-Jarama.md#río-jarama-presa-del-rey--san-martín-de-la-vega)
+* [Río Jarama: Presa del Rey – San Martín de la Vega](./CHT-Jarama.md#río-jarama-presa-del-rey--san-martín-de-la-vega) :heavy_check_mark:
 
 ## Río Jarama en Uceda S6
 
@@ -180,8 +180,8 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 * **Cuenca:** CHT
 * **Río:** Jarama
 * **Sector:** Presa del Rey – San Martín de la Vega
-* **Dificultad:** G-I (pendiente de confirmar)
-* **Estación y Caudal:**  [AR17 - Jarama en Mejorada (aunque pasa por la Presa del rey E_22 que podria reducir caudal)](https://saihtajo.chtajo.es/)
+* **Dificultad:** G-I/II
+* **Estación y Caudal:**  [AR17 - Jarama en Mejorada](https://saihtajo.chtajo.es/)
 * **Fuente:** Wikiloc y google maps
 * **Tiempo total (aprox):** 06:00
 
@@ -203,7 +203,7 @@ Punto de embarque, por debajo de la *Presilla de Uceda*, MD:
 * [Track Walk - 11 Km](https://connect.garmin.com/modern/course/332137023)
 
 >**Historial**
-* N/A
+* [20250215 - 11,09m3/s](https://connect.garmin.com/modern/activity/18282074550)
 
 
 ## Aviso importante
